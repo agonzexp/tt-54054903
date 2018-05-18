@@ -8,8 +8,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;a1&gt;Connecting&lt;/a1&gt; with them can help to build up a network of support and make being at work more enjoyable.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084518Z" creationid="usuario" creationdate="20180515T084518Z">
-        <seg>&lt;a1&gt;Conectarte&lt;/a1&gt; con ellos puede ayudar a construir una red de apoyo y hacer que sea más ameno estar en el trabajo.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205338Z" creationid="usuario" creationdate="20180515T084518Z">
+        <seg>&lt;a1&gt;Conectar&lt;/a1&gt; con ellos puede ayudarte a construir una red de apoyo y hacer que sea más ameno estar en el trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,8 +64,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;If you don't feel supported, communicate this&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084223Z" creationid="usuario" creationdate="20180515T084223Z">
-        <seg>&lt;s0&gt;Si no te sientes apoyado, dilo&lt;/s0&gt;.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205425Z" creationid="usuario" creationdate="20180515T084223Z">
+        <seg>&lt;s0&gt;Si no te sientes apoyado, comunícalo&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="EN-GB">
         <seg>If you feel you can't talk to your boss, speak or write to your human resources department or trade union representative if you have one.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084324Z" creationid="usuario" creationdate="20180515T084324Z">
-        <seg>Si sientes que no puedes hablar con tu jefe, habla o escribe a su departamento de recursos humanos o representante sindical si dispones de uno.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205411Z" creationid="usuario" creationdate="20180515T084324Z">
+        <seg>Si sientes que no puedes hablarlo con tu jefe, habla o escribe a tu departamento de recursos humanos o representante sindical si dispones de uno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +602,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083213Z" creationid="usuario" creationdate="20180515T083213Z">
         <seg>Usa las &lt;s1&gt;vacaciones&lt;/s1&gt; a las que tienes derecho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Using his own experience, Simon issues advice to employers.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205530Z" creationid="usuario" creationdate="20180518T205530Z">
+        <seg>Simon aconseja a los empleados sobre estos temas desde su propia experiencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Was this page useful?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205306Z" creationid="usuario" creationdate="20180518T205306Z">
+        <seg>¿Te fue útil esta página?</seg>
       </tuv>
     </tu>
     <tu>
