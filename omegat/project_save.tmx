@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Try &lt;a1&gt;mindfulness&lt;/a1&gt;.&lt;/s0&gt; Focusing on the here and now can help you to create space to respond in new ways to situations.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164524Z" creationid="usuario" creationdate="20180518T164524Z">
+        <seg>&lt;s0&gt;Prueba la técnica del &lt;a1&gt;mindfulness&lt;/a1&gt;.&lt;/s0&gt; Si te centras en este tipo de ejercicio puede que te ayude a crear espacios para encontrar nuevas maneras de responder a ciertas situaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Try different coping techniques&lt;/s0&gt; to use as soon as you start to feel pressure building.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164047Z" creationid="usuario" creationdate="20180518T164047Z">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164004Z" creationid="usuario" creationdate="20180518T164004Z">
         <seg>Una vez que sepas qué es lo que funciona para ti, habla de ello con tu compañero de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The &lt;a2&gt;Be Mindful&lt;/a2&gt; website has tips on how to do this.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164544Z" creationid="usuario" creationdate="20180518T164544Z">
+        <seg>La página de &lt;a2&gt;Be Mindful&lt;/a2&gt; tiene trucos sobre cómo hacer esto.</seg>
       </tuv>
     </tu>
     <tu>
