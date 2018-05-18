@@ -4,6 +4,62 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Building resilience can help you to adapt to challenging circumstances.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163722Z" creationid="usuario" creationdate="20180518T163722Z">
+        <seg>Construir resistencia puede ayudarte a enfrentarte a estas circunstancias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Good stress management is important in the workplace.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163728Z" creationid="usuario" creationdate="20180518T163728Z">
+        <seg>Un buen control del estrés es importante en el lugar de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Here are some general things you can try:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163753Z" creationid="usuario" creationdate="20180518T163753Z">
+        <seg>Aquí hay algunas cosas generales que puedes probar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>I try to keep each task short and clear, take breaks when getting tired and be polite, honest and empathic with the people I work with.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163737Z" creationid="usuario" creationdate="20180518T163737Z">
+        <seg>Intento mantener cada tarea breve y clara, tomar descansos cuando empiezo a cansarme y ser amable, honesto y empático con las personas con las que trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you often experience feelings of stress, you might be at risk of developing a mental health problem, like depression or anxiety, and stress can also make existing problems worse.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163725Z" creationid="usuario" creationdate="20180518T163725Z">
+        <seg>Si experimentas a menudo momentos de estrés, puede que estés en riesgo de desarrollar un problema de salud mental, como la depresión o la ansiedad, y el estrés puede empeorar estos problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Work and stress</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163734Z" creationid="usuario" creationdate="20180518T163734Z">
+        <seg>Trabajo y estrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You don't need to cope with stress alone.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163749Z" creationid="usuario" creationdate="20180518T163749Z">
+        <seg>No tienes que lidiar con el estrés solo.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
