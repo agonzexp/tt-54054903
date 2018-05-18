@@ -1,0 +1,17 @@
+5/18/18 10:08 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	    1726	 7170	                      77847	                        82147	     4	
+Remaining:       	    1726	 7170	                      77847	                        82147	     4	
+Unique:          	     587	 3779	                      50592	                        53182	     4	
+Unique Remaining:	     587	 3779	                      50592	                        53182	     4	
+
+
+Individual File Statistics:
+
+File Name                                                                              	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+Getting support _ Mind.htm                                                             	           441	               441	            323	                      323	       2284	           2284	        1985	                  1985	                            26880	                                26880	                             24513	                                       24513	                              28423	                                  28423	                               25904	                                         25904	
+Useful contacts _ Mind, the mental health charity - help for mental health problems.htm	           438	               438	            127	                      127	       1566	           1566	         701	                   701	                            13912	                                13912	                              7026	                                        7026	                              14754	                                  14754	                                7434	                                          7434	
+Useful contacts _ Mind.htm                                                             	           443	               443	             88	                       88	       1538	           1538	         437	                   437	                            18403	                                18403	                              9395	                                        9395	                              19208	                                  19208	                                9641	                                          9641	
+What is stress_ _ Mind, the mental health charity - help for mental health problems.htm	           404	               404	             49	                       49	       1782	           1782	         656	                   656	                            18652	                                18652	                              9658	                                        9658	                              19762	                                  19762	                               10203	                                         10203	
