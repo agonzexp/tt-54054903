@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Recognising the&lt;/s0&gt; &lt;a1&gt;&lt;s2&gt;signs of stress&lt;/s2&gt;&lt;/a1&gt; and the causes is a good place to start.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164133Z" creationid="usuario" creationdate="20180518T164133Z">
+        <seg>&lt;s0&gt;Un buen camino para empezar es hallar los&lt;/s0&gt; &lt;a1&gt;&lt;s2&gt;indicios de estrés&lt;/s2&gt;&lt;/a1&gt; y sus causas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Try different coping techniques&lt;/s0&gt; to use as soon as you start to feel pressure building.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164047Z" creationid="usuario" creationdate="20180518T164047Z">
         <seg>&lt;s0&gt;Intenta realizar diferentes técnicas de adaptación&lt;/s0&gt; para usarlas cuando empieces a sentir cómo la presión aumenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Work out what you find stressful and helpful&lt;/s0&gt; in the workplace.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164126Z" creationid="usuario" creationdate="20180518T164126Z">
+        <seg>&lt;s0&gt;Intenta cuadrar aquello que encuentres estresante y que te ayude en el lugar de trabajo&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Be Mindful website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164455Z" creationid="usuario" creationdate="20180518T164455Z">
+        <seg>El sitio web de Be Mindful</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +98,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164014Z" creationid="usuario" creationdate="20180518T164014Z">
         <seg>Puede que sean capaces de hacer algunos cambios para ayudarte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Try the &lt;a1&gt;Stress Management Society&lt;/a1&gt; website for ideas.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164159Z" creationid="usuario" creationdate="20180518T164159Z">
+        <seg>Prueba la página de  &lt;a1&gt;Sociedad de control del estrés&lt;/a1&gt; para recoger ideas.</seg>
       </tuv>
     </tu>
     <tu>
