@@ -6,10 +6,114 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a1&gt;Connecting&lt;/a1&gt; with them can help to build up a network of support and make being at work more enjoyable.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084518Z" creationid="usuario" creationdate="20180515T084518Z">
+        <seg>&lt;a1&gt;Conectarte&lt;/a1&gt; con ellos puede ayudar a construir una red de apoyo y hacer que sea más ameno estar en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Ask for help&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082205Z" creationid="usuario" creationdate="20180515T082205Z">
+        <seg>&lt;s0&gt;Pedir ayuda&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Balance your time.&lt;/s0&gt; Occasionally you may need to work longer hours to get something done, but try to claim this time back later if you can.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082446Z" creationid="usuario" creationdate="20180515T082446Z">
+        <seg>&lt;s0&gt;Equilibra tu tiempo&lt;/s0&gt; Es posible que en ocasiones necesites trabajar más horas para terminar algo, pero trata de reclamar este tiempo más tarde si puedes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Be realistic&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082748Z" creationid="usuario" creationdate="20180515T082748Z">
+        <seg>&lt;s0&gt;Sé realista&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Develop end of day habits.&lt;/s0&gt; Do something at the end of each working day, such as tidying your desk or making a list of what needs to be done tomorrow.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083407Z" creationid="usuario" creationdate="20180515T083407Z">
+        <seg>&lt;s0&gt;Desarrolla actividades al final del día.&lt;/s0&gt; Haz algo al final de cada día laboral, como ordenar tu escritorio o hacer una lista de lo que tienes que hacer mañana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Develop good relationships&lt;/s0&gt; with your colleagues.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084422Z" creationid="usuario" creationdate="20180515T084422Z">
+        <seg>&lt;s0&gt;Consigue tener buenas relaciones&lt;/s0&gt; con tus colegas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Don't let your life be work&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083227Z" creationid="usuario" creationdate="20180515T083227Z">
+        <seg>&lt;s0&gt;No dejes que tu vida sea trabajo&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;If you don't feel supported, communicate this&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084223Z" creationid="usuario" creationdate="20180515T084223Z">
+        <seg>&lt;s0&gt;Si no te sientes apoyado, dilo&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Look after your physical health&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180511T141929Z" creationid="usuario" creationdate="20180511T141929Z">
+        <seg>&lt;s0&gt;Trata de cuidar tu salud física&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Make a&lt;/s0&gt; &lt;s1&gt;&lt;a2&gt;Wellness Action Plan&lt;/a2&gt;&lt;/s1&gt; to map out what causes you stress and what keeps you well at work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083955Z" creationid="usuario" creationdate="20180511T164226Z">
+        <seg>Haz un &lt;s0&gt;plan de acción de bienestar&lt;/s0&gt; para determinar qué te causa estrés y qué te hace sentir bien en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Recognising the&lt;/s0&gt; &lt;a1&gt;&lt;s2&gt;signs of stress&lt;/s2&gt;&lt;/a1&gt; and the causes is a good place to start.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164133Z" creationid="usuario" creationdate="20180518T164133Z">
         <seg>&lt;s0&gt;Un buen camino para empezar es hallar los&lt;/s0&gt; &lt;a1&gt;&lt;s2&gt;indicios de estrés&lt;/s2&gt;&lt;/a1&gt; y sus causas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Reward yourself for achievements.&lt;/s0&gt; It is easy to focus on what needs to be done next and forget to reward yourself for what you have already accomplished.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082729Z" creationid="usuario" creationdate="20180515T082729Z">
+        <seg>&lt;s0&gt;Siéntete orgulloso por lo que has logrado&lt;/s0&gt; Es fácil enfocarse en lo siguiente que se debe hacer y olvidarte de sentirte orgulloso por lo que ya has logrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Take short breaks&lt;/s0&gt; throughout the day as well as at least half-an-hour away from your desk at lunch.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082915Z" creationid="usuario" creationdate="20180515T082915Z">
+        <seg>&lt;s0&gt;Toma descansos cortos&lt;/s0&gt; durante el día así como mantenerte al menos media hora lejos de tu escritorio durante el almuerzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Take some time off&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083016Z" creationid="usuario" creationdate="20180515T083016Z">
+        <seg>&lt;s0&gt;Tómate un pequeño descanso.&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +150,66 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Being self-employed or freelancing involves working for yourself.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215822Z" creationid="usuario" creationdate="20180515T215822Z">
+        <seg>Ser autónomo o trabajar independientemente implica trabajar para ti mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Breathing strategies, having a mindset and thinking, 'I can do this!'</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T081950Z" creationid="usuario" creationdate="20180515T081950Z">
+        <seg>Estrategias de respiración, teniendo una mentalidad y pensando, '¡Puedo hacer esto!'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Building resilience can help you to adapt to challenging circumstances.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163722Z" creationid="usuario" creationdate="20180518T163722Z">
         <seg>Construir resistencia puede ayudarte a enfrentarte a estas circunstancias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Casual work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161126Z" creationid="usuario" creationdate="20180515T161126Z">
+        <seg>Trabajo informal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Casual work (or zero-hour contracts) is where you can choose whether to work the hours that are available to you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215214Z" creationid="usuario" creationdate="20180515T215214Z">
+        <seg>El trabajo informal (o contratos de cero horas) son aquellos donde puedes elegir si trabajar las horas disponibles para ti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Discuss your workload with your manager.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082245Z" creationid="usuario" creationdate="20180515T082245Z">
+        <seg>Comenta tu sobrecarga de trabajo con tu gerente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Don't do too much at once.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082451Z" creationid="usuario" creationdate="20180515T082451Z">
+        <seg>No hagas demasiado a la vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Everyone has the right to request flexible working once they have worked for the same employer for 26 weeks or more.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214939Z" creationid="usuario" creationdate="20180515T214939Z">
+        <seg>Todos tienen derecho a solicitar un trabajo con un horario flexible una vez que hayan estado trabajado para el mismo jefe por 26 semanas o más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +222,58 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Everyone needs a hand from time to time.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082215Z" creationid="usuario" creationdate="20180515T082215Z">
+        <seg>Todo el mundo necesita que le echen una mano de vez en cuando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>For information on how to request this, see the government's website on &lt;a0&gt;flexible working&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214824Z" creationid="usuario" creationdate="20180515T214824Z">
+        <seg>Para obtener información sobre cómo solicitarlo, visita el sitio web del gobierno sobre trabajo flexible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>For more ideas about coping with pressure and building resilience, see our pages on &lt;a0&gt;stress&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180511T142943Z" creationid="usuario" creationdate="20180511T142243Z">
+        <seg>Para más ideas sobre cómo enfrentarse a la presión y la creación la resiliencia, echa un vistazo a nuestras páginas en &lt;a0&gt;estrés&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Give each task your full attention.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082505Z" creationid="usuario" creationdate="20180515T082505Z">
+        <seg>Enfoca toda tu atención en cada tarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Go for a short walk outside if you can.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082938Z" creationid="usuario" creationdate="20180515T082938Z">
+        <seg>Sal a dar un paseo corto afuera si puedes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Good stress management is important in the workplace.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163728Z" creationid="usuario" creationdate="20180518T163728Z">
         <seg>Un buen control del estrés es importante en el lugar de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Having problems with your workload</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082117Z" creationid="usuario" creationdate="20180515T082117Z">
+        <seg>Tener problemas con tu sobrecarga de trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +286,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>I don't take on too much at one time, little steps are the way.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T081928Z" creationid="usuario" creationdate="20180515T081928Z">
+        <seg>No tomo demasiado al mismo tiempo, el camino correcto son pequeños pasos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>I try to keep each task short and clear, take breaks when getting tired and be polite, honest and empathic with the people I work with.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163737Z" creationid="usuario" creationdate="20180518T163737Z">
         <seg>Intento mantener cada tarea breve y clara, tomar descansos cuando empiezo a cansarme y ser amable, honesto y empático con las personas con las que trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If things get too much, taking a few days off or a long weekend can help you feel refreshed and actually increase your productivity in the long-run.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083145Z" creationid="usuario" creationdate="20180515T083145Z">
+        <seg>Si las cosas se ponen demasiado difíciles, tomarte unos días libres o un largo fin de semana puede ayudarte a sentirte renovado y aumentar tu productividad a largo plazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you feel you can't talk to your boss, speak or write to your human resources department or trade union representative if you have one.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084324Z" creationid="usuario" creationdate="20180515T084324Z">
+        <seg>Si sientes que no puedes hablar con tu jefe, habla o escribe a su departamento de recursos humanos o representante sindical si dispones de uno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,10 +326,242 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you're finding that you're feeling stressed because of a particular problem at work, here are some suggestions to manage common stressful situations:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082024Z" creationid="usuario" creationdate="20180515T082024Z">
+        <seg>Si notas que te empiezas a sentir estresado por un problema en particular en el trabajo, aquí hay algunas sugerencias para manejar situaciones estresantes comunes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It can involve working evenings, nights, mornings and weekends.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161440Z" creationid="usuario" creationdate="20180515T161440Z">
+        <seg>Puede implicar noches, tardes, mañanas y fines de semana de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It often takes longer if you try to do too much at the same time.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082543Z" creationid="usuario" creationdate="20180515T082543Z">
+        <seg>A menudo te lleva más tiempo si intentas hacer demasiado al mismo tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Lack of support</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083658Z" creationid="usuario" creationdate="20180515T083658Z">
+        <seg>Falta de apoyo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Make use of other support already on offer.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084041Z" creationid="usuario" creationdate="20180515T084041Z">
+        <seg>Haz uso de otro soporte ya en oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Nurture your outside relationships, interests and your skills that your job doesn't use.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083312Z" creationid="usuario" creationdate="20180515T083230Z">
+        <seg>Cultiva tus relaciones, intereses y habilidades externas de las que no haces uso en tu trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Once you know what works for you, talk to your employer about this.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164004Z" creationid="usuario" creationdate="20180518T164004Z">
         <seg>Una vez que sepas qué es lo que funciona para ti, habla de ello con tu compañero de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Others have internal systems such as mentoring or buddy systems.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084205Z" creationid="usuario" creationdate="20180515T084205Z">
+        <seg>Otros tienen sistemas internos como mentores o sistemas de amigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Part-time work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214943Z" creationid="usuario" creationdate="20180515T214943Z">
+        <seg>Trabajo a tiempo parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Part-time work is where you work fewer hours a day or fewer days a week.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215022Z" creationid="usuario" creationdate="20180515T215022Z">
+        <seg>En el trabajo a tiempo parcial trabajas menos horas al día o menos días a la semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Poor work-life balance</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082821Z" creationid="usuario" creationdate="20180515T082821Z">
+        <seg>Equilibrio trabajo-vida pobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible advantages of casual work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215250Z" creationid="usuario" creationdate="20180515T215238Z">
+        <seg>Posibles ventajas del trabajo casual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible advantages of part-time work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215035Z" creationid="usuario" creationdate="20180515T215035Z">
+        <seg>Posibles ventajas del trabajo a tiempo parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible advantages of self-employment</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215832Z" creationid="usuario" creationdate="20180515T215832Z">
+        <seg>Posibles ventajas del trabajo autónomo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible advantages of shift work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161412Z" creationid="usuario" creationdate="20180515T161412Z">
+        <seg>Posibles ventajas del trabajo por turnos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible advantages of working from home</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215557Z" creationid="usuario" creationdate="20180515T215557Z">
+        <seg>Posibles ventajas de trabajar desde casa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible disadvantages of casual</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215256Z" creationid="usuario" creationdate="20180515T215256Z">
+        <seg>Posibles desventajas del trabajo casual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible disadvantages of part-time work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215041Z" creationid="usuario" creationdate="20180515T215041Z">
+        <seg>Posibles desventajas del trabajo a tiempo parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible disadvantages of self-employment</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215838Z" creationid="usuario" creationdate="20180515T215838Z">
+        <seg>Posibles desventajas del trabajo autónomo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible disadvantages of shift work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161406Z" creationid="usuario" creationdate="20180515T161406Z">
+        <seg>Posibles desventajas del trabajo por turnos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible disadvantages of working from home</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215608Z" creationid="usuario" creationdate="20180515T215608Z">
+        <seg>Posibles desventajas de trabajar desde casa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Remote working</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215457Z" creationid="usuario" creationdate="20180515T215457Z">
+        <seg>Trabajo remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Remote working is where you can do some or all of your work from home or anywhere else other than the normal workplace.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215546Z" creationid="usuario" creationdate="20180515T215546Z">
+        <seg>El trabajo a distancia es aquel donde puedes hacer parte o la totalidad del trabajo desde tu casa o en cualquier otro lugar que no sea el lugar de trabajo corriente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>See our pages on &lt;a1&gt;physical activity &lt;/a1&gt;and &lt;a2&gt;food and mood &lt;/a2&gt;for more information on how this can help your mental health.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180511T142021Z" creationid="usuario" creationdate="20180511T142021Z">
+        <seg>Echa un vistazo a nuestras páginas en &lt;a1&gt;actividad física &lt;/a1&gt;y &lt;a2&gt;comida y moderación &lt;/a2&gt;para más información sobre cómo esto puede ayudar a tu salud mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>See the government website on &lt;a0&gt;self-employment rights&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T220207Z" creationid="usuario" creationdate="20180515T220207Z">
+        <seg>Visita la página web del gobierno sobre los derechos del &lt;a0&gt;empleo autónomo&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Self-employed</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215804Z" creationid="usuario" creationdate="20180515T215804Z">
+        <seg>Trabajadores autónomos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Shift work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161538Z" creationid="usuario" creationdate="20180515T161538Z">
+        <seg>Trabajo de turnos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Shift work takes place on a schedule outside the traditional nine-to-five day.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161527Z" creationid="usuario" creationdate="20180515T161527Z">
+        <seg>El turno de trabajo se lleva a cabo según una agenda ajena al horario tradicional de nueve a cinco días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Some organisations provide employee assistance programmes (EAPs) which give free advice and counselling.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084127Z" creationid="usuario" creationdate="20180515T084127Z">
+        <seg>Algunas organizaciones ofrecen programas de asistencia para empleados (PAE) que proveen consejos y asesoramiento gratuitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Talk about setting realistic targets and how you can solve any problems you're having.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082306Z" creationid="usuario" creationdate="20180515T082306Z">
+        <seg>Habla sobre establecer objetivos realistas y cómo puedes resolver cualquier problema que tengas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +582,50 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>This can help you to switch off from work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083414Z" creationid="usuario" creationdate="20180515T083414Z">
+        <seg>Esto puede ayudarte a desconectarte del trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Try the &lt;a1&gt;Stress Management Society&lt;/a1&gt; website for ideas.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164159Z" creationid="usuario" creationdate="20180518T164159Z">
         <seg>Prueba la página de  &lt;a1&gt;Sociedad de control del estrés&lt;/a1&gt; para recoger ideas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Use the &lt;s1&gt;holiday&lt;/s1&gt; you're entitled to.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083213Z" creationid="usuario" creationdate="20180515T083213Z">
+        <seg>Usa las &lt;s1&gt;vacaciones&lt;/s1&gt; a las que tienes derecho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>We will revise it in 2019.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205156Z" creationid="usuario" creationdate="20180518T205156Z">
+        <seg>Lo revisaremos en 2019.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What you can do to prevent or reduce stress</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082101Z" creationid="usuario" creationdate="20180515T082101Z">
+        <seg>Qué puedes hacer para prevenir o reducir el estrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What's making you stressed at work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082043Z" creationid="usuario" creationdate="20180515T082043Z">
+        <seg>Qué te está estresando en el trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +638,234 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>You don't have to be 'perfect' all the time.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082753Z" creationid="usuario" creationdate="20180515T082753Z">
+        <seg>No tienes que ser "perfecto" todo el tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>You don't need to cope with stress alone.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163749Z" creationid="usuario" creationdate="20180518T163749Z">
         <seg>No tienes que lidiar con el estrés solo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>ability to work from home or wherever suits you</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215936Z" creationid="usuario" creationdate="20180515T215936Z">
+        <seg>posibilidad de trabajar desde casa o donde mejor te venga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>better work-life balance</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215059Z" creationid="usuario" creationdate="20180515T215059Z">
+        <seg>mejor equilibrio entre la vida personal y laboral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>can usually end employment without serving a notice period</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215322Z" creationid="usuario" creationdate="20180515T215322Z">
+        <seg>por lo general, puede terminar el empleo sin publicar un período de notificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>difficulty switching off from work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215754Z" creationid="usuario" creationdate="20180515T215754Z">
+        <seg>dificultad para desconectar del trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>fewer employment rights.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T220106Z" creationid="usuario" creationdate="20180515T220106Z">
+        <seg>menos derechos de empleo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>fewer social interactions (this may be positive for some people &lt;s0&gt;–&lt;/s0&gt; for example, if you have social anxiety)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215713Z" creationid="usuario" creationdate="20180515T215713Z">
+        <seg>menos interacciones sociales (esto puede ser positivo para algunas personas&lt;s0&gt;-&lt;/s0&gt; por ejemplo, si sufres de ansiedad social)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>flexibility to choose the hours you work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215910Z" creationid="usuario" creationdate="20180515T215855Z">
+        <seg>flexibilidad para elegir las horas a trabajar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>government website on flexible working</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214758Z" creationid="usuario" creationdate="20180515T214758Z">
+        <seg>sitio web del gobierno sobre trabajo flexible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>greater autonomy</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215946Z" creationid="usuario" creationdate="20180515T215946Z">
+        <seg>mayor autonomía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>greater choice of hours of work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215308Z" creationid="usuario" creationdate="20180515T215308Z">
+        <seg>mayor elección de las horas de trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>greater choice over who you work with</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215943Z" creationid="usuario" creationdate="20180515T215943Z">
+        <seg>mayor elección sobre con quién trabajas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>greater flexibility</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161351Z" creationid="usuario" creationdate="20180515T161351Z">
+        <seg>mayor flexibilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>impact on your social life</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161131Z" creationid="usuario" creationdate="20180515T161131Z">
+        <seg>impacto en tu vida social</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>isolation and fewer social interactions (this may be a negative experience for some people)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215747Z" creationid="usuario" creationdate="20180515T215747Z">
+        <seg>aislamiento y menos interacciones sociales (esto puede ser una experiencia negativa para algunas personas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>less stability</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161307Z" creationid="usuario" creationdate="20180515T161307Z">
+        <seg>menos estabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>less support available from your employer</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215734Z" creationid="usuario" creationdate="20180515T215734Z">
+        <seg>menos ayuda disponible de tu jefe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>less time for training and development</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161547Z" creationid="usuario" creationdate="20180515T161547Z">
+        <seg>menos tiempo para el entrenamiento y el desarrollo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>less time to get to know your colleagues</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161555Z" creationid="usuario" creationdate="20180515T161555Z">
+        <seg>menos tiempo para conocer a tus compañeros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>lower income</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161611Z" creationid="usuario" creationdate="20180515T161611Z">
+        <seg>ingresos más bajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>no guaranteed hours of work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215337Z" creationid="usuario" creationdate="20180515T215337Z">
+        <seg>horas de trabajo no garantizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>no or limited travel</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215632Z" creationid="usuario" creationdate="20180515T215632Z">
+        <seg>viaje limitado o no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>not always entitled to statutory benefits (sick pay, annual leave, maternity pay etc)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215452Z" creationid="usuario" creationdate="20180515T215432Z">
+        <seg>no siempre se tiene derecho a los beneficios legales (pago por baja de enfermedad, vacaciones anuales pagadas, pago por baja de maternidad, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the option to work in a quieter environment with fewer distractions</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215618Z" creationid="usuario" creationdate="20180515T215618Z">
+        <seg>la opción de trabajar en un ambiente más tranquilo con menos distracciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>time in the day to attend medical appointments, study part-time, look after your wellbeing</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161348Z" creationid="usuario" creationdate="20180515T161348Z">
+        <seg>tener tiempo en el día para asistir a citas médicas, estudiar a tiempo parcial, cuidar de tu bienestar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>unreliable workload and uncertain income</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T220006Z" creationid="usuario" creationdate="20180515T220006Z">
+        <seg>sobrecarga de trabajo poco confiable e ingresos inciertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>working evenings and night shifts are linked with sleep problems</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161301Z" creationid="usuario" creationdate="20180515T161301Z">
+        <seg>las tardes de trabajo y los turnos nocturnos están relacionados con los problemas del sueño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>working late may suit someone who takes medication in the morning that makes them drowsy in the day</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161330Z" creationid="usuario" creationdate="20180515T161330Z">
+        <seg>Trabajar hasta tarde puede ser adecuado para alguien que toma medicamentos por la mañana que los adormece durante el día</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
