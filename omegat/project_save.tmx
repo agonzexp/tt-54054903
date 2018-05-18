@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Try different coping techniques&lt;/s0&gt; to use as soon as you start to feel pressure building.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164047Z" creationid="usuario" creationdate="20180518T164047Z">
+        <seg>&lt;s0&gt;Intenta realizar diferentes técnicas de adaptación&lt;/s0&gt; para usarlas cuando empieces a sentir cómo la presión aumenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Building resilience can help you to adapt to challenging circumstances.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163722Z" creationid="usuario" creationdate="20180518T163722Z">
         <seg>Construir resistencia puede ayudarte a enfrentarte a estas circunstancias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Everyone is different, it may take time to find a method that works for you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164122Z" creationid="usuario" creationdate="20180518T164122Z">
+        <seg>Todo el mundo es diferente, puede que te lleve tiempo encontrar un método efectivo para ti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +58,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163725Z" creationid="usuario" creationdate="20180518T163725Z">
         <seg>Si experimentas a menudo momentos de estrés, puede que estés en riesgo de desarrollar un problema de salud mental, como la depresión o la ansiedad, y el estrés puede empeorar estos problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Once you know what works for you, talk to your employer about this.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164004Z" creationid="usuario" creationdate="20180518T164004Z">
+        <seg>Una vez que sepas qué es lo que funciona para ti, habla de ello con tu compañero de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>They may be able to make some changes to help you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164014Z" creationid="usuario" creationdate="20180518T164014Z">
+        <seg>Puede que sean capaces de hacer algunos cambios para ayudarte.</seg>
       </tuv>
     </tu>
     <tu>
