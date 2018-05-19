@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you are off work for more than seven days in a row, you will need to get a '&lt;a0&gt;fit note&lt;/a0&gt;' from your GP or hospital doctor.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T181556Z" creationid="Ainhoa" creationdate="20180519T181556Z">
+        <seg>Si no acudes al trabajo durante más de siete días, debes obtener una "justificante médi" de su médico de cabecera o del hospital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If you are too unwell to work at the moment, you may need to take some time off from work.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180712Z" creationid="Ainhoa" creationdate="20180519T180712Z">
@@ -1192,8 +1200,16 @@
       <tuv lang="EN-GB">
         <seg>government website page on fit notes</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T181413Z" creationid="Ainhoa" creationdate="20180519T181413Z">
-        <seg>sitio web del gobierno sobre las bajas por enfermedad</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T181440Z" creationid="Ainhoa" creationdate="20180519T181413Z">
+        <seg>sitio web del gobierno sobre justificantes médicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>government website page on taking sick leave</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T181459Z" creationid="Ainhoa" creationdate="20180519T181459Z">
+        <seg>sitio web del gobierno sobre bajas por enfermedad</seg>
       </tuv>
     </tu>
     <tu>
