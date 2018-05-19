@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>0800 032 6233 (Wales)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185123Z" creationid="Ainhoa" creationdate="20180519T185123Z">
+        <seg>0800 032 6233 (Gales)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>0800 032 6235 (England)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185120Z" creationid="Ainhoa" creationdate="20180519T185120Z">
+        <seg>0800 032 6235 (Inglaterra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>0844 477 2020 (Wales)</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184342Z" creationid="Ainhoa" creationdate="20180519T184342Z">
@@ -222,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Advice and support on returning to work after four weeks or more on sick leave.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185225Z" creationid="Ainhoa" creationdate="20180519T185225Z">
+        <seg>Asesoramiento y apoyo para regresar al trabajo después de cuatro semanas o más de baja por enfermedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Be Mindful website</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164455Z" creationid="usuario" creationdate="20180518T164455Z">
@@ -362,6 +386,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082215Z" creationid="usuario" creationdate="20180515T082215Z">
         <seg>Todo el mundo necesita que le echen una mano de vez en cuando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Fit For Work website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185200Z" creationid="Ainhoa" creationdate="20180519T185200Z">
+        <seg>Sitio web Apto para trabajar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Fit for Work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185118Z" creationid="Ainhoa" creationdate="20180519T185118Z">
+        <seg>Apto para trabajar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>The helpline can advise and assist you on issues relating to equality and human rights, across England, Scotland and Wales.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184955Z" creationid="Ainhoa" creationdate="20180519T184955Z">
+        <seg>La línea de ayuda puede asesorarte y ayudarte en cuestiones relacionadas con la igualdad y los derechos humanos en Inglaterra, Escocia y Gales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>The possible benefits of talking about your mental health at work include:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173251Z" creationid="Ainhoa" creationdate="20180519T173251Z">
@@ -1554,6 +1602,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172950Z" creationid="Ainhoa" creationdate="20180519T165634Z">
         <seg>tomarse unos días libres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the government's GOV.UK website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185258Z" creationid="Ainhoa" creationdate="20180519T185258Z">
+        <seg>Sitio web GOV.UK del gobierno</seg>
       </tuv>
     </tu>
     <tu>
