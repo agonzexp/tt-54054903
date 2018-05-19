@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Others will require action or agreement from your employer.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175451Z" creationid="Ainhoa" creationdate="20180519T175451Z">
+        <seg>Otros requerirán la intervención o un acuerdo con tu jefe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Part-time work</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214943Z" creationid="usuario" creationdate="20180515T214943Z">
@@ -866,6 +874,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174745Z" creationid="Ainhoa" creationdate="20180519T174745Z">
         <seg>Puedes encontrar el WAP de ejemplo de Mind y una guía online para tu gerente sobre WAP &lt;a1&gt;aquí&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You can make some of the changes on your own.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175417Z" creationid="Ainhoa" creationdate="20180519T175417Z">
+        <seg>Puedes hacer algunos cambios por su cuenta.</seg>
       </tuv>
     </tu>
     <tu>
