@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Campaign to end stigma and discrimination against mental health.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190306Z" creationid="Ainhoa" creationdate="20180519T190306Z">
+        <seg>Campaña para terminar con el estigma y la discriminación contra la salud mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Casual work</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161126Z" creationid="usuario" creationdate="20180515T161126Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184236Z" creationid="Ainhoa" creationdate="20180519T184236Z">
         <seg>Información sobre mindfulness y reducción de estrés basado en mindfulness (MBSR), que incluye listados de cursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Information about stress and tips on how to cope.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190212Z" creationid="Ainhoa" creationdate="20180519T190159Z">
+        <seg>Información sobre el estrés y consejos sobre cómo lidiar con él..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Stress Management Society website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190153Z" creationid="Ainhoa" creationdate="20180519T190153Z">
+        <seg>Sociedad de manejo del estrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Supports disabled people to find and sustain employment.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190139Z" creationid="Ainhoa" creationdate="20180519T190139Z">
@@ -1246,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Time To Change website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190257Z" creationid="Ainhoa" creationdate="20180519T190257Z">
+        <seg>Sitio web Time To Change</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Time To Change's resource on talking about your mental health at work</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175206Z" creationid="Ainhoa" creationdate="20180519T175206Z">
@@ -1290,6 +1322,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205530Z" creationid="usuario" creationdate="20180518T205530Z">
         <seg>Simon aconseja a los empleados sobre estos temas desde su propia experiencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Volunteering Wales website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190323Z" creationid="Ainhoa" creationdate="20180519T190323Z">
+        <seg>Sitio web Volunteering Wales</seg>
       </tuv>
     </tu>
     <tu>
