@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>For example, if you often struggle to manage feelings of stress, you might develop a mental health problem like &lt;a1&gt;anxiety&lt;/a1&gt; or &lt;a2&gt;depression&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202940Z" creationid="Ainhoa" creationdate="20180519T202940Z">
+        <seg>Por ejemplo, si luchas a menudo para controlar los sentimientos de estrés, podrías desarrollar un problema de salud mental como la &lt;a1&gt;ansiedad&lt;/a1&gt; o la &lt;a2&gt;depresión&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>For further guidance, see our &lt;a0&gt;information on telling your employer&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180518T164130Z" creationid="Ainhoa" creationdate="20180518T164130Z">
