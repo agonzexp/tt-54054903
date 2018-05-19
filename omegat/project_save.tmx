@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;time-to-change.org.uk&lt;/a0&gt; (England)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200444Z" creationid="Ainhoa" creationdate="20180519T200427Z">
+        <seg>&lt;a0&gt;time-to-change.org.uk&lt;/a0&gt; (Inglaterra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;timetochangewales.org.uk &lt;/a0&gt;(Wales)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200450Z" creationid="Ainhoa" creationdate="20180519T200434Z">
+        <seg>&lt;a0&gt;timetochangewales.org.uk&lt;/a0&gt; (Gales)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a1&gt;Connecting&lt;/a1&gt; with them can help to build up a network of support and make being at work more enjoyable.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205338Z" creationid="usuario" creationdate="20180515T084518Z">
