@@ -182,6 +182,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Acas website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T183925Z" creationid="Ainhoa" creationdate="20180519T183925Z">
+        <seg>Sitio web de Acas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Advice and guidance on employment relations.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T183936Z" creationid="Ainhoa" creationdate="20180519T183936Z">
+        <seg>Asesoramiento y orientación sobre relaciones laborales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Be Mindful website</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164455Z" creationid="usuario" creationdate="20180518T164455Z">
@@ -522,6 +538,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T181928Z" creationid="Ainhoa" creationdate="20180519T181928Z">
         <seg>En la mayoría de los casos, tienes derecho a un subsidio legal por enfermedad de tu empleador durante los primeros 28 días que estés enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Information about mindfulness and mindfulness based stress reduction (MBSR), including course listings.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184236Z" creationid="Ainhoa" creationdate="20180519T184236Z">
+        <seg>Información sobre mindfulness y reducción de estrés basado en mindfulness (MBSR), que incluye listados de cursos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1026,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083213Z" creationid="usuario" creationdate="20180515T083213Z">
         <seg>Usa las &lt;s1&gt;vacaciones&lt;/s1&gt; a las que tienes derecho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Useful contacts</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T183903Z" creationid="Ainhoa" creationdate="20180519T183903Z">
+        <seg>Contactos útiles</seg>
       </tuv>
     </tu>
     <tu>
