@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>It's overwhelming.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201657Z" creationid="Ainhoa" creationdate="20180519T201657Z">
+        <seg>Es abrumador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It’s completely anonymous so you can express yourself openly.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200043Z" creationid="Ainhoa" creationdate="20180519T200043Z">
