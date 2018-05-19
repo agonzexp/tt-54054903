@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Causes of stress</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201744Z" creationid="Ainhoa" creationdate="20180519T201744Z">
+        <seg>Causas del estrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Changing something about your working environment or the way you do your job may help you to stay well and work more effectively.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175409Z" creationid="Ainhoa" creationdate="20180519T175409Z">
@@ -1262,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Sometimes you can't see beyond the thick fog of stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201728Z" creationid="Ainhoa" creationdate="20180519T201728Z">
+        <seg>A veces no puedes ver más allá de la espesa niebla de estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Specialist information on stress for employers and employees.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200103Z" creationid="Ainhoa" creationdate="20180519T200103Z">
@@ -1394,6 +1410,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173251Z" creationid="Ainhoa" creationdate="20180519T173251Z">
         <seg>Los posibles beneficios de hablar sobre tu salud mental en el trabajo incluyen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>There's no medical definition of stress, and health care professionals often disagree over whether stress is the cause of problems or the result of them.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201820Z" creationid="Ainhoa" creationdate="20180519T201820Z">
+        <seg>No existe una definición médica de estrés, y los profesionales de la salud a menudo no están de acuerdo en si el estrés es la causa de los problemas o el resultado de ellos.</seg>
       </tuv>
     </tu>
     <tu>
