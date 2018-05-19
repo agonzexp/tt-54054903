@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Equality Act 2010</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173405Z" creationid="Ainhoa" creationdate="20180519T173405Z">
+        <seg>Ley de Igualdad 2010</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Everyone has the right to request flexible working once they have worked for the same employer for 26 weeks or more.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214939Z" creationid="usuario" creationdate="20180515T214939Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163753Z" creationid="usuario" creationdate="20180518T163753Z">
         <seg>Aquí hay algunas cosas generales que puedes probar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>However if your mental health problem is considered a disability within the meaning of the &lt;a1&gt;Equality Act&lt;/a1&gt;, you will have a right to reasonable adjustments &lt;s2&gt;–&lt;/s2&gt; but to get them, your employer must know about your disability.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173444Z" creationid="Ainhoa" creationdate="20180519T173444Z">
+        <seg>Sin embargo, si tu problema de salud mental se considera una discapacidad acorde a la Ley de Igualdad, tendrá derecho a ajustes razonables, pero para obtenerlos, tu jefe debe conocer tu discapacidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +642,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082306Z" creationid="usuario" creationdate="20180515T082306Z">
         <seg>Habla sobre establecer objetivos realistas y cómo puedes resolver cualquier problema que tengas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Telling anyone about your mental health is a personal choice &lt;s0&gt;–&lt;/s0&gt; there is no right or wrong answer.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173411Z" creationid="Ainhoa" creationdate="20180519T173411Z">
+        <seg>Contar tus problemas de salud mental es una decisión personal&lt;s0&gt;-&lt;/s0&gt; no hay respuestas correctas o incorrectas.</seg>
       </tuv>
     </tu>
     <tu>
