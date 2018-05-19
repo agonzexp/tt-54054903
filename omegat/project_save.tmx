@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;being a carer&lt;/a0&gt; for a friend or relative who needs lots of support.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205010Z" creationid="usuario" creationdate="20180519T205010Z">
+        <seg>&lt;a0&gt;cuidar de&lt;/a0&gt; un amigo o pariente que necesita mucho apoyo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;housing problems&lt;/a0&gt; such as poor living conditions, lack of security or homelessness</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205156Z" creationid="usuario" creationdate="20180519T205156Z">
+        <seg>&lt;a0&gt;problemas de vivienda&lt;/a0&gt;, así como malas condiciones de vida, falta de seguridad o no tener una vivienda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a0&gt;time-to-change.org.uk&lt;/a0&gt; (England)</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200444Z" creationid="Ainhoa" creationdate="20180519T200427Z">
@@ -114,6 +130,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202110Z" creationid="Ainhoa" creationdate="20180519T202110Z">
         <seg>&lt;s0&gt;&lt;a1&gt;Gestionando las presiones externas&lt;/a1&gt;, &lt;/s0&gt; de esta forma no sentirás que las situaciones estresantes se te presentan con mucha frecuencia </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;&lt;s1&gt;Listen to how they are feeling.&lt;/s1&gt; &lt;/s0&gt;Having a chance to talk openly could help someone to feel calmer and more able to move forward. Just being there for them will probably help lots.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211618Z" creationid="usuario" creationdate="20180519T211618Z">
+        <seg>&lt;s0&gt;Escucha cómo se siente&lt;s1&gt; Tener la oportunidad de hablar abiertamente podría ayudar a que alguien se sienta más tranquilo y capaz de seguir adelante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +190,38 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Help them &lt;a1&gt;address some causes of stress&lt;/a1&gt;&lt;/s0&gt;, if you can.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212259Z" creationid="usuario" creationdate="20180519T212259Z">
+        <seg>&lt;s0&gt;Ayúdale &lt;a1&gt;a abordar algunas causas del estrés&lt;/a1&gt;&lt;/s0&gt;, si puedes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Help them &lt;a1&gt;identify their triggers.&lt;/a1&gt;&lt;/s0&gt; You can be specific about things you've observed, but try to stay open-minded and non-judgemental.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212003Z" creationid="usuario" creationdate="20180519T212003Z">
+        <seg>&lt;s0&gt;Ayúdale &lt;a1&gt;a identificar sus desencadenantes.&lt;/a1&gt;&lt;/s0&gt;Puedes ser específico sobre las cosas que has observado, pero trata de mantener tu mente abierta y sin prejuicios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Help them learn and practise &lt;a1&gt;relaxation techniques&lt;/a1&gt;.&lt;/s0&gt; You could help them research good relaxation techniques and find ways to practise them, such as a weekly yoga class, or setting aside time for breathing exercises at home.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212554Z" creationid="usuario" creationdate="20180519T212554Z">
+        <seg>&lt;s0&gt;Ayúdale a aprender y practicar &lt;a1&gt;técnicas de relajación&lt;/a1&gt;.&lt;/s0&gt; Podrías ayudarle a hallar buenas técnicas de relajación así como formas de practicarlas, como una clase de yoga semanal, o hacer tiempo para practicar ejercicios de respiración en el hogar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Help them reflect on whether they are stressed.&lt;/s0&gt; Often, people don’t notice that some physical symptoms and behaviour (such as not being able to get to sleep, or drinking more than usual) are actually &lt;a1&gt;signs of stress&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211352Z" creationid="usuario" creationdate="20180519T211352Z">
+        <seg>&lt;s0&gt;Ayúdale a reflexionar sobre si está estresado.&lt;/s0&gt; A menudo, las personas no se dan cuenta de que algunos síntomas y comportamientos físicos (como no poder conciliar el sueño o beber más de lo normal) son en realidad signos de estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;If you don't feel supported, communicate this&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205425Z" creationid="usuario" creationdate="20180515T084223Z">
@@ -178,6 +234,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180511T141929Z" creationid="usuario" creationdate="20180511T141929Z">
         <seg>&lt;s0&gt;Trata de cuidar tu salud física&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Look after yourself.&lt;/s0&gt; If someone around you is very stressed, you might become stressed too.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T213544Z" creationid="usuario" creationdate="20180519T213544Z">
+        <seg>&lt;s0&gt;Cuida de ti mismo&lt;/s0&gt; Si alguien de tu alrededor está muy estresado, es posible que tú también acabes estresándote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +266,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201629Z" creationid="Ainhoa" creationdate="20180519T201355Z">
         <seg>&lt;s0&gt;Nuestra reacción ante la presión:&lt;/s0&gt; cómo nos sentimos cuando tenemos responsabilidades con las que nos resultan difícil lidiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Reassure them that stressful situations can pass.&lt;/s0&gt; For someone who is in the middle of a stressful time, it can be hard to see an end point.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211816Z" creationid="usuario" creationdate="20180519T211816Z">
+        <seg>&lt;s0&gt;Asegúrale que los momentos estresantes tienen un final&lt;/s0&gt; Puede ser difícil ver un punto final para aquellos quienes están pasando por un momento estresante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +314,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202845Z" creationid="Ainhoa" creationdate="20180519T202845Z">
         <seg>&lt;s0&gt;El estrés puede causar problemas de salud mental&lt;/s0&gt; y empeorar problemas ya existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Support them to seek professional help.&lt;/s0&gt; For example, you could help them contact their GP, go with them to an appointment or do some research on mental health and wellbeing (see our page on &lt;a1&gt;helping someone else seek help&lt;/a1&gt; for lots more ideas).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212931Z" creationid="usuario" creationdate="20180519T212931Z">
+        <seg>&lt;s0&gt;Dale apoyo para acudir a una ayuda profesional.&lt;/s0&gt; Por ejemplo, podrías ayudarle a ponerse en contacto con su médico de cabecera, asistir con él a una cita o investigar sobre la salud mental y el bienestar (consulte nuestra página en &lt;a1&gt;ayudar a otra persona a buscar ayuda&lt;/a1&gt; para muchas más ideas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;how experienced you are at &lt;/s0&gt;&lt;a1&gt;dealing with that particular type of pressure&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203749Z" creationid="usuario" creationdate="20180519T203726Z">
+        <seg>&lt;s0&gt;tu experiencia &lt;/s0&gt;lidiando con ese tipo particular de presión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;how many hours you can work&lt;/s0&gt; &lt;s1&gt;–&lt;/s1&gt; do you have other commitments that take up your time?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T100943Z" creationid="usuario" creationdate="20180515T094444Z">
+        <seg>&lt;s0&gt;cuántas horas puedes trabajar&lt;/s0&gt; &lt;s1&gt;–&lt;/s1&gt; ¿tienes algún otro compromiso que ocupe tu tiempo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;talking to your manager in private&lt;/s0&gt; during supervision or requesting a one-to-one meeting</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173829Z" creationid="Ainhoa" creationdate="20180519T173829Z">
@@ -314,6 +410,46 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174413Z" creationid="Ainhoa" creationdate="20180519T174413Z">
         <seg>&lt;s0&gt;qué te gustaría decir durante la reunión.&lt;/s0&gt;. Es posible que te ayude llevar algunas notas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;when you can work them&lt;/s0&gt; &lt;s1&gt;–&lt;/s1&gt; do you need time during the day to go to appointments, or evenings free for child care?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094612Z" creationid="usuario" creationdate="20180515T094612Z">
+        <seg>&lt;s0&gt;cuándo puedes trabajarlos&lt;/s0&gt; &lt;s1&gt;–&lt;/s1&gt; ¿necesitas tiempo durante el día para asistir a citas, o tardes libres para cuidar a tus niños?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;where you work&lt;/s0&gt; &lt;s1&gt;–&lt;/s1&gt; how long do you want to commute?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T100729Z" creationid="usuario" creationdate="20180515T094650Z">
+        <seg>&lt;s0&gt;dónde trabajas&lt;/s0&gt; &lt;s1&gt;–&lt;/s1&gt; ¿por cuánto tiempo quieres trabajar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;who you work with&lt;/s0&gt; &lt;s1&gt;–&lt;/s1&gt; do you prefer to work on your own, or with other people?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094707Z" creationid="usuario" creationdate="20180515T094707Z">
+        <seg>&lt;s0&gt;con quién trabajas&lt;/s0&gt; &lt;s1&gt;–&lt;/s1&gt; ¿prefieres trabajar solo o con otras personas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;your &lt;/s0&gt;&lt;a1&gt;emotional resilience&lt;/a1&gt; to stressful situations</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203820Z" creationid="usuario" creationdate="20180519T203739Z">
+        <seg>&lt;s0&gt;tu &lt;/s0&gt;&lt;a1&gt;capacidad de recuperación emocional&lt;/a1&gt; en situaciones estresantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;your perception of the situation&lt;/s0&gt; – this might be connected to your past experiences, your &lt;a1&gt;self-esteem&lt;/a1&gt;, and how your thought processes work (for example, if you tend to interpret things positively or negatively)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203614Z" creationid="usuario" creationdate="20180519T203614Z">
+        <seg>&lt;s0&gt;tu percepción de la situación&lt;/s0&gt;: esto podría estar relacionado con experiencias pasadas tuyas, tu autoestima y cómo funcionan tus procesos de pensamiento (por ejemplo, si tiendes a interpretar las cosas de manera positiva o negativa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Being calm and relaxed will make you more able to help someone else.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T213725Z" creationid="usuario" creationdate="20180519T213725Z">
+        <seg>Si estás calmado y relajado serás más capaz de ayudar a otra persona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Being self-employed or freelancing involves working for yourself.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215822Z" creationid="usuario" creationdate="20180515T215822Z">
@@ -438,10 +582,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>But because they can bring big changes or make unusual demands on you, they can still be very stressful.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205720Z" creationid="usuario" creationdate="20180519T205720Z">
+        <seg>Sin embargo, puesto que pueden conllevar grandes cambios o requerir demasiado de tu parte, pueden ser también muy estresantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>But if you often become overwhelmed by stress, these feelings could start to be a problem for you.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202715Z" creationid="Ainhoa" creationdate="20180519T202715Z">
         <seg>Pero si a menudo te sientes agobiado por el estrés, estos sentimientos podrían comenzar a ser un problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>But if you're feeling low or usually prefer not to be the centre of attention, this situation might cause you to experience &lt;a0&gt;signs of stress&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204241Z" creationid="usuario" creationdate="20180519T204241Z">
+        <seg>Pero si estás de bajón o, por lo general, prefieres no ser el centro de atención, esta situación podría provocarte sentir &lt;a0&gt;signos de estrés&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +634,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190306Z" creationid="Ainhoa" creationdate="20180519T190306Z">
         <seg>Campaña para terminar con el estigma y la discriminación contra la salud mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Can happy events cause stress?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205455Z" creationid="usuario" creationdate="20180519T205455Z">
+        <seg>¿Pueden los momentos felices causar estrés?</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Employment and study</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205013Z" creationid="usuario" creationdate="20180519T205013Z">
+        <seg>Empleo y estudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Equality Act 2010</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173405Z" creationid="Ainhoa" creationdate="20180519T173405Z">
@@ -606,6 +782,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Feelings of stress are normally triggered by things happening in your life which involve:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202817Z" creationid="usuario" creationdate="20180519T202454Z">
+        <seg>Los sentimientos de estrés se crean a partir de los hábitos del día a día que implican:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Figuring out what type of work suits your needs can help you feel better able to manage your mental health while working.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094319Z" creationid="usuario" creationdate="20180515T094319Z">
+        <seg>Descubrir qué tipo de trabajo se acopla a tus necesidades puede ayudarte a sentirte mejor, controlando tu salud mental mientras trabajas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Fit For Work website</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185200Z" creationid="Ainhoa" creationdate="20180519T185200Z">
@@ -622,10 +814,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Flexible working</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095443Z" creationid="usuario" creationdate="20180515T095443Z">
+        <seg>Trabajo de horario flexible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>For example, if you often struggle to manage feelings of stress, you might develop a mental health problem like &lt;a1&gt;anxiety&lt;/a1&gt; or &lt;a2&gt;depression&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202940Z" creationid="Ainhoa" creationdate="20180519T202940Z">
         <seg>Por ejemplo, si luchas a menudo para controlar los sentimientos de estrés, podrías desarrollar un problema de salud mental como la &lt;a1&gt;ansiedad&lt;/a1&gt; o la &lt;a2&gt;depresión&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>For example, if you're feeling confident or usually enjoy public speaking, you might find that giving a speech in front of people feels comfortable and fun.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204054Z" creationid="usuario" creationdate="20180519T204054Z">
+        <seg>Por ejemplo, si te sientes seguro o, por lo general, disfrutas hablando en público, es posible que te resulte cómodo y divertido dar un discurso frente a más personas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204525Z" creationid="usuario" creationdate="20180519T204525Z">
+        <seg>Por ejemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +890,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182035Z" creationid="Ainhoa" creationdate="20180519T181950Z">
         <seg>Para más información, visita el sitio web del gobierno para obtener &lt;a1&gt;bajas por enfermedad&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Friends and family</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204722Z" creationid="usuario" creationdate="20180519T204722Z">
+        <seg>Amigos y familia</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +974,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Housing</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205117Z" creationid="usuario" creationdate="20180519T205117Z">
+        <seg>Vivienda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>How can other people help?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211100Z" creationid="usuario" creationdate="20180519T211100Z">
+        <seg>¿Cómo pueden ayudar otras personas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>How do I tell my manager?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173619Z" creationid="Ainhoa" creationdate="20180519T173619Z">
@@ -774,6 +1014,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>I ended up getting really ill.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T210147Z" creationid="usuario" creationdate="20180519T210147Z">
+        <seg>Acabé realmente enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>I find it useful to create spaces in the day when I can stop, reflect and address some of the difficulties in the day.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094927Z" creationid="usuario" creationdate="20180515T094927Z">
+        <seg>Creo que es útil disponer de espacios libres durante el día donde puedo parar, reflexionar y abordar dificultades del día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>I get stressed when things get out of perspective – too much work, thinking too far ahead.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204344Z" creationid="usuario" creationdate="20180519T204344Z">
+        <seg>Yo me estreso cuando las cosas se me desbordan: demasiado trabajo, pensando demasiado en el futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>I try to keep each task short and clear, take breaks when getting tired and be polite, honest and empathic with the people I work with.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163737Z" creationid="usuario" creationdate="20180518T163737Z">
@@ -790,10 +1054,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>I've never been more stressed in my life than the 6 months leading up to my wedding... everyone kept asking me if I was happy and expecting me to be excited all the time, but I just couldn't feel it.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T210115Z" creationid="usuario" creationdate="20180519T210115Z">
+        <seg>Nunca había estado tan estresado en mi vida como lo estuve los seis meses antes de mi boda... todos me preguntaban si estaba feliz y esperaban que estuviese emocionado todo el tiempo, pero simplemente no podía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If someone you're close to is feeling stressed there are lots of practical things you can do to support them – even though you probably can't change the situation they're in.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211238Z" creationid="usuario" creationdate="20180519T211238Z">
+        <seg>Si alguien cercano a ti padece de estrés, hay muchas cosas prácticas que puedes hacer para apoyarle, aunque probablemente no puedas cambiar la situación en la que se encuentra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If things get too much, taking a few days off or a long weekend can help you feel refreshed and actually increase your productivity in the long-run.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083145Z" creationid="usuario" creationdate="20180515T083145Z">
         <seg>Si las cosas se ponen demasiado difíciles, tomarte unos días libres o un largo fin de semana puede ayudarte a sentirte renovado y aumentar tu productividad a largo plazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If this happens, try to take a step back and look after your own wellbeing.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T213646Z" creationid="usuario" creationdate="20180519T213646Z">
+        <seg>Si ocurre esto, trata de dar un paso atrás y cuidar tu propio bienestar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +1162,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175919Z" creationid="Ainhoa" creationdate="20180519T175919Z">
         <seg>Aunque la ley de &lt;a0&gt;Acto de Igualdad&lt;/a0&gt; no te cubre, tu jefe debería apoyarte en función de lo que es mejor para ti en tu puesto de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you've noticed that someone seems particularly busy, anxious or unwell, you could gently let them know, and ask how you can help.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211518Z" creationid="usuario" creationdate="20180519T211518Z">
+        <seg>Si has notado que alguien parece particularmente ocupado, ansioso o indispuesto, puede hacérselo saber gentilmente y preguntarle cómo le puedes ayudar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>It's amazing how good a single hug can feel.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212736Z" creationid="usuario" creationdate="20180519T212736Z">
+        <seg>Es increíble lo bien que te puede hacer sentir solo un abrazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It's overwhelming.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201657Z" creationid="Ainhoa" creationdate="20180519T201657Z">
@@ -1054,10 +1358,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Let them know that situations change and can get better.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211842Z" creationid="usuario" creationdate="20180519T211842Z">
+        <seg>Hazles saber que las situaciones cambian y pueden mejorar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Lists stress practitioners by specialist area.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200159Z" creationid="Ainhoa" creationdate="20180519T200159Z">
         <seg>Listas de especialistas de estrés por área especializada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Lots of things stress me at the moment, mainly worries about my memory, as I'm a pensioner with nothing to do all day.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203249Z" creationid="usuario" creationdate="20180519T203249Z">
+        <seg>Muchas cosas me estresan en este momento, principalmente preocupaciones sobre mi memoria, ya que soy un pensionista sin nada que hacer todo el día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,6 +1446,38 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Money</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205212Z" creationid="usuario" creationdate="20180519T205212Z">
+        <seg>Dinero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Money and mental health</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205231Z" creationid="usuario" creationdate="20180519T205231Z">
+        <seg>Dinero y salud mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>My breakdown [...] was due to having a stressful job as a project manager and dealing with a marriage break up and subsequent divorce.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205439Z" creationid="usuario" creationdate="20180519T205439Z">
+        <seg>Mi crisis  [...] se debió a tener un trabajo estresante como gerente de proyecto y a lidiar con una ruptura matrimonial y su consecuente divorcio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>My employer gives me the chance to [do a] more flexible working hour schedule, as long as the work is done.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095431Z" creationid="usuario" creationdate="20180515T095431Z">
+        <seg>Mi jefe me da la oportunidad de tener un horario más flexible de trabajo siempre y cuando termine el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>My employer understands exactly what it is I'm going through.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180234Z" creationid="Ainhoa" creationdate="20180519T180234Z">
@@ -1138,6 +1490,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185908Z" creationid="Ainhoa" creationdate="20180519T185908Z">
         <seg>Consejo Nacional de Organizaciones Voluntarias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Not putting extra pressure on me... letting me know they're there but that I don't have to do anything.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T214230Z" creationid="usuario" creationdate="20180519T212202Z">
+        <seg>No me presionéis más... diciéndome saber que están ahí, pero que no tengo que hacer nada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Parenting with a mental health problem</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204607Z" creationid="usuario" creationdate="20180519T204607Z">
+        <seg>ser padres con un problema de salud mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Part-time work</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214943Z" creationid="usuario" creationdate="20180515T214943Z">
@@ -1210,6 +1578,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215250Z" creationid="usuario" creationdate="20180515T215238Z">
         <seg>Posibles ventajas del trabajo casual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible advantages of flexible working</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095934Z" creationid="usuario" creationdate="20180515T095934Z">
+        <seg>Posibles ventajas de un trabajo de horario flexible</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,6 +1626,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215256Z" creationid="usuario" creationdate="20180515T215256Z">
         <seg>Posibles desventajas del trabajo casual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Possible disadvantages of flexible working</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095955Z" creationid="usuario" creationdate="20180515T095955Z">
+        <seg>Posibles desventajas de un trabajo de horario flexible</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Self-esteem</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203446Z" creationid="usuario" creationdate="20180519T203446Z">
+        <seg>Autoestima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Shift work</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161538Z" creationid="usuario" creationdate="20180515T161538Z">
@@ -1422,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Some of the situations listed above are often thought of as happy events – for example, you might feel expected to be happy or excited about getting married or having a baby.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205548Z" creationid="usuario" creationdate="20180519T205548Z">
+        <seg>Algunas de las situaciones enumeradas anteriormente a menudo se consideran eventos felices; por ejemplo, es posible que te sientas feliz o emocionado por casarte o tener un bebé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Some organisations provide employee assistance programmes (EAPs) which give free advice and counselling.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084127Z" creationid="usuario" creationdate="20180515T084127Z">
@@ -1434,6 +1834,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201728Z" creationid="Ainhoa" creationdate="20180519T201728Z">
         <seg>A veces no puedes ver más allá de la espesa niebla de estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Sometimes you may be able to see it before they recognise it themselves.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211433Z" creationid="usuario" creationdate="20180519T211433Z">
+        <seg>A veces, es posible que tú te des cuenta antes que ellos mismos lo reconozcan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Stress can be caused by a variety of different common life events, many of which are difficult to avoid.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204522Z" creationid="usuario" creationdate="20180519T204412Z">
+        <seg>El estrés puede originarse por una variedad de diversos eventos de la vida común, muchos de los cuales son difíciles de evitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Stress isn't a psychiatric diagnosis, but it's closely linked to your mental health in two important ways:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202745Z" creationid="Ainhoa" creationdate="20180519T202745Z">
@@ -1482,6 +1898,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190125Z" creationid="Ainhoa" creationdate="20180519T190125Z">
         <seg>Apoyo a personas con discapacidades para encontrar y permanecer en un trabajo adecuado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Symptoms of stress</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203916Z" creationid="usuario" creationdate="20180519T203916Z">
+        <seg>Causas del estrés</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>The amount of stress you feel in different situations may depend on many factors such as:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203434Z" creationid="usuario" creationdate="20180519T203434Z">
+        <seg>La cantidad de estrés que sientes en diferentes situaciones puede depender de muchos factores, tales como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>The helpline can advise and assist you on issues relating to equality and human rights, across England, Scotland and Wales.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184955Z" creationid="Ainhoa" creationdate="20180519T184955Z">
@@ -1582,10 +2014,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>There are lots of different types of work, with different advantages and disadvantages:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094958Z" creationid="usuario" creationdate="20180515T094958Z">
+        <seg>Hay muchos tipos de trabajo diferentes, con diversas ventajas y desventajas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>There could be many reasons for this, as when we feel stressed we often find it hard to sleep or eat well, and poor diet and lack of sleep can both affect our physical health.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203951Z" creationid="Ainhoa" creationdate="20180519T203951Z">
         <seg>Hay muchas razones para esto, ya que cuando nos sentimos estresados, a menudo nos resulta difícil dormir o comer bien, y la mala alimentación y la falta de sueño pueden afectar a nuestra salud física.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>There might be one big thing causing you stress, but stress can also be caused by a build-up of small pressures.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203129Z" creationid="usuario" creationdate="20180519T203129Z">
+        <seg>Puede que sea una cosa en concreto la que te cause estrás, pero también puede causarlo una acumulación de pequeños desafíos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +2066,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164014Z" creationid="usuario" creationdate="20180518T164014Z">
         <seg>Puede que sean capaces de hacer algunos cambios para ayudarte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This can be particularly difficult to deal with, because you might feel there's additional pressure on you to be positive.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T210000Z" creationid="usuario" creationdate="20180519T210000Z">
+        <seg>Esto puede ser bastante difícil de tratar, pues puede que sientas aún más presión por mantenerte positivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,10 +2142,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>This might become something that you could do together.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212632Z" creationid="usuario" creationdate="20180519T212632Z">
+        <seg>Esto podría convertirse en algo que pudieseis hacer juntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This might make it harder for you to identify what's making you feel stressed, or to explain it to other people.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203226Z" creationid="usuario" creationdate="20180519T203226Z">
+        <seg>Esto te puede dificultar reconocer lo que te está causando el estrés o explicárselo a otras personas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>This page covers:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165405Z" creationid="Ainhoa" creationdate="20180519T165405Z">
         <seg>Esta página cubre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This page is for friends and family of someone who is experiencing stress, who want to support them.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211137Z" creationid="usuario" creationdate="20180519T211137Z">
+        <seg>Esta página está dirigida a los amigos y familiares de alguien que esté padeciendo de estrés que quieran apoyarlos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +2202,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164159Z" creationid="usuario" creationdate="20180518T164159Z">
         <seg>Prueba la página de  &lt;a1&gt;Sociedad de control del estrés&lt;/a1&gt; para recoger ideas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Trying to fill my day is hard as I have arthritis so can’t walk too far.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203342Z" creationid="usuario" creationdate="20180519T203342Z">
+        <seg>Tratar de llenar mi día es difícil porque padezco de artritis, así que no puedo andar hasta demasiado lejos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Types of work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094039Z" creationid="usuario" creationdate="20180515T094039Z">
+        <seg>Tipos de trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,6 +2294,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>We're all different, so a situation that doesn't bother you at all might cause someone else a lot of stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203950Z" creationid="usuario" creationdate="20180519T203950Z">
+        <seg>Todos somos diferentes, por lo que una situación que no a ti te molesta puede causarle mucho estrés a otra persona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What causes stress?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204432Z" creationid="usuario" creationdate="20180519T202453Z">
+        <seg>¿Qué causa estrés?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>What changes can I ask for at work?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175258Z" creationid="Ainhoa" creationdate="20180519T175258Z">
@@ -1818,6 +2330,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200918Z" creationid="Ainhoa" creationdate="20180519T200918Z">
         <seg>¿Qué es el estrés?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What kind of situations can cause stress?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204349Z" creationid="usuario" creationdate="20180519T204349Z">
+        <seg>¿Qué tipo de situaciones pueden causar estrés?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>When deciding what sort of work would suit you, you might want to think about:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094412Z" creationid="usuario" creationdate="20180515T094412Z">
+        <seg>Cuando decidas qué tipo de trabajo es para ti, puede que quieras saber sobre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>When we say things like "this is stressful" or "I'm stressed", we might be talking about:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201151Z" creationid="Ainhoa" creationdate="20180519T201151Z">
@@ -1870,10 +2398,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Why do certain things make me feel stressed?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203356Z" creationid="usuario" creationdate="20180519T203356Z">
+        <seg>¿Por qué me estresan ciertas cosas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Why does stress affect me physically?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203719Z" creationid="Ainhoa" creationdate="20180519T203605Z">
         <seg>¿Me afecta el estrés físicamente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>With flexible working, you work a set number of hours (possibly full or part-time) but have greater control over when you work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T101057Z" creationid="usuario" creationdate="20180515T095747Z">
+        <seg>Con un horario flexible, trabajas un número establecido de horas (puede ser tanto a tiempo parcial como completo) pero tienes un control mayor sobre el tiempo que trabajas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205042Z" creationid="usuario" creationdate="20180519T205042Z">
+        <seg>Trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +2470,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>You may have to be in work for certain 'core hours' (for example, 10am to 4pm) but can vary the times you start and finish work outside these hours.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095919Z" creationid="usuario" creationdate="20180515T095919Z">
+        <seg>Puede que tengas que estar en el trabajo durante unas horas concretas (por ejemplo, desde las 10am hasta las 14pm) pero puede variar el tiempo en que empiezas y terminas de trabajar fuera de estas horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You might be able to help your friend or family member look for support around issues like debt, housing problems or difficulties at work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212414Z" creationid="usuario" creationdate="20180519T212414Z">
+        <seg>Puede que tengas la habilidad de ayudar a tu amigo o familiar a buscar ayuda con problemas como deudas, no tener una vivienda propia o dificultades en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>You might experience barriers such as:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173148Z" creationid="Ainhoa" creationdate="20180519T173148Z">
@@ -1958,6 +2526,38 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Your perspective might be valuable, but your friend or family member could find this conversation stressful, and being patient will help.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212115Z" creationid="usuario" creationdate="20180519T212115Z">
+        <seg>Tu punto de vista puede ser útil, pero a tu amigo o familiar esta conversación puede resultarle un tanto estresante, por lo que ser paciente ayudará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>[I want them to] understand that I may be irritable but I don't mean to hurt them in any way.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T213830Z" creationid="usuario" creationdate="20180519T213801Z">
+        <seg>[Quiero que ellos] entiendan que puedo estar irritable pero que no pretendo hacerles daño de ninguna manera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>[My friends can help by] making me a cup of tea, holding me while I cry, making me laugh...</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211647Z" creationid="usuario" creationdate="20180519T211647Z">
+        <seg>[Mis amigos pueden ayudarme] haciéndome una taza de té, ofreciéndome un hombro mientras lloro, haciéndome reír...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>[When I'm stressed I need friends to] hug me.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212650Z" creationid="usuario" creationdate="20180519T212650Z">
+        <seg>[Cuando estoy estresado necesito amigos para] que me abrazen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>[When I'm stressed] I feel like I'm on the verge of a breakdown.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203555Z" creationid="Ainhoa" creationdate="20180519T203555Z">
@@ -1982,10 +2582,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>availability to attend medical appointments</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T100222Z" creationid="usuario" creationdate="20180515T100222Z">
+        <seg>estar disponible para atender citas médicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>being under lots of pressure</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202646Z" creationid="usuario" creationdate="20180519T202646Z">
+        <seg>estar bajo mucha presión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>being unsure of how much to tell</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173205Z" creationid="Ainhoa" creationdate="20180519T173205Z">
         <seg>dudar sobre hasta dónde puedes contar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>bereavement</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204642Z" creationid="usuario" creationdate="20180519T204642Z">
+        <seg>duelo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>can be challenging if you struggle with creating structure for yourself</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T100438Z" creationid="usuario" creationdate="20180515T100438Z">
+        <seg>puede ser un desafío si estás luchando contigo mismo para establecer un horario para ti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>can usually end employment without serving a notice period</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215322Z" creationid="usuario" creationdate="20180515T215322Z">
@@ -2006,10 +2638,50 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>casual work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095139Z" creationid="usuario" creationdate="20180515T095139Z">
+        <seg>Trabajo casual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>chance to avoid rush-hour crowds and peak travel costs</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T100154Z" creationid="usuario" creationdate="20180515T100154Z">
+        <seg>oportunidad de evitar multitudes de gente en hora punta y precios elevados de viaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>debt.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205318Z" creationid="usuario" creationdate="20180519T205318Z">
+        <seg>deuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>deciding whether to tell your employer about your mental health problem</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165712Z" creationid="Ainhoa" creationdate="20180519T165410Z">
         <seg>decidir si contarle a tu jefe tu problema de salud mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>difficult issues at work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205055Z" creationid="usuario" creationdate="20180519T205055Z">
+        <seg>complicaciones en el trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>difficult relationships with parents, siblings, friends or children</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204935Z" creationid="usuario" creationdate="20180519T204935Z">
+        <seg>tener una relación complicada con los padres, hermanos, amigos o hijos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +2698,30 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180027Z" creationid="Ainhoa" creationdate="20180519T180027Z">
         <seg>Discutir la posibilidad de&lt;s0&gt;trabajo flexible&lt;/s0&gt; que se adapte a tus necesidades, si, por ejemplo, tienes que acudir a una cita médica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>everyday tasks such as travel or household chores.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204719Z" creationid="usuario" creationdate="20180519T204719Z">
+        <seg>tareas diarias como viajes o tareas domésticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>exams and deadlines</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205034Z" creationid="usuario" creationdate="20180519T205034Z">
+        <seg>exámenes y fechas límite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>facing big changes</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202905Z" creationid="usuario" creationdate="20180519T202905Z">
+        <seg>Enfrentarse a grandes cambios</seg>
       </tuv>
     </tu>
     <tu>
@@ -2050,6 +2746,30 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215910Z" creationid="usuario" creationdate="20180515T215855Z">
         <seg>flexibilidad para elegir las horas a trabajar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>flexible working</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095112Z" creationid="usuario" creationdate="20180515T095027Z">
+        <seg>Trabajo con horario flexible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>getting married or civil partnered</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204846Z" creationid="usuario" creationdate="20180519T204846Z">
+        <seg>casarse o unión civil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>going through a break-up or getting divorced</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204905Z" creationid="usuario" creationdate="20180519T204905Z">
+        <seg>pasar por una ruptura o divorciarse</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>greater control over hours worked</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T100011Z" creationid="usuario" creationdate="20180515T100011Z">
+        <seg>un control mayor sobre las horas de trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>greater flexibility</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161351Z" creationid="usuario" creationdate="20180515T161351Z">
@@ -2114,6 +2842,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173307Z" creationid="Ainhoa" creationdate="20180519T173307Z">
         <seg>tener una base más sólida para solicitar ayuda en el trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>having responsibilities that you're finding overwhelming</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202938Z" creationid="usuario" creationdate="20180519T202938Z">
+        <seg>tener responsabilidades que te resulten abrumadoras</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,6 +2882,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180157Z" creationid="Ainhoa" creationdate="20180519T180157Z">
         <seg>Si padeces de &lt;a0&gt;&lt;s1&gt;trastorno afectivo estacional&lt;/s1&gt;&lt;/a0&gt; (TAE), cámbiate a un lugar de trabajo con ventanas o pide una caja de luz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>illness or injury</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204536Z" creationid="usuario" creationdate="20180519T204536Z">
+        <seg>enfermedad o lesión</seg>
       </tuv>
     </tu>
     <tu>
@@ -2198,10 +2942,42 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>long-term health problems</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204656Z" creationid="usuario" creationdate="20180519T204656Z">
+        <seg>problemas de salud a largo plazo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>long-term unemployment</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205018Z" creationid="usuario" creationdate="20180519T205018Z">
+        <seg>desempleo de larga duración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>losing your job</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205015Z" creationid="usuario" creationdate="20180519T205015Z">
+        <seg>perder tu trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>lower income</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161611Z" creationid="usuario" creationdate="20180515T161611Z">
         <seg>ingresos más bajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>moving house</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205208Z" creationid="usuario" creationdate="20180519T205208Z">
+        <seg>mudarse de casa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +3006,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>not always possible &lt;s0&gt;–&lt;/s0&gt; for example, some roles require you to work set hours</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T100553Z" creationid="usuario" creationdate="20180515T100255Z">
+        <seg>no siempre es posible &lt;s0&gt;–&lt;/s0&gt; por ejemplo, algunos trabajos requieren horas específicas en las que se deben trabajar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>not having enough work, activities or change in your life</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202955Z" creationid="usuario" creationdate="20180519T202955Z">
+        <seg>no tener suficiente trabajo, actividades o cambios en tu vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>not having much or any control over the outcome of a situation</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202921Z" creationid="usuario" creationdate="20180519T202921Z">
+        <seg>no tener mucho o ningún control sobre el resultado de una situación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>not having to hide any difficulties you are experiencing</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173314Z" creationid="Ainhoa" creationdate="20180519T173314Z">
@@ -2246,6 +3046,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>organising a complicated event, like a group holiday</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204713Z" creationid="usuario" creationdate="20180519T204713Z">
+        <seg>organizar un evento complicado, como unas vacaciones en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>part-time work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095107Z" creationid="usuario" creationdate="20180515T095107Z">
+        <seg>Trabajo a tiempo parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>permission to &lt;s0&gt;take time out when distressed&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180213Z" creationid="Ainhoa" creationdate="20180519T180213Z">
@@ -2254,10 +3070,90 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>poverty</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205316Z" creationid="usuario" creationdate="20180519T205316Z">
+        <seg>pobreza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>pregnancy and &lt;a0&gt;becoming a parent&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204630Z" creationid="usuario" creationdate="20180519T204630Z">
+        <seg>embarazo y &lt;a0&gt;convertirse en padre&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>problems with neighbours.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205211Z" creationid="usuario" creationdate="20180519T205211Z">
+        <seg>problemas con los vecinos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>remote/home working</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095218Z" creationid="usuario" creationdate="20180515T095218Z">
+        <seg>Trabajo desde casa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>retiring</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205024Z" creationid="usuario" creationdate="20180519T205024Z">
+        <seg>jubilación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>self-employment</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095224Z" creationid="usuario" creationdate="20180515T095224Z">
+        <seg>Trabajo autónomo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>shift work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095134Z" creationid="usuario" creationdate="20180515T095134Z">
+        <seg>Trabajo por turnos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>starting a new job.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205111Z" creationid="usuario" creationdate="20180519T205111Z">
+        <seg>empezar un nuevo trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>taking time off work</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172950Z" creationid="Ainhoa" creationdate="20180519T165634Z">
         <seg>tomarse unos días libres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the amount of other pressures on you at the time</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203852Z" creationid="usuario" creationdate="20180519T203852Z">
+        <seg>la cantidad de otras presiones a las que te sometes en el momento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the amount of support you are receiving.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203902Z" creationid="usuario" creationdate="20180519T203902Z">
+        <seg>la cantidad de apoyo que recibes</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +3178,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161348Z" creationid="usuario" creationdate="20180515T161348Z">
         <seg>tener tiempo en el día para asistir a citas médicas, estudiar a tiempo parcial, cuidar de tu bienestar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>times of uncertainty.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203013Z" creationid="usuario" creationdate="20180519T203013Z">
+        <seg>momentos de incertidumbre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +3234,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161330Z" creationid="usuario" creationdate="20180515T161330Z">
         <seg>Trabajar hasta tarde puede ser adecuado para alguien que toma medicamentos por la mañana que los adormece durante el día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>worries about &lt;a0&gt;money&lt;/a0&gt; or &lt;a1&gt;benefits&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205313Z" creationid="usuario" creationdate="20180519T205313Z">
+        <seg>preocupaciones sobre &lt;a0&gt;el dinero&lt;/a0&gt; o &lt;a1&gt;préstamos&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>worrying about something</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202910Z" creationid="usuario" creationdate="20180519T202910Z">
+        <seg>Preocuparse por algo</seg>
       </tuv>
     </tu>
     <tu>
