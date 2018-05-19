@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;filling out a Wellness Action Plan (WAP).&lt;/s0&gt; This can help you to think about your support needs and what would help you stay well in the workplace.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174707Z" creationid="Ainhoa" creationdate="20180519T174707Z">
+        <seg>&lt;s0&gt;rellenar un Plan de Acción de Bienestar (WAP).&lt;/s0&gt; Esto puede ayudarte a pensar en tus necesidades de apoyo y en lo que te ayudaría a estar bien en el lugar de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;talking to your manager in private&lt;/s0&gt; during supervision or requesting a one-to-one meeting</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173829Z" creationid="Ainhoa" creationdate="20180519T173829Z">
@@ -458,6 +466,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084041Z" creationid="usuario" creationdate="20180515T084041Z">
         <seg>Haz uso de otro soporte ya en oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Mind's Wellness Action Plan</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174627Z" creationid="Ainhoa" creationdate="20180519T174627Z">
+        <seg>Plan de Acción de Bienestar de Mind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +818,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163734Z" creationid="usuario" creationdate="20180518T163734Z">
         <seg>Trabajo y estrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You can find Mind's example WAP and a guide for your manager about WAPs online &lt;a1&gt;here&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174745Z" creationid="Ainhoa" creationdate="20180519T174745Z">
+        <seg>Puedes encontrar el WAP de ejemplo de Mind y una guía online para tu gerente sobre WAP &lt;a1&gt;aquí&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
