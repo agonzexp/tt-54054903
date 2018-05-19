@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Mental health problems (general)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203330Z" creationid="Ainhoa" creationdate="20180519T203330Z">
+        <seg>Problemas de salud mental (general)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Mind's Equality Act page</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175909Z" creationid="Ainhoa" creationdate="20180519T175909Z">
