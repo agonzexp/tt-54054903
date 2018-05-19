@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>But whatever your personal definition of stress is, it's likely that you can learn to manage your stress better by:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201943Z" creationid="Ainhoa" creationdate="20180519T201943Z">
+        <seg>Pero cualquiera que sea tu definición personal de estrés, es probable que puedas aprender a manejar mejor su estrés de la siguiente manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Calls are free from all providers and do not appear on bills.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200317Z" creationid="Ainhoa" creationdate="20180519T200317Z">
@@ -1450,6 +1458,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083414Z" creationid="usuario" creationdate="20180515T083414Z">
         <seg>Esto puede ayudarte a desconectarte del trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This can make it difficult for you to work out what &lt;a0&gt;causes your feelings of stress&lt;/a0&gt;, or how to deal with them.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201924Z" creationid="Ainhoa" creationdate="20180519T201924Z">
+        <seg>Esto puede hacer que te resulte difícil determinar qué &lt;a0&gt;causa tus sentimientos de estrés&lt;/a0&gt; o cómo tratarlos.</seg>
       </tuv>
     </tu>
     <tu>
