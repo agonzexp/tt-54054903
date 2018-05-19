@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>[When I'm stressed] I feel like I'm on the verge of a breakdown.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203555Z" creationid="Ainhoa" creationdate="20180519T203555Z">
+        <seg>[Cuando estoy estresado] Siento que estoy al borde del colapso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>ability to work from home or wherever suits you</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215936Z" creationid="usuario" creationdate="20180515T215936Z">
