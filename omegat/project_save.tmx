@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>An online community of people who are finding it hard to cope.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200029Z" creationid="Ainhoa" creationdate="20180519T200029Z">
+        <seg>Una comunidad online de personas a las que les resulta difícil hacer lidiar con el día a díaUna comunidad en línea de personas a las que les resulta difícil hacer frente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Be Mindful website</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164455Z" creationid="usuario" creationdate="20180518T164455Z">
@@ -510,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Guidance on how to learn mindfulness, including course listings.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T195950Z" creationid="Ainhoa" creationdate="20180519T195950Z">
+        <seg>Orientación sobre cómo aprender mindfulness, incluidas las listas de cursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Having problems with your workload</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082117Z" creationid="usuario" creationdate="20180515T082117Z">
@@ -694,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Information about mindfulness and mindfulness based stress reduction (MBSR).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T195928Z" creationid="Ainhoa" creationdate="20180519T195928Z">
+        <seg>Información sobre mindfulness y mindfulness basado en la reducción del estrés (MBSR).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Information about stress and tips on how to cope.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190212Z" creationid="Ainhoa" creationdate="20180519T190159Z">
@@ -738,6 +762,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082543Z" creationid="usuario" creationdate="20180515T082543Z">
         <seg>A menudo te lleva más tiempo si intentas hacer demasiado al mismo tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It’s completely anonymous so you can express yourself openly.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200043Z" creationid="Ainhoa" creationdate="20180519T200043Z">
+        <seg>Es completamente anónimo, para que puedas expresarte abiertamente.</seg>
       </tuv>
     </tu>
     <tu>
