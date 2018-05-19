@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>For further guidance, see our &lt;a0&gt;information on telling your employer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180518T164130Z" creationid="Ainhoa" creationdate="20180518T164130Z">
+        <seg>Para obtener más orientación, consulte nuestra &lt;a0&gt;información sobre cómo decirle a su empleador&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>For information on how to request this, see the government's website on &lt;a0&gt;flexible working&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214824Z" creationid="usuario" creationdate="20180515T214824Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163725Z" creationid="usuario" creationdate="20180518T163725Z">
         <seg>Si experimentas a menudo momentos de estrés, puede que estés en riesgo de desarrollar un problema de salud mental, como la depresión o la ansiedad, y el estrés puede empeorar estos problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you're experiencing a mental health problem that is impacting your working life, it can be tricky to know what action to take.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165354Z" creationid="Ainhoa" creationdate="20180519T165354Z">
+        <seg>Si está experimentando un problema de salud mental que está afectando su vida laboral, puede ser difícil saber qué medidas tomar.</seg>
       </tuv>
     </tu>
     <tu>
