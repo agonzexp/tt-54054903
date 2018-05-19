@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Being under pressure is a normal part of life.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202623Z" creationid="Ainhoa" creationdate="20180519T202553Z">
+        <seg>Estar bajo presión forma parte de la vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Breathing strategies, having a mindset and thinking, 'I can do this!'</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T081950Z" creationid="usuario" creationdate="20180515T081950Z">
@@ -898,6 +906,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173624Z" creationid="Ainhoa" creationdate="20180519T173624Z">
         <seg>Puede ser difícil saber cómo comenzar la conversación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It can help you take action, feel more energised and get results.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202619Z" creationid="Ainhoa" creationdate="20180519T202619Z">
+        <seg>y puede ayudarte a pasar a la acción, a sentirte más enérgico y a obtener resultados</seg>
       </tuv>
     </tu>
     <tu>
