@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>I'm one of the lucky ones.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180323Z" creationid="Ainhoa" creationdate="20180519T180307Z">
+        <seg>Soy un afortunado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If things get too much, taking a few days off or a long weekend can help you feel refreshed and actually increase your productivity in the long-run.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083145Z" creationid="usuario" creationdate="20180515T083145Z">
@@ -530,6 +538,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174804Z" creationid="Ainhoa" creationdate="20180519T174804Z">
         <seg>Información de Mind sobre cómo contarle a tu jefe tu problema de salud mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Mind's self-care information</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180355Z" creationid="Ainhoa" creationdate="20180519T180355Z">
+        <seg>Información de autoayuda de Mind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>My employer understands exactly what it is I'm going through.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180234Z" creationid="Ainhoa" creationdate="20180519T180234Z">
+        <seg>Mi jefe entiende perfectamente por lo que estoy pasando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +842,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175850Z" creationid="Ainhoa" creationdate="20180519T175850Z">
         <seg>Estos ajustes pueden ser temporales o permanentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>They help and support me any way they can.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180257Z" creationid="Ainhoa" creationdate="20180519T180257Z">
+        <seg>Ellos me ayudan y me apoyan de todo lo que pueden.Ellos me ayudan y me apoyan de cualquier forma que pueden.</seg>
       </tuv>
     </tu>
     <tu>
