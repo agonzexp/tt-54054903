@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Information about health and safety law in the workplace.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200057Z" creationid="Ainhoa" creationdate="20180519T200057Z">
+        <seg>Información sobre la ley de salud y seguridad en el lugar de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Information about mindfulness and mindfulness based stress reduction (MBSR), including course listings.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184236Z" creationid="Ainhoa" creationdate="20180519T184236Z">
@@ -738,6 +746,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185948Z" creationid="Ainhoa" creationdate="20180519T185948Z">
         <seg>Información sobre cursos gratuitos de aprendizaje a distancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Information on topics including &lt;a0&gt;stress management&lt;/a0&gt; and &lt;a1&gt;assertiveness&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200233Z" creationid="Ainhoa" creationdate="20180519T200233Z">
+        <seg>Información sobre temas que incluyen &lt;a0&gt;manejo del estrés&lt;/a0&gt; y &lt;a1&gt;asertividad&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>International Stress Management Association</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200109Z" creationid="Ainhoa" creationdate="20180519T200109Z">
+        <seg>Asociación Internacional de Manejo del Estrés</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +810,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083658Z" creationid="usuario" creationdate="20180515T083658Z">
         <seg>Falta de apoyo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Lists stress practitioners by specialist area.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200159Z" creationid="Ainhoa" creationdate="20180519T200159Z">
+        <seg>Listas de especialistas de estrés por área especializada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1130,6 +1162,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084127Z" creationid="usuario" creationdate="20180515T084127Z">
         <seg>Algunas organizaciones ofrecen programas de asistencia para empleados (PAE) que proveen consejos y asesoramiento gratuitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Specialist information on stress for employers and employees.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200103Z" creationid="Ainhoa" creationdate="20180519T200103Z">
+        <seg>Información especializada sobre estrés para empleadores y empleados.</seg>
       </tuv>
     </tu>
     <tu>
