@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you're not covered by the &lt;a0&gt;Equality Act&lt;/a0&gt;, it's still best practice for your employer to support you, within what is reasonable for your role.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175919Z" creationid="Ainhoa" creationdate="20180519T175919Z">
+        <seg>Aunque la ley de &lt;a0&gt;Acto de Igualdad&lt;/a0&gt; no te cubre, tu jefe debería apoyarte en función de lo que es mejor para ti en tu puesto de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It can be difficult to know how to start the conversation.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173624Z" creationid="Ainhoa" creationdate="20180519T173624Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084041Z" creationid="usuario" creationdate="20180515T084041Z">
         <seg>Haz uso de otro soporte ya en oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Mind's Equality Act page</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175909Z" creationid="Ainhoa" creationdate="20180519T175909Z">
+        <seg>Ley de Igualdad 2010</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +682,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215546Z" creationid="usuario" creationdate="20180515T215546Z">
         <seg>El trabajo a distancia es aquel donde puedes hacer parte o la totalidad del trabajo desde tu casa o en cualquier otro lugar que no sea el lugar de trabajo corriente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>See our page on &lt;a1&gt;discrimination at work&lt;/a1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175903Z" creationid="Ainhoa" creationdate="20180519T175903Z">
+        <seg>Dirígete a nuestra página &lt;a1&gt;discriminación en el trabajo&lt;/a1&gt; para más información.</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>What will be helpful for you will depend on what sort of work you do, and what sort of things you find difficult.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175940Z" creationid="Ainhoa" creationdate="20180519T175940Z">
+        <seg>Lo que es beneficioso para ti dependerá del tipo de trabajo realizas y de dónde encuentras mayor dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>What you can do to prevent or reduce stress</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082101Z" creationid="usuario" creationdate="20180515T082101Z">
@@ -890,6 +922,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082043Z" creationid="usuario" creationdate="20180515T082043Z">
         <seg>Qué te está estresando en el trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When asking about changes, remember that you are the best judge of what you need.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175925Z" creationid="Ainhoa" creationdate="20180519T175925Z">
+        <seg>Cuando pidas cambios, recuerda que tú eres el que mejor juzga cuáles son tus necesidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -942,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>You might want to ask about changes like:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175946Z" creationid="Ainhoa" creationdate="20180519T175946Z">
+        <seg>Puedes pedir cambios como los siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>ability to work from home or wherever suits you</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215936Z" creationid="usuario" creationdate="20180515T215936Z">
@@ -986,6 +1034,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215754Z" creationid="usuario" creationdate="20180515T215754Z">
         <seg>dificultad para desconectar del trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>discuss &lt;s0&gt;flexible working&lt;/s0&gt; to suit your needs, for example, so you can attend medical appointments</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180027Z" creationid="Ainhoa" creationdate="20180519T180027Z">
+        <seg>Discutir la posibilidad de&lt;s0&gt;trabajo flexible&lt;/s0&gt; que se adapte a tus necesidades, si, por ejemplo, tienes que acudir a una cita médica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1250,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T220006Z" creationid="usuario" creationdate="20180515T220006Z">
         <seg>sobrecarga de trabajo poco confiable e ingresos inciertos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>use &lt;s0&gt;email&lt;/s0&gt; where possible if you find face-to-face contact stressful</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180008Z" creationid="Ainhoa" creationdate="20180519T180008Z">
+        <seg>usar &lt;s0&gt;email&lt;/s0&gt; cuando sea posible si te estresan los encuentros cara a cara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>use &lt;s0&gt;voicemail&lt;/s0&gt; to take messages if phone calls make you anxious</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180002Z" creationid="Ainhoa" creationdate="20180519T180002Z">
+        <seg>usar &lt;s0&gt;mensajes de voz&lt;/s0&gt; para recibir mensajes si las llamadas te crean ansiedad</seg>
       </tuv>
     </tu>
     <tu>
