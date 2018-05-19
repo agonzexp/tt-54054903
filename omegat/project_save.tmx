@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>There could be many reasons for this, as when we feel stressed we often find it hard to sleep or eat well, and poor diet and lack of sleep can both affect our physical health.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203951Z" creationid="Ainhoa" creationdate="20180519T203951Z">
+        <seg>Hay muchas razones para esto, ya que cuando nos sentimos estresados, a menudo nos resulta difícil dormir o comer bien, y la mala alimentación y la falta de sueño pueden afectar a nuestra salud física.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>There's no medical definition of stress, and health care professionals often disagree over whether stress is the cause of problems or the result of them.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201820Z" creationid="Ainhoa" creationdate="20180519T201820Z">
@@ -1814,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Why does stress affect me physically?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203719Z" creationid="Ainhoa" creationdate="20180519T203605Z">
+        <seg>¿Me afecta el estrés físicamente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Work and stress</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163734Z" creationid="usuario" creationdate="20180518T163734Z">
@@ -1858,6 +1874,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173148Z" creationid="Ainhoa" creationdate="20180519T173148Z">
         <seg>Puedes experimentar dificultades tales como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You might find that your first clues about being stressed are physical signs, such as tiredness, headaches or an upset stomach.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203705Z" creationid="Ainhoa" creationdate="20180519T203705Z">
+        <seg>Puedes detectar que los primeros indicios del estrés son síntomas físicos como el cansancio, los dolores de cabeza o el malestar estomacal.</seg>
       </tuv>
     </tu>
     <tu>
