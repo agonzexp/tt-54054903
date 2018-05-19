@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Stress can cause mental health problems,&lt;/s0&gt; and make existing problems worse.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202845Z" creationid="Ainhoa" creationdate="20180519T202845Z">
+        <seg>&lt;s0&gt;El estrés puede causar problemas de salud mental&lt;/s0&gt; y empeorar problemas ya existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Take short breaks&lt;/s0&gt; throughout the day as well as at least half-an-hour away from your desk at lunch.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082915Z" creationid="usuario" creationdate="20180515T082915Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184557Z" creationid="Ainhoa" creationdate="20180519T184557Z">
         <seg>Asesoramiento confidencial sobre varias cuestiones, incluido el empleo y el bullying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Depression</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202819Z" creationid="Ainhoa" creationdate="20180519T202819Z">
+        <seg>Depresión</seg>
       </tuv>
     </tu>
     <tu>
