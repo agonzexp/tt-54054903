@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Situations or events that put pressure on us&lt;/s0&gt; – for example, times where we have lots to do and think about, or don't have much control over what happens.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201306Z" creationid="Ainhoa" creationdate="20180519T201306Z">
+        <seg>&lt;s0&gt;Situaciones o acontecimientos que nos ponen bajo presión&lt;/s0&gt;, momentos en los que tenemos mucho que hacer y en qué pensar o en los que no tenemos mucho control sobre lo que sucede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Take short breaks&lt;/s0&gt; throughout the day as well as at least half-an-hour away from your desk at lunch.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082915Z" creationid="usuario" creationdate="20180515T082915Z">
@@ -1594,6 +1602,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175925Z" creationid="Ainhoa" creationdate="20180519T175925Z">
         <seg>Cuando pidas cambios, recuerda que tú eres el que mejor juzga cuáles son tus necesidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When we say things like "this is stressful" or "I'm stressed", we might be talking about:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201151Z" creationid="Ainhoa" creationdate="20180519T201151Z">
+        <seg>Cuando decimos cosas como "esto es estresante" o "estoy estresado", podríamos estar hablando de:</seg>
       </tuv>
     </tu>
     <tu>
