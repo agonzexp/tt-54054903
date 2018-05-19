@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Take a look at our page on &lt;a0&gt;returning to work&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182359Z" creationid="Ainhoa" creationdate="20180519T182359Z">
+        <seg>Echa un vistazo a nuestra página &lt;a0&gt;reincorporación al trabajo&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Taking time off does not mean that you won't ever go back to work.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180921Z" creationid="Ainhoa" creationdate="20180519T180913Z">
@@ -950,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>This information was published in April 2016.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182425Z" creationid="Ainhoa" creationdate="20180519T182425Z">
+        <seg>Esta información se publicó en April de 2016.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>This page covers:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165405Z" creationid="Ainhoa" creationdate="20180519T165405Z">
@@ -1008,8 +1024,8 @@
       <tuv lang="EN-GB">
         <seg>We will revise it in 2019.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205156Z" creationid="usuario" creationdate="20180518T205156Z">
-        <seg>Lo revisaremos en 2019.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182453Z" creationid="usuario" creationdate="20180518T205156Z">
+        <seg>Se revisará en 2019.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,6 +1138,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180518Z" creationid="Ainhoa" creationdate="20180519T180518Z">
         <seg>Tu jefe podría derivarte a un asesor de salud ocupacional para que te aconseje sobre la mejor manera de recibir apoyo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Your employer should support you when you are ready to return to work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182317Z" creationid="Ainhoa" creationdate="20180519T182317Z">
+        <seg>Tu jefe debe apoyarte cuando esté listo para reincorporarse al trabajo.</seg>
       </tuv>
     </tu>
     <tu>
