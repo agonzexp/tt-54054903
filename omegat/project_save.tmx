@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>This could just be a few minutes away from your workstation, going out for some air, or having a short rest</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180228Z" creationid="Ainhoa" creationdate="20180519T180228Z">
+        <seg>Podrías salir de tu lugar de trabajo durante unos minutos, tomar algo de aire fresco o simplemente tomarte un descanso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>This page covers:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165405Z" creationid="Ainhoa" creationdate="20180519T165405Z">
@@ -1250,6 +1258,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173154Z" creationid="Ainhoa" creationdate="20180519T173154Z">
         <seg>no saber a quién, cuándo o cómo decirlo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>permission to &lt;s0&gt;take time out when distressed&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180213Z" creationid="Ainhoa" creationdate="20180519T180213Z">
+        <seg>permiso para tener &lt;s0&gt;tiempo libre cuando estés estresado&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
