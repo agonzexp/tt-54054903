@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>These adjustments can be temporary or made on a permanent basis.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175850Z" creationid="Ainhoa" creationdate="20180519T175850Z">
+        <seg>Estos ajustes pueden ser temporales o permanentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>They may be able to make some changes to help you.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164014Z" creationid="usuario" creationdate="20180518T164014Z">
