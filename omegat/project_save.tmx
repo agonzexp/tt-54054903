@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>For more information, see the government website on &lt;a1&gt;taking sick leave&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182035Z" creationid="Ainhoa" creationdate="20180519T181950Z">
+        <seg>Para más información, visita el sitio web del gobierno para obtener &lt;a1&gt;bajas por enfermedad&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Getting support</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172543Z" creationid="Ainhoa" creationdate="20180519T172440Z">
@@ -746,6 +754,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215546Z" creationid="usuario" creationdate="20180515T215546Z">
         <seg>El trabajo a distancia es aquel donde puedes hacer parte o la totalidad del trabajo desde tu casa o en cualquier otro lugar que no sea el lugar de trabajo corriente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Returning to work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182228Z" creationid="Ainhoa" creationdate="20180519T182228Z">
+        <seg>Reincorporación al trabajo</seg>
       </tuv>
     </tu>
     <tu>
