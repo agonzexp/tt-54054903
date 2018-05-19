@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Remember:&lt;/s0&gt; if you are considered disabled (as defined by the Equality Act) because of your mental health problem, you have specific rights in relation to getting support at work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173027Z" creationid="Ainhoa" creationdate="20180519T173027Z">
+        <seg>&lt;s0&gt;Recuerda:&lt;/s0&gt; si se te considera discapacitado (tal y como se define en la ley de Igualdad) debido a tu problema de salud mental, tienes ciertos derechos a la hora de pedir apoyo en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Reward yourself for achievements.&lt;/s0&gt; It is easy to focus on what needs to be done next and forget to reward yourself for what you have already accomplished.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082729Z" creationid="usuario" creationdate="20180515T082729Z">
@@ -176,8 +184,8 @@
       <tuv lang="EN-GB">
         <seg>But there is support available to help you in the workplace.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165401Z" creationid="Ainhoa" creationdate="20180519T165401Z">
-        <seg>Pero hay apoyo disponible para ayudarlo en el lugar de trabajo.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172903Z" creationid="Ainhoa" creationdate="20180519T165401Z">
+        <seg>Pero hay apoyo disponible para ayudarte en el lugar de trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>See our pages on discrimination and discrimination at work for more information.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173040Z" creationid="Ainhoa" creationdate="20180519T173040Z">
+        <seg>Para más información, dirígete a nuestras páginas sobre discriminación y discriminación en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>See the government website on &lt;a0&gt;self-employment rights&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T220207Z" creationid="usuario" creationdate="20180515T220207Z">
@@ -578,6 +594,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161527Z" creationid="usuario" creationdate="20180515T161527Z">
         <seg>El turno de trabajo se lleva a cabo según una agenda ajena al horario tradicional de nueve a cinco días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Should I tell my employer about my mental health problem?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173120Z" creationid="Ainhoa" creationdate="20180519T173120Z">
+        <seg>¿Debería contarle a mi jefe mis problemas de salud mental?</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,8 +920,8 @@
       <tuv lang="EN-GB">
         <seg>taking time off work</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165634Z" creationid="Ainhoa" creationdate="20180519T165634Z">
-        <seg>tomarse un tiempo libre del trabajo</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172950Z" creationid="Ainhoa" creationdate="20180519T165634Z">
+        <seg>tomarse unos días libres</seg>
       </tuv>
     </tu>
     <tu>
@@ -928,8 +952,8 @@
       <tuv lang="EN-GB">
         <seg>what support you can ask for at work</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165735Z" creationid="Ainhoa" creationdate="20180519T165417Z">
-        <seg>qué tipo de apoyo puedes pedir en el trabajo</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172924Z" creationid="Ainhoa" creationdate="20180519T165417Z">
+        <seg>qué tipo de ayuda puedes pedir en el trabajo</seg>
       </tuv>
     </tu>
     <tu>
