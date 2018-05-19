@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;talking to your manager in private&lt;/s0&gt; during supervision or requesting a one-to-one meeting</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173829Z" creationid="Ainhoa" creationdate="20180519T173829Z">
+        <seg>&lt;s0&gt;hablar con tu jefe en privado&lt;/s0&gt; durante el periodo de supervisión o solicitar una reunión uno a uno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Be Mindful website</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164455Z" creationid="usuario" creationdate="20180518T164455Z">
@@ -326,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>How do I tell my manager?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173619Z" creationid="Ainhoa" creationdate="20180519T173619Z">
+        <seg>¿Cómo se lo digo a mi jefe?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>However if your mental health problem is considered a disability within the meaning of the &lt;a1&gt;Equality Act&lt;/a1&gt;, you will have a right to reasonable adjustments &lt;s2&gt;–&lt;/s2&gt; but to get them, your employer must know about your disability.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173444Z" creationid="Ainhoa" creationdate="20180519T173444Z">
@@ -394,6 +410,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082024Z" creationid="usuario" creationdate="20180515T082024Z">
         <seg>Si notas que te empiezas a sentir estresado por un problema en particular en el trabajo, aquí hay algunas sugerencias para manejar situaciones estresantes comunes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It can be difficult to know how to start the conversation.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173624Z" creationid="Ainhoa" creationdate="20180519T173624Z">
+        <seg>Puede ser difícil saber cómo comenzar la conversación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Talking to my employer was very hard because of shame and confidentiality reasons but I was surprised and felt much more supported and understood.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173614Z" creationid="Ainhoa" creationdate="20180519T173614Z">
+        <seg>Hablar con mi jefe fue muy difícil por motivos de vergüenza y confidencialidad, pero me sorprendió y me sentí mucho más apoyado y entendido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Telling anyone about your mental health is a personal choice &lt;s0&gt;–&lt;/s0&gt; there is no right or wrong answer.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173411Z" creationid="Ainhoa" creationdate="20180519T173411Z">
@@ -690,6 +722,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165405Z" creationid="Ainhoa" creationdate="20180519T165405Z">
         <seg>Esta página cubre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To make the process easier you may want to think about:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173633Z" creationid="Ainhoa" creationdate="20180519T173633Z">
+        <seg>Para facilitar el proceso, es posible que desees pensar en:</seg>
       </tuv>
     </tu>
     <tu>
