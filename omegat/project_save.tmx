@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you have an ongoing mental health problem, or are struggling with your wellbeing, you may feel unsure whether to tell your employer or not.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173140Z" creationid="Ainhoa" creationdate="20180519T173140Z">
+        <seg>Si tienes un problema de salud mental recurrente, o tienes dificultades con tu bienestar, podrías dudar sobre contárselo a tu jefe o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If you often experience feelings of stress, you might be at risk of developing a mental health problem, like depression or anxiety, and stress can also make existing problems worse.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163725Z" creationid="usuario" creationdate="20180518T163725Z">
@@ -630,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>The possible benefits of talking about your mental health at work include:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173251Z" creationid="Ainhoa" creationdate="20180519T173251Z">
+        <seg>Los posibles beneficios de hablar sobre tu salud mental en el trabajo incluyen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>They may be able to make some changes to help you.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164014Z" creationid="usuario" creationdate="20180518T164014Z">
@@ -734,10 +750,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>You might experience barriers such as:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173148Z" creationid="Ainhoa" creationdate="20180519T173148Z">
+        <seg>Puedes experimentar dificultades tales como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>ability to work from home or wherever suits you</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215936Z" creationid="usuario" creationdate="20180515T215936Z">
         <seg>posibilidad de trabajar desde casa o donde mejor te venga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>being unsure of how much to tell</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173205Z" creationid="Ainhoa" creationdate="20180519T173205Z">
+        <seg>dudar sobre hasta dónde puedes contar</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +870,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>having a stronger basis for requesting support at work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173307Z" creationid="Ainhoa" creationdate="20180519T173307Z">
+        <seg>tener una base más sólida para solicitar ayuda en el trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>if you choose to tell colleagues, others may also open up about their experiences of mental health problems</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173324Z" creationid="Ainhoa" creationdate="20180519T173324Z">
+        <seg>Si decides contárselo a tus compañeros, otros podrían abrirse y contarte si han tenido problemas similares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>impact on your social life</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161131Z" creationid="usuario" creationdate="20180515T161131Z">
@@ -918,6 +966,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>not having to hide any difficulties you are experiencing</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173314Z" creationid="Ainhoa" creationdate="20180519T173314Z">
+        <seg>no tener que esconder ninguna dificultad que estés experimentando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>not knowing who, when or how to tell</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173154Z" creationid="Ainhoa" creationdate="20180519T173154Z">
+        <seg>no saber a quién, cuándo o cómo decirlo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>taking time off work</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172950Z" creationid="Ainhoa" creationdate="20180519T165634Z">
@@ -970,6 +1034,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161330Z" creationid="usuario" creationdate="20180515T161330Z">
         <seg>Trabajar hasta tarde puede ser adecuado para alguien que toma medicamentos por la mañana que los adormece durante el día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>worrying how they will react</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173214Z" creationid="Ainhoa" creationdate="20180519T173214Z">
+        <seg>que te preocupe cómo reaccionarán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>worrying that there will be negative consequences</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173243Z" creationid="Ainhoa" creationdate="20180519T173224Z">
+        <seg>que te preocupe que pueda haber consecuencias negativas</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
