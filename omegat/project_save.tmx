@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Mind's information on telling your employer about a mental health issue</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174804Z" creationid="Ainhoa" creationdate="20180519T174804Z">
+        <seg>Información de Mind sobre cómo contarle a tu jefe tu problema de salud mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Nurture your outside relationships, interests and your skills that your job doesn't use.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083312Z" creationid="usuario" creationdate="20180515T083230Z">
@@ -746,6 +754,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165405Z" creationid="Ainhoa" creationdate="20180519T165405Z">
         <seg>Esta página cubre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Time To Change's resource on talking about your mental health at work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175206Z" creationid="Ainhoa" creationdate="20180519T175206Z">
+        <seg>Información de "La hora del cambio" sobre cómo hablar sobre tu salud mental en el trabajo.</seg>
       </tuv>
     </tu>
     <tu>
