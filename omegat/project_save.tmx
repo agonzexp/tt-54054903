@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Seasonal affective disorder</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180148Z" creationid="Ainhoa" creationdate="20180519T180148Z">
+        <seg>Trastorno afectivo estacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>See our page on &lt;a1&gt;discrimination at work&lt;/a1&gt; for more information.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175903Z" creationid="Ainhoa" creationdate="20180519T175903Z">
@@ -998,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>ask for on-the-job support (such as a workplace mentor) or permission for a &lt;s0&gt;support worker&lt;/s0&gt; to come in or be contacted during work hours</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180205Z" creationid="Ainhoa" creationdate="20180519T180205Z">
+        <seg>Pide apoyo en el trabajo (como por ejemplo un mentor) o permiso para acceder a un &lt;s0&gt;trabajador social&lt;/s0&gt; que acuda a tu lugar de trabajo o al que puedas contactar en horas laborables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>being unsure of how much to tell</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173205Z" creationid="Ainhoa" creationdate="20180519T173205Z">
@@ -1122,6 +1138,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173324Z" creationid="Ainhoa" creationdate="20180519T173324Z">
         <seg>Si decides contárselo a tus compañeros, otros podrían abrirse y contarte si han tenido problemas similares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>if you find it difficult to concentrate, move to a &lt;s0&gt;quieter workspace&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180037Z" creationid="Ainhoa" creationdate="20180519T180037Z">
+        <seg>Si te resulta difícil concentrarte, cámbiate a un &lt;s0&gt;área más tranquila&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>if you have &lt;a0&gt;&lt;s1&gt;seasonal affective disorder&lt;/s1&gt;&lt;/a0&gt; (SAD) move to a workstation by a window or ask for a lightbox</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180157Z" creationid="Ainhoa" creationdate="20180519T180157Z">
+        <seg>Si padeces de &lt;a0&gt;&lt;s1&gt;trastorno afectivo estacional&lt;/s1&gt;&lt;/a0&gt; (TAE), cámbiate a un lugar de trabajo con ventanas o pide una caja de luz.</seg>
       </tuv>
     </tu>
     <tu>
