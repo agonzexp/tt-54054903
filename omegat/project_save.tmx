@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Monday to Friday 9am&lt;s0&gt;–&lt;/s0&gt;8pm</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184915Z" creationid="Ainhoa" creationdate="20180519T184915Z">
+        <seg>De lunes a viernes de 9am&lt;s0&gt;a&lt;/s0&gt; 8pm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>My employer understands exactly what it is I'm going through.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180234Z" creationid="Ainhoa" creationdate="20180519T180234Z">
@@ -838,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Saturday 10am&lt;s0&gt;–&lt;/s0&gt;2pm</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184931Z" creationid="Ainhoa" creationdate="20180519T184931Z">
+        <seg>Sábado de 10am&lt;s0&gt;a&lt;/s0&gt; 2pm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Seasonal affective disorder</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180148Z" creationid="Ainhoa" creationdate="20180519T180148Z">
@@ -966,10 +982,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Text: 0808 800 0084</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184812Z" creationid="Ainhoa" creationdate="20180519T184812Z">
+        <seg>Sms: 0808 800 0084</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>The &lt;a2&gt;Be Mindful&lt;/a2&gt; website has tips on how to do this.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164544Z" creationid="usuario" creationdate="20180518T164544Z">
         <seg>La página de &lt;a2&gt;Be Mindful&lt;/a2&gt; tiene trucos sobre cómo hacer esto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The Equality and Advisory Support Service (EASS)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184747Z" creationid="Ainhoa" creationdate="20180519T184747Z">
+        <seg>El Servicio de Asesoramiento y Apoyo a la Igualdad (EASS).</seg>
       </tuv>
     </tu>
     <tu>
