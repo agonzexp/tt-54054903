@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;what you would like to say during the meeting.&lt;/s0&gt; You might find it useful to bring some notes with you</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174413Z" creationid="Ainhoa" creationdate="20180519T174413Z">
+        <seg>&lt;s0&gt;qué te gustaría decir durante la reunión.&lt;/s0&gt;. Es posible que te ayude llevar algunas notas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Be Mindful website</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164455Z" creationid="usuario" creationdate="20180518T164455Z">
