@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Health and Safety Executive website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185620Z" creationid="Ainhoa" creationdate="20180519T185610Z">
+        <seg>Sitio web del ejecutivo de Salud y Seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Here are some general things you can try:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163753Z" creationid="usuario" creationdate="20180518T163753Z">
@@ -674,6 +682,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082543Z" creationid="usuario" creationdate="20180515T082543Z">
         <seg>A menudo te lleva más tiempo si intentas hacer demasiado al mismo tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Jobcentre Plus website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185846Z" creationid="Ainhoa" creationdate="20180519T185846Z">
+        <seg>Sitio web Jobcentre Plus</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,6 +1090,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184955Z" creationid="Ainhoa" creationdate="20180519T184955Z">
         <seg>La línea de ayuda puede asesorarte y ayudarte en cuestiones relacionadas con la igualdad y los derechos humanos en Inglaterra, Escocia y Gales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The national independent watchdog for work-related health, safety and illness.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185826Z" creationid="Ainhoa" creationdate="20180519T185826Z">
+        <seg>Órgano de control nacional independiente para la salud, la seguridad y la enfermedad relacionadas con el trabajo.</seg>
       </tuv>
     </tu>
     <tu>
