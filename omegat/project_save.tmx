@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Health and Safety Executive</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185546Z" creationid="Ainhoa" creationdate="20180519T185546Z">
+        <seg>Ejecutivo de Salud y Seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Here are some general things you can try:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163753Z" creationid="usuario" creationdate="20180518T163753Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T181928Z" creationid="Ainhoa" creationdate="20180519T181928Z">
         <seg>En la mayoría de los casos, tienes derecho a un subsidio legal por enfermedad de tu empleador durante los primeros 28 días que estés enfermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Information about employment rights, Access To Work scheme and flexible working.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185328Z" creationid="Ainhoa" creationdate="20180519T185328Z">
+        <seg>Información sobre los derechos laborales, el esquema de acceso al trabajo y el trabajo flexible.</seg>
       </tuv>
     </tu>
     <tu>
