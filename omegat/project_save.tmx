@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>116 123 (24 hours a day)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200254Z" creationid="Ainhoa" creationdate="20180519T200254Z">
+        <seg>116 123 (24 horas al día)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>24-hour emotional support for anyone who needs to talk.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200309Z" creationid="Ainhoa" creationdate="20180519T200309Z">
+        <seg>Soporte emocional las 24 horas para cualquier persona que necesite hablar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a1&gt;Connecting&lt;/a1&gt; with them can help to build up a network of support and make being at work more enjoyable.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205338Z" creationid="usuario" creationdate="20180515T084518Z">
@@ -306,6 +322,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172903Z" creationid="Ainhoa" creationdate="20180519T165401Z">
         <seg>Pero hay apoyo disponible para ayudarte en el lugar de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Calls are free from all providers and do not appear on bills.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200317Z" creationid="Ainhoa" creationdate="20180519T200317Z">
+        <seg>Las llamadas son gratuitas para todos los proveedores y no aparecen en las facturas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,10 +750,18 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Information about stress and techniques for coping.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200401Z" creationid="Ainhoa" creationdate="20180519T200401Z">
+        <seg>Información sobre el estrés y las técnicas para lidiar con él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Information about stress and tips on how to cope.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190212Z" creationid="Ainhoa" creationdate="20180519T190159Z">
-        <seg>Información sobre el estrés y consejos sobre cómo lidiar con él..</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200343Z" creationid="Ainhoa" creationdate="20180519T190159Z">
+        <seg>Información sobre el estrés y consejos sobre cómo lidiar con él.</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +770,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190026Z" creationid="Ainhoa" creationdate="20180519T190026Z">
         <seg>Información y apoyo para cualquier persona que tenga un problema de salud mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Information and tips on managing stress in the workplace.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200247Z" creationid="Ainhoa" creationdate="20180519T200247Z">
+        <seg>Información y consejos sobre cómo manejar el estrés en el lugar de trabajo.</seg>
       </tuv>
     </tu>
     <tu>
