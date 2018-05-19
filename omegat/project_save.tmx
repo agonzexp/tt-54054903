@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>About anxiety</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T204022Z" creationid="Ainhoa" creationdate="20180519T204022Z">
+        <seg>La ansiedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Acas website</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T183925Z" creationid="Ainhoa" creationdate="20180519T183925Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185225Z" creationid="Ainhoa" creationdate="20180519T185225Z">
         <seg>Asesoramiento y apoyo para regresar al trabajo después de cuatro semanas o más de baja por enfermedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Also, when we feel anxious, our bodies release hormones called cortisol and adrenaline.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T204058Z" creationid="Ainhoa" creationdate="20180519T204058Z">
+        <seg>Además, cuando nos sentimos ansiosos, nuestro cuerpo libera unas hormonas llamadas cortisol y adrenalina.</seg>
       </tuv>
     </tu>
     <tu>
