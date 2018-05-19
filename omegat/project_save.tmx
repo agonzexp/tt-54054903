@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Getting support</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172440Z" creationid="Ainhoa" creationdate="20180519T172440Z">
+        <seg>Obtener soporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Give each task your full attention.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082505Z" creationid="usuario" creationdate="20180515T082505Z">
@@ -920,8 +928,8 @@
       <tuv lang="EN-GB">
         <seg>what support you can ask for at work</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165417Z" creationid="Ainhoa" creationdate="20180519T165417Z">
-        <seg>qué apoyo puede pedir en el trabajo</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165735Z" creationid="Ainhoa" creationdate="20180519T165417Z">
+        <seg>qué tipo de apoyo puedes pedir en el trabajo</seg>
       </tuv>
     </tu>
     <tu>
