@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>0844 477 2020 (Wales)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184342Z" creationid="Ainhoa" creationdate="20180519T184342Z">
+        <seg>0844 477 2020 (Gales)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>08444 111 444 (England)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184337Z" creationid="Ainhoa" creationdate="20180519T184337Z">
+        <seg>08444 111 444 (Inglaterra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a1&gt;Connecting&lt;/a1&gt; with them can help to build up a network of support and make being at work more enjoyable.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205338Z" creationid="usuario" creationdate="20180515T084518Z">
@@ -258,6 +274,30 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175409Z" creationid="Ainhoa" creationdate="20180519T175409Z">
         <seg>Cambiar algo de tu entorno de trabajo o la forma en que lo desempeñas, puede ayudarte a estar bien y a trabajar de manera más efectiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Citizens Advice</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184458Z" creationid="Ainhoa" creationdate="20180519T184319Z">
+        <seg>Información al ciudadano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Citizens Advice website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184446Z" creationid="Ainhoa" creationdate="20180519T184446Z">
+        <seg>Sitio web de información al ciudadano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Confidential advice on a range of issues, including employment and bullying.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184557Z" creationid="Ainhoa" creationdate="20180519T184557Z">
+        <seg>Asesoramiento confidencial sobre varias cuestiones, incluido el empleo y el bullying.</seg>
       </tuv>
     </tu>
     <tu>
