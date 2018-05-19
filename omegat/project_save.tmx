@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>For ideas and tips on coping, see our self care information for &lt;a0&gt;different mental health problems&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180606Z" creationid="Ainhoa" creationdate="20180519T180606Z">
+        <seg>Para obtener ideas y consejos sobre cómo afrontarlo, consulta nuestra información de cuidado personal para &lt;a0&gt;diferentes problemas de salud mental&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>For information on how to request this, see the government's website on &lt;a0&gt;flexible working&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214824Z" creationid="usuario" creationdate="20180515T214824Z">
@@ -422,10 +430,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you are too unwell to work at the moment, you may need to take some time off from work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180712Z" creationid="Ainhoa" creationdate="20180519T180712Z">
+        <seg>Si no estás bien para trabajar en este momento, es posible que necesites tomarte algunos días libres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If you feel you can't talk to your boss, speak or write to your human resources department or trade union representative if you have one.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205411Z" creationid="usuario" creationdate="20180515T084324Z">
         <seg>Si sientes que no puedes hablarlo con tu jefe, habla o escribe a tu departamento de recursos humanos o representante sindical si dispones de uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you have a diagnosed mental health problem, think about what specifically could help you with the problems you experience.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180448Z" creationid="Ainhoa" creationdate="20180519T180448Z">
+        <seg>Si tienes un problema de salud mental diagnosticado, piensa en lo que podría ayudarte con los problemas que experimentas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>What if I need to take time off work?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180642Z" creationid="Ainhoa" creationdate="20180519T180642Z">
+        <seg>¿Qué sucede si necesito tomarme tiempo libre en el trabajo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>What will be helpful for you will depend on what sort of work you do, and what sort of things you find difficult.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175940Z" creationid="Ainhoa" creationdate="20180519T175940Z">
@@ -1034,6 +1066,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175946Z" creationid="Ainhoa" creationdate="20180519T175946Z">
         <seg>Puedes pedir cambios como los siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Your employer might refer you to an occupational health advisor for advice on how best to support you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180518Z" creationid="Ainhoa" creationdate="20180519T180518Z">
+        <seg>Tu jefe podría derivarte a un asesor de salud ocupacional para que te aconseje sobre la mejor manera de recibir apoyo.</seg>
       </tuv>
     </tu>
     <tu>
