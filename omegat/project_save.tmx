@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Our reaction to being placed under pressure&lt;/s0&gt; – the feelings we get when we have demands placed on us that we find difficult to cope with.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201629Z" creationid="Ainhoa" creationdate="20180519T201355Z">
+        <seg>&lt;s0&gt;Nuestra reacción ante la presión:&lt;/s0&gt; cómo nos sentimos cuando tenemos responsabilidades con las que nos resultan difícil lidiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Recognising the&lt;/s0&gt; &lt;a1&gt;&lt;s2&gt;signs of stress&lt;/s2&gt;&lt;/a1&gt; and the causes is a good place to start.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164133Z" creationid="usuario" creationdate="20180518T164133Z">
@@ -192,8 +200,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Situations or events that put pressure on us&lt;/s0&gt; – for example, times where we have lots to do and think about, or don't have much control over what happens.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201306Z" creationid="Ainhoa" creationdate="20180519T201306Z">
-        <seg>&lt;s0&gt;Situaciones o acontecimientos que nos ponen bajo presión&lt;/s0&gt;, momentos en los que tenemos mucho que hacer y en qué pensar o en los que no tenemos mucho control sobre lo que sucede.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201402Z" creationid="Ainhoa" creationdate="20180519T201306Z">
+        <seg>&lt;s0&gt;Situaciones o acontecimientos que nos ponen bajo presión:&lt;/s0&gt; momentos en los que tenemos mucho que hacer y en qué pensar o en los que no tenemos mucho control sobre lo que sucede.</seg>
       </tuv>
     </tu>
     <tu>
