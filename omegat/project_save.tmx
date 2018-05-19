@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>For help finding a job.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185902Z" creationid="Ainhoa" creationdate="20180519T185902Z">
+        <seg>Ayuda para encontrar trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>For ideas and tips on coping, see our self care information for &lt;a0&gt;different mental health problems&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180606Z" creationid="Ainhoa" creationdate="20180519T180606Z">
@@ -662,6 +670,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Information and support for anyone experiencing a mental health problem.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190026Z" creationid="Ainhoa" creationdate="20180519T190026Z">
+        <seg>Información y apoyo para cualquier persona que tenga un problema de salud mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Information on free distance learning courses.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185948Z" creationid="Ainhoa" creationdate="20180519T185948Z">
+        <seg>Información sobre cursos gratuitos de aprendizaje a distancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It can be difficult to know how to start the conversation.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173624Z" creationid="Ainhoa" creationdate="20180519T173624Z">
@@ -758,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>National Council For Voluntary Organisations</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185908Z" creationid="Ainhoa" creationdate="20180519T185908Z">
+        <seg>Consejo Nacional de Organizaciones Voluntarias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Nurture your outside relationships, interests and your skills that your job doesn't use.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083312Z" creationid="usuario" creationdate="20180515T083230Z">
@@ -770,6 +802,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164004Z" creationid="usuario" creationdate="20180518T164004Z">
         <seg>Una vez que sepas qué es lo que funciona para ti, habla de ello con tu compañero de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Open University website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185939Z" creationid="Ainhoa" creationdate="20180519T185939Z">
+        <seg>Sitio web Open University</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,6 +950,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Remploy website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190104Z" creationid="Ainhoa" creationdate="20180519T190104Z">
+        <seg>Sitio web Remploy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Rethink Mental Illness</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190015Z" creationid="Ainhoa" creationdate="20180519T190015Z">
+        <seg>Reconsiderar la enfermedad mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Returning to work</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182228Z" creationid="Ainhoa" creationdate="20180519T182228Z">
@@ -1010,6 +1066,30 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084127Z" creationid="usuario" creationdate="20180515T084127Z">
         <seg>Algunas organizaciones ofrecen programas de asistencia para empleados (PAE) que proveen consejos y asesoramiento gratuitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Stress Management Society</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190147Z" creationid="Ainhoa" creationdate="20180519T190147Z">
+        <seg>Sociedad de manejo del estrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Supports disabled people to find and sustain employment.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190139Z" creationid="Ainhoa" creationdate="20180519T190139Z">
+        <seg>Apoya a las personas con discapacidad para encontrar y mantener el empleo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Supports people with disabilities to find and stay in suitable work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190125Z" creationid="Ainhoa" creationdate="20180519T190125Z">
+        <seg>Apoyo a personas con discapacidades para encontrar y permanecer en un trabajo adecuado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,6 +1290,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205530Z" creationid="usuario" creationdate="20180518T205530Z">
         <seg>Simon aconseja a los empleados sobre estos temas desde su propia experiencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Volunteering opportunities in England.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185920Z" creationid="Ainhoa" creationdate="20180519T185920Z">
+        <seg>Oportunidades para voluntariado en Inglaterra.</seg>
       </tuv>
     </tu>
     <tu>
