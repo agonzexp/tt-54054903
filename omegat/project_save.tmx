@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>An organisation which challenges mental health stigma and discrimination.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200502Z" creationid="Ainhoa" creationdate="20180519T200502Z">
+        <seg>Una organización que desafía el estigma y la discriminación en la salud mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Be Mindful website</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164455Z" creationid="usuario" creationdate="20180518T164455Z">
@@ -1086,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Provides information on stress and workplace wellbeing for employers and employees.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200507Z" creationid="Ainhoa" creationdate="20180519T200507Z">
+        <seg>Proporciona información sobre el estrés y el bienestar del lugar de trabajo para empleadores y empleados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Remote working</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215457Z" creationid="usuario" creationdate="20180515T215457Z">
@@ -1106,6 +1122,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190104Z" creationid="Ainhoa" creationdate="20180519T190104Z">
         <seg>Sitio web Remploy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Reproducing our information</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200706Z" creationid="Ainhoa" creationdate="20180519T200706Z">
+        <seg>Reproduciendo nuestra información</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1426,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T183632Z" creationid="Ainhoa" creationdate="20180519T182425Z">
         <seg>Esta información se publicó en abril de 2016.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This information was published in  November 2017 – to be revised in 2020.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200649Z" creationid="Ainhoa" creationdate="20180519T200649Z">
+        <seg>Esta información se publicó en abril de 2017. Será revisada en 2020.</seg>
       </tuv>
     </tu>
     <tu>
