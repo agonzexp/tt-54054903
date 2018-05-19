@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;&lt;a1&gt;managing external pressures&lt;/a1&gt;,&lt;/s0&gt; so stressful situations don't seem to happen to you quite so often</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202110Z" creationid="Ainhoa" creationdate="20180519T202110Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;Gestionando las presiones externas&lt;/a1&gt;, &lt;/s0&gt; de esta forma no sentirás que las situaciones estresantes se te presentan con mucha frecuencia </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Ask for help&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082205Z" creationid="usuario" creationdate="20180515T082205Z">
@@ -466,6 +474,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082451Z" creationid="usuario" creationdate="20180515T082451Z">
         <seg>No hagas demasiado a la vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Emotional resilience</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202327Z" creationid="Ainhoa" creationdate="20180519T202327Z">
+        <seg>Resiliencia emocional</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +946,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T084041Z" creationid="usuario" creationdate="20180515T084041Z">
         <seg>Haz uso de otro soporte ya en oferta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Managing pressure</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201959Z" creationid="Ainhoa" creationdate="20180519T201959Z">
+        <seg>Manejo del estrés</seg>
       </tuv>
     </tu>
     <tu>
