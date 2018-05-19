@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Anxiety and panic attacks</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202807Z" creationid="Ainhoa" creationdate="20180519T202807Z">
+        <seg>Ansiedad y ataques de pánico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Be Mindful website</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164455Z" creationid="usuario" creationdate="20180518T164455Z">
@@ -1370,6 +1378,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190153Z" creationid="Ainhoa" creationdate="20180519T190153Z">
         <seg>Sociedad de manejo del estrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Stress isn't a psychiatric diagnosis, but it's closely linked to your mental health in two important ways:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202745Z" creationid="Ainhoa" creationdate="20180519T202745Z">
+        <seg>El estrés no es un diagnóstico psiquiátrico, pero está estrechamente relacionado con su salud mental de dos maneras importantes:</seg>
       </tuv>
     </tu>
     <tu>
