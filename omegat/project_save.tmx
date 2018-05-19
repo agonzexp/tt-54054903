@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Is stress a mental health problem?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202518Z" creationid="Ainhoa" creationdate="20180519T202518Z">
+        <seg>¿Es el estrés un problema de salud mental?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It can be difficult to know how to start the conversation.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173624Z" creationid="Ainhoa" creationdate="20180519T173624Z">
