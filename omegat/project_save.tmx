@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;/s0&gt;You might find coping with the day-to-day symptoms of your mental health problem, as well as potentially needing to manage medication, heath care appointments or treatments, can become extra sources of stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203240Z" creationid="Ainhoa" creationdate="20180519T203240Z">
+        <seg>&lt;/s0&gt;Es posible que te enfrentes día a día a los síntomas de tus problemas de salud mental, probablemente necesitando tomar medicamentos, citas médicas u otros tratamientos, los cuales pueden convertirse en causas adicionales de estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a0&gt;time-to-change.org.uk&lt;/a0&gt; (England)</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200444Z" creationid="Ainhoa" creationdate="20180519T200427Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083955Z" creationid="usuario" creationdate="20180511T164226Z">
         <seg>Haz un &lt;s0&gt;plan de acción de bienestar&lt;/s0&gt; para determinar qué te causa estrés y qué te hace sentir bien en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Mental health problems can cause stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202949Z" creationid="Ainhoa" creationdate="20180519T202949Z">
+        <seg>Los problemas de salud mental pueden causar estrés.</seg>
       </tuv>
     </tu>
     <tu>
