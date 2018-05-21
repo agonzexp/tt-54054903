@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Keep in touch&lt;/s0&gt; with colleagues.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193216Z" creationid="Patricia" creationdate="20180521T193216Z">
+        <seg>&lt;s0&gt;Consigue tener buenas relaciones&lt;/s0&gt; con tus colegas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Look after your physical health&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180511T141929Z" creationid="usuario" creationdate="20180511T141929Z">
@@ -2406,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>This can help you to readjust to your working hours.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193238Z" creationid="Patricia" creationdate="20180521T193238Z">
+        <seg>Puede ayudarte a cuidar tu salud mental brindándote:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>This can help you to switch off from work.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083414Z" creationid="usuario" creationdate="20180515T083414Z">
@@ -2906,6 +2922,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175417Z" creationid="Ainhoa" creationdate="20180519T175417Z">
         <seg>Puedes hacer algunos cambios por su cuenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You could join an online community, such as &lt;a3&gt;Elefriends&lt;/a3&gt;, where you can talk openly about your mental health.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193251Z" creationid="Patricia" creationdate="20180521T193251Z">
+        <seg>Una comunidad online, amigable y solidaria donde puedes hablar abiertamente sobre cómo te sientes.</seg>
       </tuv>
     </tu>
     <tu>
