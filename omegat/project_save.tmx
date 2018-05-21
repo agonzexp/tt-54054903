@@ -2854,6 +2854,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>a sense of identity</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T180123Z" creationid="Patricia" creationdate="20180521T180123Z">
+        <seg>Un sentido de identidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>a source of income</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T180052Z" creationid="Patricia" creationdate="20180521T180052Z">
+        <seg>Una fuente de ingresos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>a steady routine and structure</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T180232Z" creationid="Patricia" creationdate="20180521T180232Z">
+        <seg>Una rutina y estructura estables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>ability to work from home or wherever suits you</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215936Z" creationid="usuario" creationdate="20180515T215936Z">
@@ -2954,6 +2978,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T100154Z" creationid="usuario" creationdate="20180515T100154Z">
         <seg>oportunidad de evitar multitudes de gente en hora punta y precios elevados de viaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>contact and friendship with others</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T180150Z" creationid="Patricia" creationdate="20180521T180150Z">
+        <seg>Contacto y amistad con otras personas</seg>
       </tuv>
     </tu>
     <tu>
