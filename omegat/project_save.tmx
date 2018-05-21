@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you have been off sick (or are likely to be) for &lt;s0&gt;four weeks or more&lt;/s0&gt;, your GP or employer can discuss with you a referral to the government scheme &lt;a1&gt;Fit for Work&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193139Z" creationid="Patricia" creationdate="20180521T193139Z">
+        <seg>Si has estado enfermo (o es probable que lo estés) durante cuatro semanas o más, su médico de cabecera o su empleador pueden consultar con usted una referencia al programa del gobierno Fit for Work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If you have been on sickness leave for &lt;s0&gt;more than seven consecutive days&lt;/s0&gt;, consider doing the following before you return to work:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193007Z" creationid="Patricia" creationdate="20180521T193007Z">
@@ -1754,6 +1762,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083312Z" creationid="usuario" creationdate="20180515T083230Z">
         <seg>Cultiva tus relaciones, intereses y habilidades externas de las que no haces uso en tu trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Occupational health will work with you to create a plan detailing your condition and the type of support you may need to return to work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193115Z" creationid="Patricia" creationdate="20180521T193115Z">
+        <seg>La salud laboral trabajará contigo para crear un plan que detalle tu condición y el tipo de apoyo que puedas necesitar para regresar al trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2970,6 +2986,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192845Z" creationid="Patricia" creationdate="20180521T192845Z">
         <seg>Es posible que desee pensar en:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Your employer may also refer you to an &lt;s0&gt;occupational health professiona&lt;/s0&gt;l.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193053Z" creationid="Patricia" creationdate="20180521T193053Z">
+        <seg>Su empleador también puede derivarlo a un profesional de la salud ocupacional.</seg>
       </tuv>
     </tu>
     <tu>
