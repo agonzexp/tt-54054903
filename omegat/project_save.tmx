@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Visit your GP.&lt;/s0&gt; Your GP can assess whether you are fit to return to work, give you advice as part of your &lt;a1&gt;fit note&lt;/a1&gt; and make suggestions about what changes your employer could make to help you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193042Z" creationid="Patricia" creationdate="20180521T193042Z">
+        <seg>Su médico de cabecera puede evaluar si está en condiciones de regresar al trabajo, darle consejos como parte de su nota de ajuste y hacer sugerencias sobre los cambios que su empleador podría hacer para ayudarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Work out what you find stressful and helpful&lt;/s0&gt; in the workplace.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164126Z" creationid="usuario" creationdate="20180518T164126Z">
@@ -838,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Even though you're feeling better, it doesn't always mean that you're no longer experiencing a mental health problem.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192819Z" creationid="Patricia" creationdate="20180521T192819Z">
+        <seg>Aunque te sientas mejor, no siempre significa que ya no tengas un problema de salud mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Everyone has the right to request flexible working once they have worked for the same employer for 26 weeks or more.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214939Z" creationid="usuario" creationdate="20180515T214939Z">
@@ -1002,6 +1018,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182035Z" creationid="Ainhoa" creationdate="20180519T181950Z">
         <seg>Para más información, visita el sitio web del gobierno para obtener &lt;a1&gt;bajas por enfermedad&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>For some, returning to work is a big milestone in their recovery.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192757Z" creationid="Patricia" creationdate="20180521T192757Z">
+        <seg>Para algunos, volver al trabajo es un gran hito en su recuperación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1330,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173140Z" creationid="Ainhoa" creationdate="20180519T173140Z">
         <seg>Si tienes un problema de salud mental recurrente, o tienes dificultades con tu bienestar, podrías dudar sobre contárselo a tu jefe o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you have been on sickness leave for &lt;s0&gt;more than seven consecutive days&lt;/s0&gt;, consider doing the following before you return to work:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193007Z" creationid="Patricia" creationdate="20180521T193007Z">
+        <seg>Si has estado ausente por enfermedad por más de siete días consecutivos, considera hacer lo siguiente antes de regresar al trabajo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>My employer offers me supervision and counselling.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192839Z" creationid="Patricia" creationdate="20180521T192839Z">
+        <seg>Mi empleador me ofrece supervisión y asesoramiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>My employer understands exactly what it is I'm going through.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180234Z" creationid="Ainhoa" creationdate="20180519T180234Z">
@@ -2058,6 +2098,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T183519Z" creationid="Ainhoa" creationdate="20180519T180856Z">
         <seg>La baja por enfermedad de salud mental es tan válida como la baja por problemas de salud física.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>So it's important to think about how you can manage your mental health as you return to work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192833Z" creationid="Patricia" creationdate="20180521T192833Z">
+        <seg>Por lo tanto, es importante pensar en cómo puedes manejar tu salud mental cuando regreses al trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>What support is available to help me to return to work?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192952Z" creationid="Patricia" creationdate="20180521T192952Z">
+        <seg>¿Qué apoyo hay disponible para ayudarme a volver al trabajo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>What will be helpful for you will depend on what sort of work you do, and what sort of things you find difficult.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175940Z" creationid="Ainhoa" creationdate="20180519T175940Z">
@@ -2854,6 +2910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>You may be worried about what colleagues will think or that you won't be able to cope.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192749Z" creationid="Patricia" creationdate="20180521T192749Z">
+        <seg>Puedes estar preocupado acerca de lo que pensarán tus compañeros o de lo que no podrás hacer frente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>You may have to be in work for certain 'core hours' (for example, 10am to 4pm) but can vary the times you start and finish work outside these hours.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095919Z" creationid="usuario" creationdate="20180515T095919Z">
@@ -2898,6 +2962,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175946Z" creationid="Ainhoa" creationdate="20180519T175946Z">
         <seg>Puedes pedir cambios como los siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You might want to think about:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192845Z" creationid="Patricia" creationdate="20180521T192845Z">
+        <seg>Es posible que desee pensar en:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3272,8 +3344,8 @@
       <tuv lang="EN-GB">
         <seg>government website page on fit notes</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T181440Z" creationid="Ainhoa" creationdate="20180519T181413Z">
-        <seg>sitio web del gobierno sobre justificantes médicos</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193014Z" creationid="Ainhoa" creationdate="20180519T181413Z">
+        <seg>sitio web del gobierno sobre bajas por enfermedad</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>preparing for your return to work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192920Z" creationid="Patricia" creationdate="20180521T192920Z">
+        <seg>Preparándote para su regreso al trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>problems with neighbours.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205211Z" creationid="usuario" creationdate="20180519T205211Z">
@@ -3690,6 +3770,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205111Z" creationid="usuario" creationdate="20180519T205111Z">
         <seg>empezar un nuevo trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>staying well in work when you return</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192944Z" creationid="Patricia" creationdate="20180521T192944Z">
+        <seg>Mantenerse bien en el trabajo cuando regreses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>support in returning to work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192901Z" creationid="Patricia" creationdate="20180521T192901Z">
+        <seg>Apoyo para regresar al trabajo</seg>
       </tuv>
     </tu>
     <tu>
