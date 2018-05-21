@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>It can help you look after your mental health by providing:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T180019Z" creationid="Patricia" creationdate="20180521T180019Z">
+        <seg>Puede ayudarte a cuidar tu salud mental brindándote:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It can help you take action, feel more energised and get results.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202619Z" creationid="Ainhoa" creationdate="20180519T202619Z">
