@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If work is affecting your mental health, you can take steps to address the problems.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181516Z" creationid="Patricia" creationdate="20180521T181516Z">
+        <seg>Si el trabajo está afectando tu salud mental, puedes tomar medidas para abordar los problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If you are looking for legal advice about your rights at work, see our pages on &lt;a0&gt;discrimination at work&lt;/a0&gt; and &lt;a1&gt;disability discrimination&lt;/a1&gt; for more information.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T175812Z" creationid="Patricia" creationdate="20180521T175812Z">
@@ -3770,6 +3778,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205313Z" creationid="usuario" creationdate="20180519T205313Z">
         <seg>preocupaciones sobre &lt;a0&gt;el dinero&lt;/a0&gt; o &lt;a1&gt;préstamos&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>worrying about returning to work after a period of poor mental health</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181451Z" creationid="Patricia" creationdate="20180521T181451Z">
+        <seg>Preocuparte por regresar al trabajo después de un período de mala salud mental</seg>
       </tuv>
     </tu>
     <tu>
