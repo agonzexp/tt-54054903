@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Explains how you can be mentally healthy at work, giving practical suggestions for what you can do and where you can go for support.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182545Z" creationid="Patricia" creationdate="20180521T182545Z">
+        <seg>Explica como puedes estar mentalmente saludable en el trabajo, proporcionando prácticos consejos sobre qué hacer y dónde conseguir ayuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Feelings of stress are normally triggered by things happening in your life which involve:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202817Z" creationid="usuario" creationdate="20180519T202454Z">
@@ -2758,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Work and mental health</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182607Z" creationid="Patricia" creationdate="20180521T182607Z">
+        <seg>Trabajo y salud mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Work and stress</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163734Z" creationid="usuario" creationdate="20180518T163734Z">
@@ -2898,6 +2914,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212115Z" creationid="usuario" creationdate="20180519T212115Z">
         <seg>Tu punto de vista puede ser útil, pero a tu amigo o familiar esta conversación puede resultarle un tanto estresante, por lo que ser paciente ayudará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Your stories</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182633Z" creationid="Patricia" creationdate="20180521T182633Z">
+        <seg>Tus historias</seg>
       </tuv>
     </tu>
     <tu>
@@ -3088,8 +3112,8 @@
       <tuv lang="EN-GB">
         <seg>deciding whether to tell your employer about your mental health problem</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T165712Z" creationid="Ainhoa" creationdate="20180519T165410Z">
-        <seg>decidir si contarle a tu jefe tu problema de salud mental</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182654Z" creationid="Ainhoa" creationdate="20180519T165410Z">
+        <seg>Decidir si contarle a tu jefe tu problema de salud mental</seg>
       </tuv>
     </tu>
     <tu>
@@ -3656,8 +3680,8 @@
       <tuv lang="EN-GB">
         <seg>taking time off work</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172950Z" creationid="Ainhoa" creationdate="20180519T165634Z">
-        <seg>tomarse unos días libres</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182701Z" creationid="Ainhoa" creationdate="20180519T165634Z">
+        <seg>Tomarse unos días libres</seg>
       </tuv>
     </tu>
     <tu>
@@ -3744,8 +3768,8 @@
       <tuv lang="EN-GB">
         <seg>what support you can ask for at work</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172924Z" creationid="Ainhoa" creationdate="20180519T165417Z">
-        <seg>qué tipo de ayuda puedes pedir en el trabajo</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182658Z" creationid="Ainhoa" creationdate="20180519T165417Z">
+        <seg>Qué tipo de ayuda puedes pedir en el trabajo</seg>
       </tuv>
     </tu>
     <tu>
