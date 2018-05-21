@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Developing resilience</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193859Z" creationid="Patricia" creationdate="20180521T193859Z">
+        <seg>Resilencia de desarrollo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Disability discrimination</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180511T185831Z" creationid="Patricia" creationdate="20180511T185831Z">
@@ -3176,8 +3184,8 @@
       <tuv lang="EN-GB">
         <seg>being under lots of pressure</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202646Z" creationid="usuario" creationdate="20180519T202646Z">
-        <seg>estar bajo mucha presión</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193724Z" creationid="usuario" creationdate="20180519T202646Z">
+        <seg>Estar bajo mucha presión</seg>
       </tuv>
     </tu>
     <tu>
@@ -3472,8 +3480,8 @@
       <tuv lang="EN-GB">
         <seg>having responsibilities that you're finding overwhelming</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202938Z" creationid="usuario" creationdate="20180519T202938Z">
-        <seg>tener responsabilidades que te resulten abrumadoras</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193804Z" creationid="usuario" creationdate="20180519T202938Z">
+        <seg>Tener responsabilidades que te resulten abrumadoras</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,16 +3672,16 @@
       <tuv lang="EN-GB">
         <seg>not having enough work, activities or change in your life</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202955Z" creationid="usuario" creationdate="20180519T202955Z">
-        <seg>no tener suficiente trabajo, actividades o cambios en tu vida</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193810Z" creationid="usuario" creationdate="20180519T202955Z">
+        <seg>No tener suficiente trabajo, actividades o cambios en tu vida</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>not having much or any control over the outcome of a situation</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202921Z" creationid="usuario" creationdate="20180519T202921Z">
-        <seg>no tener mucho o ningún control sobre el resultado de una situación</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193759Z" creationid="usuario" creationdate="20180519T202921Z">
+        <seg>No tener mucho o ningún control sobre el resultado de una situación</seg>
       </tuv>
     </tu>
     <tu>
@@ -3864,16 +3872,16 @@
       <tuv lang="EN-GB">
         <seg>the amount of other pressures on you at the time</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203852Z" creationid="usuario" creationdate="20180519T203852Z">
-        <seg>la cantidad de otras presiones a las que te sometes en el momento</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193903Z" creationid="usuario" creationdate="20180519T203852Z">
+        <seg>La cantidad de otras presiones a las que te sometes en el momento</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>the amount of support you are receiving.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203902Z" creationid="usuario" creationdate="20180519T203902Z">
-        <seg>la cantidad de apoyo que recibes</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193913Z" creationid="usuario" creationdate="20180519T203902Z">
+        <seg>La cantidad de apoyo que recibe</seg>
       </tuv>
     </tu>
     <tu>
@@ -3912,8 +3920,8 @@
       <tuv lang="EN-GB">
         <seg>times of uncertainty.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203013Z" creationid="usuario" creationdate="20180519T203013Z">
-        <seg>momentos de incertidumbre.</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193814Z" creationid="usuario" creationdate="20180519T203013Z">
+        <seg>Momentos de incertidumbre.</seg>
       </tuv>
     </tu>
     <tu>
