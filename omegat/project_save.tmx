@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Dealing with pressure</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193636Z" creationid="Patricia" creationdate="20180521T193636Z">
+        <seg>Lidiar con la presión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Depression</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202819Z" creationid="Ainhoa" creationdate="20180519T202819Z">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182436Z" creationid="Patricia" creationdate="20180521T182436Z">
         <seg>Cómo estar mentalmente saludable en el trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>How to manage stress booklet</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193543Z" creationid="Patricia" creationdate="20180521T193543Z">
+        <seg>Información y consejos sobre cómo manejar el estrés en el lugar de trabajo.</seg>
       </tuv>
     </tu>
     <tu>
