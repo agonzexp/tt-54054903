@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>This could be because of:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181145Z" creationid="Patricia" creationdate="20180521T181145Z">
+        <seg>Esto puede deberse a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>This could just be a few minutes away from your workstation, going out for some air, or having a short rest</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180228Z" creationid="Ainhoa" creationdate="20180519T180228Z">
@@ -2442,6 +2450,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094039Z" creationid="usuario" creationdate="20180515T094039Z">
         <seg>Tipos de trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Unfortunately, you might find work can has a negative impact on your mental health.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181136Z" creationid="Patricia" creationdate="20180521T181136Z">
+        <seg>Lamentablemente, es posible que el trabajo tenga un impacto negativo en tu salud mental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,6 +2586,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180511T185915Z" creationid="Patricia" creationdate="20180511T185915Z">
         <seg>¿Qué pasa si estoy desempleado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What if work is making my mental health worse?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181105Z" creationid="Patricia" creationdate="20180521T181105Z">
+        <seg>¿Qué pasa si el trabajo empeora mi salud mental?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>being unsure whether to tell your boss and colleagues about your mental health problem</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181400Z" creationid="Patricia" creationdate="20180521T181400Z">
+        <seg>No estar seguro de informar a tu jefe y compañeros sobre tu problema de salud mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>bereavement</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204642Z" creationid="usuario" creationdate="20180519T204642Z">
@@ -3106,6 +3138,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205034Z" creationid="usuario" creationdate="20180519T205034Z">
         <seg>exámenes y fechas límite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>experiencing stigma, or being treated unfairly because of your mental health problem</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181317Z" creationid="Patricia" creationdate="20180521T181306Z">
+        <seg>Experimentar estigma o ser tratado injustamente debido a tu problema de salud mental</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>poor relations with your colleagues</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181222Z" creationid="Patricia" creationdate="20180521T181222Z">
+        <seg>Poca relación con tus compañeros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>poverty</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205316Z" creationid="usuario" creationdate="20180519T205316Z">
@@ -3630,6 +3678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>the type of work you're doing</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181239Z" creationid="Patricia" creationdate="20180521T181239Z">
+        <seg>La clase de tarea que estás desempeñando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>time in the day to attend medical appointments, study part-time, look after your wellbeing</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161348Z" creationid="usuario" creationdate="20180515T161348Z">
@@ -3698,6 +3754,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161330Z" creationid="usuario" creationdate="20180515T161330Z">
         <seg>Trabajar hasta tarde puede ser adecuado para alguien que toma medicamentos por la mañana que los adormece durante el día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>workplace stress</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181200Z" creationid="Patricia" creationdate="20180521T181200Z">
+        <seg>Lugar de trabajo estresante</seg>
       </tuv>
     </tu>
     <tu>
