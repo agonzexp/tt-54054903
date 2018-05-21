@@ -2536,7 +2536,7 @@
       <tuv lang="EN-GB">
         <seg>Was this page useful?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205306Z" creationid="usuario" creationdate="20180518T205306Z">
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182746Z" creationid="usuario" creationdate="20180518T205306Z">
         <seg>¿Te fue útil esta página?</seg>
       </tuv>
     </tu>
@@ -3032,8 +3032,8 @@
       <tuv lang="EN-GB">
         <seg>being unsure of how much to tell</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173205Z" creationid="Ainhoa" creationdate="20180519T173205Z">
-        <seg>dudar sobre hasta dónde puedes contar</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182712Z" creationid="Ainhoa" creationdate="20180519T173205Z">
+        <seg>Dudar sobre hasta dónde puedes contar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3312,8 +3312,8 @@
       <tuv lang="EN-GB">
         <seg>having a stronger basis for requesting support at work</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173307Z" creationid="Ainhoa" creationdate="20180519T173307Z">
-        <seg>tener una base más sólida para solicitar ayuda en el trabajo</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182726Z" creationid="Ainhoa" creationdate="20180519T173307Z">
+        <seg>Tener una base más sólida para solicitar ayuda en el trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3528,16 +3528,16 @@
       <tuv lang="EN-GB">
         <seg>not having to hide any difficulties you are experiencing</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173314Z" creationid="Ainhoa" creationdate="20180519T173314Z">
-        <seg>no tener que esconder ninguna dificultad que estés experimentando</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182731Z" creationid="Ainhoa" creationdate="20180519T173314Z">
+        <seg>No tener que esconder ninguna dificultad que estés experimentando</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>not knowing who, when or how to tell</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173154Z" creationid="Ainhoa" creationdate="20180519T173154Z">
-        <seg>no saber a quién, cuándo o cómo decirlo</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182708Z" creationid="Ainhoa" creationdate="20180519T173154Z">
+        <seg>No saber a quién, cuándo o cómo decirlo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3568,8 +3568,8 @@
       <tuv lang="EN-GB">
         <seg>permission to &lt;s0&gt;take time out when distressed&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180213Z" creationid="Ainhoa" creationdate="20180519T180213Z">
-        <seg>permiso para tener &lt;s0&gt;tiempo libre cuando estés estresado&lt;/s0&gt;.</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182824Z" creationid="Ainhoa" creationdate="20180519T180213Z">
+        <seg>Permiso para tener &lt;s0&gt;tiempo libre cuando estés estresado&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3832,16 +3832,16 @@
       <tuv lang="EN-GB">
         <seg>worrying how they will react</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173214Z" creationid="Ainhoa" creationdate="20180519T173214Z">
-        <seg>que te preocupe cómo reaccionarán</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182716Z" creationid="Ainhoa" creationdate="20180519T173214Z">
+        <seg>Que te preocupe cómo reaccionarán</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>worrying that there will be negative consequences</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173243Z" creationid="Ainhoa" creationdate="20180519T173224Z">
-        <seg>que te preocupe que pueda haber consecuencias negativas</seg>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T182721Z" creationid="Ainhoa" creationdate="20180519T173224Z">
+        <seg>Que te preocupe que pueda haber consecuencias negativas</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
