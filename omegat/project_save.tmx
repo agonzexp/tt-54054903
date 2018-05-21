@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>I found work helps me to maintain an important part of my identity – separate from the illness.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T180403Z" creationid="Patricia" creationdate="20180521T180403Z">
+        <seg>Descubrí que el trabajo me ayuda a mantener una parte importante de mi identidad, separada de la enfermedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>I get stressed when things get out of perspective – too much work, thinking too far ahead.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204344Z" creationid="usuario" creationdate="20180519T204344Z">
@@ -1458,6 +1466,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201657Z" creationid="Ainhoa" creationdate="20180519T201657Z">
         <seg>Es abrumador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It's still me in here.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T180419Z" creationid="Patricia" creationdate="20180521T180419Z">
+        <seg>Es lo que me mantiene aquí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3418,6 +3434,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173154Z" creationid="Ainhoa" creationdate="20180519T173154Z">
         <seg>no saber a quién, cuándo o cómo decirlo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>opportunities to gain achievements and contribute</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T180342Z" creationid="Patricia" creationdate="20180521T180342Z">
+        <seg>Oportunidades para obtener logros y contribuir</seg>
       </tuv>
     </tu>
     <tu>
