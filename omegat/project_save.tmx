@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -82,6 +82,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203240Z" creationid="Ainhoa" creationdate="20180519T203240Z">
         <seg>&lt;/s0&gt;Es posible que te enfrentes día a día a los síntomas de tus problemas de salud mental, probablemente necesitando tomar medicamentos, citas médicas u otros tratamientos, los cuales pueden convertirse en causas adicionales de estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;Rethink Mental Illness&lt;/a0&gt; has more information about different schemes and organisations that can help you into work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T192229Z" creationid="Patricia" creationdate="20180516T192229Z">
+        <seg>&lt;a0&gt;Rethink Mental Illness&lt;/a0&gt;contiene más informaión sobre diferentes organizaciones que pueden ayudarte en el trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;doing a course.&lt;/s0&gt; The Open University has a number of distance learning courses that are free.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T194000Z" creationid="Patricia" creationdate="20180516T194000Z">
+        <seg>&lt;s0&gt;Hacer un curso.&lt;/s0&gt; La Open University posee una variedad de cursos para hacer a distancia gratuitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;filling out a Wellness Action Plan (WAP).&lt;/s0&gt; This can help you to think about your support needs and what would help you stay well in the workplace.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174707Z" creationid="Ainhoa" creationdate="20180519T174707Z">
@@ -398,10 +414,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;joining a community group.&lt;/s0&gt; You can search for local community groups and services on this &lt;a1&gt;government website&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T162731Z" creationid="Patricia" creationdate="20180516T193651Z">
+        <seg>&lt;s0&gt;Unirse a una comunidad.&lt;/s0&gt; Encuentra un grupo de ayuda comiunitaria en esta &lt;a1&gt;página web del gobierno&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;talking to your manager in private&lt;/s0&gt; during supervision or requesting a one-to-one meeting</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173829Z" creationid="Ainhoa" creationdate="20180519T173829Z">
         <seg>&lt;s0&gt;hablar con tu jefe en privado&lt;/s0&gt; durante el periodo de supervisión o solicitar una reunión uno a uno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;volunteering&lt;/s0&gt;&lt;s1&gt;.&lt;/s1&gt; For local volunteering ideas and opportunities, see the &lt;a2&gt;National Council For Voluntary Organisations&lt;/a2&gt; website (England) or &lt;a3&gt;Volunteering Wales&lt;/a3&gt; website.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T162814Z" creationid="Patricia" creationdate="20180516T193346Z">
+        <seg>&lt;s0&gt;Voluntariado&lt;/s0&gt;&lt;s1&gt;.&lt;/s1&gt;Para ideas de voluntariados y oportunidades locales&lt;a2&gt;National Council For Voluntary Organisations&lt;/a2&gt; página web (Inglaterra) o la página web &lt;a3&gt;Volunteering Wales&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +538,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T204058Z" creationid="Ainhoa" creationdate="20180519T204058Z">
         <seg>Además, cuando nos sentimos ansiosos, nuestro cuerpo libera unas hormonas llamadas cortisol y adrenalina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Alternatively, you could check your local noticeboards and newspapers to find out what is available near you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T193840Z" creationid="Patricia" creationdate="20180516T193840Z">
+        <seg>También puedes mirar en los tablones de anuncios locales y periódicos para encontrar aquellos que están más cerca de ti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Disability discrimination</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180511T185831Z" creationid="Patricia" creationdate="20180511T185831Z">
+        <seg>Discriminación por discapacidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Discrimination at work</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175534Z" creationid="Ainhoa" creationdate="20180519T175534Z">
@@ -738,6 +786,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202327Z" creationid="Ainhoa" creationdate="20180519T202327Z">
         <seg>Resiliencia emocional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Employees have the right to:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180511T185448Z" creationid="Patricia" creationdate="20180511T185448Z">
+        <seg>Los empleados tienen derecho a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -794,6 +850,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094319Z" creationid="usuario" creationdate="20180515T094319Z">
         <seg>Descubrir qué tipo de trabajo se acopla a tus necesidades puede ayudarte a sentirte mejor, controlando tu salud mental mientras trabajas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Find A Community Support Group page on government website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T193526Z" creationid="Patricia" creationdate="20180516T193526Z">
+        <seg>Encuentra un grupo de ayuda comiunitaria en la página web del gobierno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>For more information, see the &lt;a0&gt;Health and Safety Executive&lt;/a0&gt; (HSE).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160344Z" creationid="Patricia" creationdate="20180518T160344Z">
+        <seg>Para obtener más información, consulte el Ejecutivo de Salud y Seguridad (HSE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>For more information, see the government website on &lt;a1&gt;taking sick leave&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182035Z" creationid="Ainhoa" creationdate="20180519T181950Z">
@@ -906,6 +978,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172543Z" creationid="Ainhoa" creationdate="20180519T172440Z">
         <seg>Cómo recibir apoyo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Getting the right support can make a big difference to your mental health, so that's why we’re campaigning to change these schemes.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T162845Z" creationid="Patricia" creationdate="20180516T192724Z">
+        <seg>Obtener la ayuda adecuada puede marcar la diferencia para tu salud mental, es por eso que estamos haciendo campaña para cambiar estas pautas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you are looking for legal advice about your rights at work, see our pages on &lt;a0&gt;discrimination at work&lt;/a0&gt; and &lt;a1&gt;disability discrimination&lt;/a1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T175812Z" creationid="Patricia" creationdate="20180521T175812Z">
+        <seg>Si estás buscando más información sobre tus derechps en el ámbito laboral, visita nuestras páginas &lt;a0&gt;discriminación en el trabajo&lt;/a0&gt; y &lt;a1&gt;discriminación por discapacidad&lt;/a1&gt;para más información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If you are off work for more than seven days in a row, you will need to get a '&lt;a0&gt;fit note&lt;/a0&gt;' from your GP or hospital doctor.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T181747Z" creationid="Ainhoa" creationdate="20180519T181556Z">
@@ -1098,6 +1186,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180712Z" creationid="Ainhoa" creationdate="20180519T180712Z">
         <seg>Si no estás bien para trabajar en este momento, es posible que necesites tomarte algunos días libres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you are unable to work there are still ways of getting the benefits of having a job, such as meeting new people, gaining skills and contributing to a community.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T193059Z" creationid="Patricia" creationdate="20180516T193059Z">
+        <seg>Si no estás todavía bien como para trabajar, siguen habiendo formas de obtener los beneficion de tener un empleo, como por ejemplo conocer gente nueva y contribuir con alguna asociación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you feel able to, you may want to think about:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T162825Z" creationid="Patricia" creationdate="20180516T193132Z">
+        <seg>Si te sientes capacitado, quizá quieras pensar en ello:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,6 +1226,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175834Z" creationid="Ainhoa" creationdate="20180519T175704Z">
         <seg>Si tienes una enfermedad de salud mental que se considera una discapacidad y tu jefe lo sabe, este tiene el deber, de acuerdo con la &lt;a0&gt;Ley de igualdad&lt;/a0&gt;, de llevar a cabo "ajustes razonables" en tu beneficio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you have a mental health problem and you're facing barriers to finding employment, there are organisations that can support you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T191735Z" creationid="Patricia" creationdate="20180516T191735Z">
+        <seg>Si sufres de un problema de salud menta y estás encontrando impedimentos para encontrar empleo, hay organizaciones que pueden ayudarte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1310,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>It is discrimination if you are treated worse than others at work because of your disability.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160427Z" creationid="Patricia" creationdate="20180511T185714Z">
+        <seg>Es discriminación si recibes un trato peor que otros en el trabajo debido a tu discapacidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It often takes longer if you try to do too much at the same time.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082543Z" creationid="usuario" creationdate="20180515T082543Z">
@@ -1394,6 +1514,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201959Z" creationid="Ainhoa" creationdate="20180519T201959Z">
         <seg>Manejo del estrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Many people find going to work is good for their mental health.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T175531Z" creationid="Patricia" creationdate="20180521T175531Z">
+        <seg>Muchas personas sienten que ir a trabajar es positivo para su salud mental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>People experience unemployment for different reasons, such as:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180511T190015Z" creationid="Patricia" creationdate="20180511T190015Z">
+        <seg>Las personas experimentan desempleo por diferentes razones, tales como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Poor work-life balance</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082821Z" creationid="usuario" creationdate="20180515T082821Z">
@@ -1710,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Rethink website</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T192142Z" creationid="Patricia" creationdate="20180516T192142Z">
+        <seg>Página web de empleo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Returning to work</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182228Z" creationid="Ainhoa" creationdate="20180519T182228Z">
@@ -1742,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>See our pages on &lt;a0&gt;wellbeing&lt;/a0&gt; and &lt;a1&gt;increasing your self-esteem&lt;/a1&gt; for ways to look after yourself.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T161140Z" creationid="Patricia" creationdate="20180511T190155Z">
+        <seg>Consulta nuestras páginas sobre bienestar y aumenta tu autoestima para encontrar maneras de cuidarte a tí mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>See our pages on &lt;a1&gt;physical activity &lt;/a1&gt;and &lt;a2&gt;food and mood &lt;/a2&gt;for more information on how this can help your mental health.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180511T142021Z" creationid="usuario" creationdate="20180511T142021Z">
@@ -1754,6 +1906,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173040Z" creationid="Ainhoa" creationdate="20180519T173040Z">
         <seg>Para más información, dirígete a nuestras páginas sobre discriminación y discriminación en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>See our web pages about &lt;a0&gt;disability discrimination&lt;/a0&gt; and &lt;a1&gt;discrimination at work&lt;/a1&gt; for more information or contact the &lt;a2&gt;Equality Advisory and Support Service&lt;/a2&gt; for independent support and advice.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160628Z" creationid="Patricia" creationdate="20180511T185912Z">
+        <seg>Consulta nuestras páginas web sobre discriminación y discriminación por discapacidad en el trabajo para obtener más información o comuníquese con el Servicio de asesoría y apoyo para la igualdad para recibir asistencia y asesoramiento de manera independiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1938,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203446Z" creationid="usuario" creationdate="20180519T203446Z">
         <seg>Autoestima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Shaw Trust and &lt;a0&gt;Remploy&lt;/a0&gt; work with people with mental health problems, helping them prepare for interviews, find appropriate employment and stay well in work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T162909Z" creationid="Patricia" creationdate="20180516T191924Z">
+        <seg>Shaw Trust y &lt;a0&gt;Remploy&lt;/a0&gt; trabaja con personas con problemas de salud mental, ayudándoles a preparar entrevistas, encontrar un empleo apropiado y a encontrarse bien en el trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1962,6 +2130,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164544Z" creationid="usuario" creationdate="20180518T164544Z">
         <seg>La página de &lt;a2&gt;Be Mindful&lt;/a2&gt; tiene trucos sobre cómo hacer esto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The Equality Act 2010 protects you from discrimination when you're:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160517Z" creationid="Patricia" creationdate="20180511T185721Z">
+        <seg>La Equality Act 2010 te protege de la discriminación cuando:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>We know that back-to-work schemes often fail to provide the support that people with mental health problems need to stay well, return to, or start work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T162854Z" creationid="Patricia" creationdate="20180516T192625Z">
+        <seg>Sabemos que las pautas para volver al trabajo en ocasiones fallan al proporcionar ayuda a aquellas personas con problemas de salud al tratar que estén conformes con la vuelta al trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>We will revise it in 2019.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182453Z" creationid="usuario" creationdate="20180518T205156Z">
@@ -2322,6 +2506,30 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180642Z" creationid="Ainhoa" creationdate="20180519T180642Z">
         <seg>¿Qué sucede si necesito tomarme tiempo libre en el trabajo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What if I'm not well enough to work?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T192912Z" creationid="Patricia" creationdate="20180516T192912Z">
+        <seg>¿Y qué pasa si no estoy totalmente bien para trabajar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What if I'm unemployed?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180511T185915Z" creationid="Patricia" creationdate="20180511T185915Z">
+        <seg>¿Qué pasa si estoy desempleado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What is disability discrimination?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180511T185639Z" creationid="Patricia" creationdate="20180511T185639Z">
+        <seg>¿Qué es discriminación por discapacidad?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2382,10 +2590,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>When looking for a new job, challenges such as finding a suitable role, writing applications and attending interviews can take time.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180511T190111Z" creationid="Patricia" creationdate="20180511T190111Z">
+        <seg>Al buscar un nuevo trabajo, desafíos como encontrar un papel adecuado, escribir aplicaciones y asistir a entrevistas pueden llevar tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>When we say things like "this is stressful" or "I'm stressed", we might be talking about:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201151Z" creationid="Ainhoa" creationdate="20180519T201151Z">
         <seg>Cuando decimos cosas como "esto es estresante" o "estoy estresado", podríamos estar hablando de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Whether you have a mental health problem or not, your employer has a duty of care to you under health and safety legislation.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160208Z" creationid="Patricia" creationdate="20180511T185443Z">
+        <seg>Ya sea que tengas un problema de salud mental o no, tu jefe tiene el deber de protegerte bajo la legislación de salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Who can support me in finding a job?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T191622Z" creationid="Patricia" creationdate="20180516T191622Z">
+        <seg>¿Quién me puede ayudar a encontrar trabajo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,6 +2646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Will I always get the support I need to go back to work?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T192320Z" creationid="Patricia" creationdate="20180516T192320Z">
+        <seg>¿Tendré siempre la ayuda que necesito para volver a trabajar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>With flexible working, you work a set number of hours (possibly full or part-time) but have greater control over when you work.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T101057Z" creationid="usuario" creationdate="20180515T095747Z">
@@ -2438,10 +2678,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Work takes my mind off my mental illness but also makes it worse as no-one around you knows what you are going through so you have to pretend everything is fine.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160143Z" creationid="Patricia" creationdate="20180511T185403Z">
+        <seg>El trabajo hace que deje de pensar en mi enfermedad mental, pero también empeora, ya que nadie a tu alrededor sabe lo que estás pasando, así que tienes que fingir que todo está bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You are considered disabled if your mental health problem has a substantial and long-term adverse effect (12 months, or more) on your ability to carry out normal day-to-day activities.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160415Z" creationid="Patricia" creationdate="20180511T185702Z">
+        <seg>Se te considera discapacitado si tu problema de salud mental tiene un efecto adverso sustancial y a largo plazo (12 meses o más) en yu capacidad para llevar a cabo actividades diarias normales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>You can find Mind's example WAP and a guide for your manager about WAPs online &lt;a1&gt;here&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174745Z" creationid="Ainhoa" creationdate="20180519T174745Z">
         <seg>Puedes encontrar el WAP de ejemplo de Mind y una guía online para tu gerente sobre WAP &lt;a1&gt;aquí&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You can find out more about our back-to-work campaign and how to get involved by reading more about our &lt;a0&gt;back-to-work manifesto&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T192842Z" creationid="Patricia" creationdate="20180516T192842Z">
+        <seg>Podrás encontrar más información sobre la campaña de la vuelta al trabajo y sobre como involucrarte leyendo más sobre el manifiesto de la vuelta al trabajo&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>You might find that being unemployed affects your confidence, or that it can be disheartening if employers don't get back to you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T161054Z" creationid="Patricia" creationdate="20180511T190127Z">
+        <seg>Tal vez descubras que estar desempleado afecta tu confianza, o que puede ser desalentador si los jefes no te responden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>You might find that your first clues about being stressed are physical signs, such as tiredness, headaches or an upset stomach.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203705Z" creationid="Ainhoa" creationdate="20180519T203705Z">
@@ -2522,6 +2794,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182317Z" creationid="Ainhoa" creationdate="20180519T182317Z">
         <seg>Tu jefe debe apoyarte cuando esté listo para reincorporarse al trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Your local &lt;a0&gt;Jobcentre Plus&lt;/a0&gt; can support you in finding a job that is right for you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T191824Z" creationid="Patricia" creationdate="20180516T191824Z">
+        <seg>Tu local &lt;a0&gt;Jobcentre Plus&lt;/a0&gt; puede ayudarte a encontrar trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2574,10 +2854,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>applying for a job</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160528Z" creationid="Patricia" creationdate="20180511T185738Z">
+        <seg>Solicitas un trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>ask for on-the-job support (such as a workplace mentor) or permission for a &lt;s0&gt;support worker&lt;/s0&gt; to come in or be contacted during work hours</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180205Z" creationid="Ainhoa" creationdate="20180519T180205Z">
         <seg>Pide apoyo en el trabajo (como por ejemplo un mentor) o permiso para acceder a un &lt;s0&gt;trabajador social&lt;/s0&gt; que acuda a tu lugar de trabajo o al que puedas contactar en horas laborables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>at work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160531Z" creationid="Patricia" creationdate="20180511T185741Z">
+        <seg>En el trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2698,6 +2994,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180027Z" creationid="Ainhoa" creationdate="20180519T180027Z">
         <seg>Discutir la posibilidad de&lt;s0&gt;trabajo flexible&lt;/s0&gt; que se adapte a tus necesidades, si, por ejemplo, tienes que acudir a una cita médica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>dismissal</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160655Z" creationid="Patricia" creationdate="20180511T190030Z">
+        <seg>Despido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>dismissed</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160546Z" creationid="Patricia" creationdate="20180511T185756Z">
+        <seg>Despido</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>lack of opportunities</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160647Z" creationid="Patricia" creationdate="20180511T190025Z">
+        <seg>Falta de oportunidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>less stability</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161307Z" creationid="usuario" creationdate="20180515T161307Z">
@@ -2974,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>made redundant</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160538Z" creationid="Patricia" creationdate="20180511T185745Z">
+        <seg>Hecho redundante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>moving house</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205208Z" creationid="usuario" creationdate="20180519T205208Z">
@@ -3010,6 +3338,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T100553Z" creationid="usuario" creationdate="20180515T100255Z">
         <seg>no siempre es posible &lt;s0&gt;–&lt;/s0&gt; por ejemplo, algunos trabajos requieren horas específicas en las que se deben trabajar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>not being well enough to work</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160709Z" creationid="Patricia" creationdate="20180511T190032Z">
+        <seg>No estar lo suficientemente bien para trabajar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,6 +3430,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>protection after returning to work from sickness absence if they have become more vulnerable due to their illness</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160312Z" creationid="Patricia" creationdate="20180511T185604Z">
+        <seg>Protección después de regresar al trabajo tras la ausencia por enfermedad si te has vuelto más vulnerable debido a tu enfermedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>redundancy</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160636Z" creationid="Patricia" creationdate="20180511T190020Z">
+        <seg>Redundancia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>relocation</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160651Z" creationid="Patricia" creationdate="20180511T190027Z">
+        <seg>Reubicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>remote/home working</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095218Z" creationid="usuario" creationdate="20180515T095218Z">
@@ -3122,6 +3482,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T095134Z" creationid="usuario" creationdate="20180515T095134Z">
         <seg>Trabajo por turnos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>sickness</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160642Z" creationid="Patricia" creationdate="20180511T190022Z">
+        <seg>Enfermedad</seg>
       </tuv>
     </tu>
     <tu>
@@ -3218,6 +3586,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172924Z" creationid="Ainhoa" creationdate="20180519T165417Z">
         <seg>qué tipo de ayuda puedes pedir en el trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>work where risks to their health are properly controlled</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160318Z" creationid="Patricia" creationdate="20180511T185506Z">
+        <seg>Un trabajo donde los riesgos para su salud estén controlados adecuadamente</seg>
       </tuv>
     </tu>
     <tu>
