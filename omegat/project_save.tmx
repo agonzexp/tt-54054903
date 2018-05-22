@@ -3944,16 +3944,16 @@
       <tuv lang="EN-GB">
         <seg>use &lt;s0&gt;email&lt;/s0&gt; where possible if you find face-to-face contact stressful</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180008Z" creationid="Ainhoa" creationdate="20180519T180008Z">
-        <seg>usar &lt;s0&gt;email&lt;/s0&gt; cuando sea posible si te estresan los encuentros cara a cara</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180522T115151Z" creationid="Ainhoa" creationdate="20180519T180008Z">
+        <seg>Usar &lt;s0&gt;email&lt;/s0&gt; cuando sea posible si te estresan los encuentros cara a cara</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>use &lt;s0&gt;voicemail&lt;/s0&gt; to take messages if phone calls make you anxious</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180002Z" creationid="Ainhoa" creationdate="20180519T180002Z">
-        <seg>usar &lt;s0&gt;mensajes de voz&lt;/s0&gt; para recibir mensajes si las llamadas te crean ansiedad</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180522T115143Z" creationid="Ainhoa" creationdate="20180519T180002Z">
+        <seg>Usar &lt;s0&gt;mensajes de voz&lt;/s0&gt; para recibir mensajes si las llamadas te crean ansiedad</seg>
       </tuv>
     </tu>
     <tu>
