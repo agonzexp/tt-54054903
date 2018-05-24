@@ -1504,8 +1504,8 @@
       <tuv lang="EN-GB">
         <seg>How you might feel</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T204925Z" creationid="Vicky" creationdate="20180519T204925Z">
-        <seg>Cómo te comportarías</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223050Z" creationid="Vicky" creationdate="20180519T204925Z">
+        <seg>Cómo te sentirías</seg>
       </tuv>
     </tu>
     <tu>
@@ -2224,8 +2224,8 @@
       <tuv lang="EN-GB">
         <seg>My head is tight and all my thoughts are whizzing round in different directions and I can't catch them.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T204921Z" creationid="Vicky" creationdate="20180519T204905Z">
-        <seg>Tengo la cabeza apretada y todos mis pensamientos giran en diferentes direcciones y no puedo atraparlos.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223042Z" creationid="Vicky" creationdate="20180519T204905Z">
+        <seg>Tengo la cabeza aprosionada y todos mis pensamientos giran en diferentes direcciones y no puedo atraparlos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,8 +2800,8 @@
       <tuv lang="EN-GB">
         <seg>Stress can affect you both emotionally and physically, and it can affect the way you behave.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T203354Z" creationid="Vicky" creationdate="20180519T203354Z">
-        <seg>El estrés puede afectarte de forma emocional y psicológica, y puede afectarte en la manera de actuar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222916Z" creationid="Vicky" creationdate="20180519T203354Z">
+        <seg>El estrés puede afectarte tanto de forma emocional como psicológica, y puede afectar en tu manera de actuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4552,8 +4552,8 @@
       <tuv lang="EN-GB">
         <seg>like your thoughts are racing and you can't switch off</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T205456Z" creationid="Vicky" creationdate="20180519T205456Z">
-        <seg>como si tus pensamientos estuviesen corriendo y tu no pudieses alcanzarlos</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223155Z" creationid="Vicky" creationdate="20180519T205456Z">
+        <seg>como si tus pensamientos estuviesen corriendo y tu no pudieses detenerlos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4714,6 +4714,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193946Z" creationid="usuario" creationdate="20180519T204713Z">
         <seg>Organizar un evento complicado, como unas vacaciones en grupo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>over-burdened</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223124Z" creationid="usuario" creationdate="20180524T223124Z">
+        <seg>abrumado</seg>
       </tuv>
     </tu>
     <tu>
