@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3440,8 +3440,8 @@
       <tuv lang="EN-GB">
         <seg>What will be helpful for you will depend on what sort of work you do, and what sort of things you find difficult.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175940Z" creationid="Ainhoa" creationdate="20180519T175940Z">
-        <seg>Lo que es beneficioso para ti dependerá del tipo de trabajo realizas y de dónde encuentras mayor dificultad.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T213221Z" creationid="Ainhoa" creationdate="20180519T175940Z">
+        <seg>Lo que es beneficioso para ti dependerá del tipo de trabajo que realizas y de dónde encuentras mayor dificultad.</seg>
       </tuv>
     </tu>
     <tu>
