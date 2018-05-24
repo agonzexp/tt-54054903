@@ -1248,8 +1248,8 @@
       <tuv lang="EN-GB">
         <seg>For further guidance, see our &lt;a0&gt;information on telling your employer&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180518T164130Z" creationid="Ainhoa" creationdate="20180518T164130Z">
-        <seg>Para obtener más orientación, consulte nuestra &lt;a0&gt;información sobre cómo decirle a su empleador&lt;/a0&gt;.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T211313Z" creationid="Ainhoa" creationdate="20180518T164130Z">
+        <seg>Para obtener más orientación, consulta nuestra &lt;a0&gt;información sobre cómo decírselo a tu jefe &lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3616,8 +3616,8 @@
       <tuv lang="EN-GB">
         <seg>You can find Mind's example WAP and a guide for your manager about WAPs online &lt;a1&gt;here&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174745Z" creationid="Ainhoa" creationdate="20180519T174745Z">
-        <seg>Puedes encontrar el WAP de ejemplo de Mind y una guía online para tu gerente sobre WAP &lt;a1&gt;aquí&lt;/a1&gt;.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T211208Z" creationid="Ainhoa" creationdate="20180519T174745Z">
+        <seg>Puedes encontrar el WAP de ejemplo de Mind y una guía online para tu jefe sobre WAP &lt;a1&gt;aquí&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
