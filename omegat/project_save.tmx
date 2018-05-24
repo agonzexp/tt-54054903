@@ -168,8 +168,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;a0&gt;problems getting to sleep&lt;/a0&gt;, staying asleep or having nightmares</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210718Z" creationid="Vicky" creationdate="20180519T210718Z">
-        <seg>&lt;a0&gt;problemas para dormir&lt;/a0&gt;, quedarse dormido o tener pesadillas</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223850Z" creationid="Vicky" creationdate="20180519T210718Z">
+        <seg>&lt;a0&gt;problemas para dormir&lt;/a0&gt;, quedándote dormido o teniendo pesadillas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3848,8 +3848,8 @@
       <tuv lang="EN-GB">
         <seg>[It feels like] the world is closing in on me, I can't breathe and I'm running out of time.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210821Z" creationid="Vicky" creationdate="20180519T210821Z">
-        <seg>[Parece que] el mundo se está acercando a mí, no puedo respirar y me estoy quedando sin tiempo.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T224046Z" creationid="Vicky" creationdate="20180519T210821Z">
+        <seg>[Parece que] el mundo me está afixiando, no puedo respirar y se me está acabando el tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4248,8 +4248,8 @@
       <tuv lang="EN-GB">
         <seg>feeling sick, dizzy or fainting.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210814Z" creationid="Vicky" creationdate="20180519T210814Z">
-        <seg>encontrarse mal, mareado o desmayarse.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223957Z" creationid="Vicky" creationdate="20180519T210814Z">
+        <seg>encontrándote mal, mareado o desmayándose.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4376,8 +4376,8 @@
       <tuv lang="EN-GB">
         <seg>grinding your teeth or clenching your jaw</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210754Z" creationid="Vicky" creationdate="20180519T210748Z">
-        <seg>rechinar los dientes o apretar la mandíbula</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223909Z" creationid="Vicky" creationdate="20180519T210748Z">
+        <seg>rechinando los dientes o apretando la mandíbula</seg>
       </tuv>
     </tu>
     <tu>
@@ -4408,8 +4408,8 @@
       <tuv lang="EN-GB">
         <seg>high blood pressure</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210759Z" creationid="Vicky" creationdate="20180519T210759Z">
-        <seg>alta presion sanguinea</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223923Z" creationid="Vicky" creationdate="20180519T210759Z">
+        <seg>alta presión sanguínea</seg>
       </tuv>
     </tu>
     <tu>
@@ -4616,8 +4616,8 @@
       <tuv lang="EN-GB">
         <seg>muscle tension</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210657Z" creationid="Vicky" creationdate="20180519T210657Z">
-        <seg>tension muscular</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223833Z" creationid="Vicky" creationdate="20180519T210657Z">
+        <seg>tensión muscular</seg>
       </tuv>
     </tu>
     <tu>
@@ -4992,8 +4992,8 @@
       <tuv lang="EN-GB">
         <seg>tired all the time</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210736Z" creationid="Vicky" creationdate="20180519T210736Z">
-        <seg>estar cansado todo el tiempo</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223902Z" creationid="Vicky" creationdate="20180519T210736Z">
+        <seg>cansado todo el tiempo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5144,8 +5144,8 @@
       <tuv lang="EN-GB">
         <seg>you might have a &lt;a0&gt;panic attack&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210654Z" creationid="Vicky" creationdate="20180519T210654Z">
-        <seg>puedes tener un &lt;a0&gt;ataque de pánico&lt;/a0&gt;</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223829Z" creationid="Vicky" creationdate="20180519T210654Z">
+        <seg>puedes que tengas un &lt;a0&gt;ataque de pánico&lt;/a0&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
