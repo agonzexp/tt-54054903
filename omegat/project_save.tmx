@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -424,8 +424,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Remember:&lt;/s0&gt; if you are considered disabled (as defined by the Equality Act) because of your mental health problem, you have specific rights in relation to getting support at work.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173027Z" creationid="Ainhoa" creationdate="20180519T173027Z">
-        <seg>&lt;s0&gt;Recuerda:&lt;/s0&gt; si se te considera discapacitado (tal y como se define en la ley de Igualdad) debido a tu problema de salud mental, tienes ciertos derechos a la hora de pedir apoyo en el trabajo.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T210442Z" creationid="Ainhoa" creationdate="20180519T173027Z">
+        <seg>&lt;s0&gt;Recuerda:&lt;/s0&gt; si se te considera discapacitado (tal y como se define en la Ley de Igualdad) debido a tu problema de salud mental, tienes ciertos derechos a la hora de pedir apoyo en el trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,8 +1728,8 @@
       <tuv lang="EN-GB">
         <seg>If you're experiencing a mental health problem that is impacting your working life, it can be tricky to know what action to take.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172821Z" creationid="Ainhoa" creationdate="20180519T165354Z">
-        <seg>Si estás experimentando un problema de salud mental que está afectando tu vida laboral, puede ser difícil saber qué medidas tomar.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T210254Z" creationid="Ainhoa" creationdate="20180519T165354Z">
+        <seg>Si estás experimentando un problema de salud mental que está afectando a tu vida laboral, puede ser difícil saber qué medidas debes tomar.</seg>
       </tuv>
     </tu>
     <tu>
