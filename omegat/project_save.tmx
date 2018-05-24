@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Issues that come up regularly,&lt;/s0&gt; and that you worry about, for example paying a bill or attending an appointment.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T194454Z" creationid="Vicky" creationdate="20180519T194454Z">
-        <seg>Problemas que surgen regularmente y de los que te preocupas, por ejemplo, pagar una factura o asistir a una cita.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T220731Z" creationid="Vicky" creationdate="20180519T194454Z">
+        <seg>&lt;s0&gt;Problemas que surgen regularmente&lt;/s0&gt; y de los que te preocupas, por ejemplo, pagar una factura o asistir a una cita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,16 +376,16 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;One-off events&lt;/s0&gt; that are on your mind a lot, such as moving house or taking an exam.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T194552Z" creationid="Vicky" creationdate="20180519T194552Z">
-        <seg>Eventos únicos que tienes en mente, como mudarte de casa o hacer un examen.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T220827Z" creationid="Vicky" creationdate="20180519T194552Z">
+        <seg>&lt;s0&gt;Eventos únicos&lt;/s0&gt; en los que sueles pensar constantemente, como mudarte de casa o hacer un examen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Ongoing stressful events&lt;/s0&gt;, like being a carer or having problems at work.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T194649Z" creationid="Vicky" creationdate="20180519T194649Z">
-        <seg>Eventos estresantes, como tener que cuidar de alguien o tener problemas en el trabajo.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T220906Z" creationid="Vicky" creationdate="20180519T194649Z">
+        <seg>&lt;s0&gt;Eventos estresantes&lt;/s0&gt;, como tener que cuidar de alguien o tener problemas en el trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1096,8 +1096,8 @@
       <tuv lang="EN-GB">
         <seg>Even if you can't avoid these situations, being prepared can help.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T194320Z" creationid="Vicky" creationdate="20180519T194320Z">
-        <seg>Incluso si no puedes evitar estas situaciones, el estar preparado te puede ayudar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T220620Z" creationid="Vicky" creationdate="20180519T194320Z">
+        <seg>Aunque no puedas evitar estas situaciones, el estar preparado te puede ayudar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,8 +2056,8 @@
       <tuv lang="EN-GB">
         <seg>Making some adjustments to the way you organise your time could help you feel more in control of any tasks you're facing, and more able to handle pressure.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195002Z" creationid="Vicky" creationdate="20180519T195002Z">
-        <seg>Hacer algunos ajustes en la forma en la que organizas tu tiempo podría ayudarte a tener más control de las tareas que enfrentas y a manejar la presión.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221104Z" creationid="Vicky" creationdate="20180519T195002Z">
+        <seg>Hacer algunos ajustes en la forma en la que organizas tu tiempo podría ayudarte a tener más control sobre cualquier tarea a la que enfrentas y a manejar la presión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2848,8 +2848,8 @@
       <tuv lang="EN-GB">
         <seg>Take some time to reflect on events and feelings that could be contributing to your stress (you could do this on your own or with someone you trust).</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T194416Z" creationid="Vicky" creationdate="20180519T194416Z">
-        <seg>Tómate tu tiempo para reflexionar sobre los eventos y sentimientos que podrían estar  provocando  tu estrés (puedes hacerlo solo o con alguien de confianza).</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T220718Z" creationid="Vicky" creationdate="20180519T194416Z">
+        <seg>Tómate tu tiempo para reflexionar sobre los sucesos y sentimientos que pudieran estar provocándote estrés (puedes hacerlo solo o con alguien de confianza).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3600,8 +3600,8 @@
       <tuv lang="EN-GB">
         <seg>Working out what triggers stress for you can help you anticipate problems and think of ways to solve them.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T194255Z" creationid="Vicky" creationdate="20180519T194255Z">
-        <seg>Determinar qué factores desencadenan el estrés puede ayudarte a anticipar los problemas y a pensar en las formas de resolverlos.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T220550Z" creationid="Vicky" creationdate="20180519T194255Z">
+        <seg>Determinar qué factores desencadenan el estrés puede ayudarte a anticipar los problemas y a pensar en las formas de poder resolverlos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3704,8 +3704,8 @@
       <tuv lang="EN-GB">
         <seg>You might be surprised to find out just how much you're coping with at once. Remember that not having enough work, activities or change in your life can be just as stressful a situation as having too much to deal with.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T194850Z" creationid="Vicky" creationdate="20180519T194850Z">
-        <seg>Es posible que te sorprendas al descubrir cuánto estás haciendo frente a la vez. Recuerda que no tener suficiente traajo, actividades o cambios en tu vida puede ser una situación tan estresante como tener demasiado con lo que lidiar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221025Z" creationid="Vicky" creationdate="20180519T194850Z">
+        <seg>Puede que te sorprendas al descubrir a cuánto le estás haciendo frente de golpe. Recuerda que no tener suficiente trabajo, actividades o cambios en tu vida puede ser una situación tan estresante como tener demasiado con lo que lidiar.</seg>
       </tuv>
     </tu>
     <tu>
