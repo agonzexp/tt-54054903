@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -296,8 +296,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Identify your best time of day,&lt;/s0&gt; and do the important tasks that need the most energy and concentration at that time.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195030Z" creationid="Vicky" creationdate="20180519T195030Z">
-        <seg>Identifica tu mejor momento del día y realiza las tareas importantes que necesitan más energía y concentración en ese momento.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221139Z" creationid="Vicky" creationdate="20180519T195030Z">
+        <seg>&lt;s0&gt;Identifica tu mejor momento del día,&lt;/s0&gt; y realiza las tareas importantes que necesitan más energía y concentración en ese momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Make a list&lt;/s0&gt; of things you have to do.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195117Z" creationid="Vicky" creationdate="20180519T195117Z">
-        <seg>Haz una lista de cosas que tienes que hacer.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221211Z" creationid="Vicky" creationdate="20180519T195117Z">
+        <seg>&lt;s0&gt;Haz una lista&lt;/s0&gt; de cosas que tienes que hacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2720,8 +2720,8 @@
       <tuv lang="EN-GB">
         <seg>Some people find creating a timetable useful so they can plan when they can spend time on each task.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195206Z" creationid="Vicky" creationdate="20180519T195206Z">
-        <seg>A algunas personas les resulta útil hacerse un horario para poder planear cuánto pueden dedicar tiempo a cada tarea.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221619Z" creationid="Vicky" creationdate="20180519T195206Z">
+        <seg>A algunas personas les resulta útil hacerse un horario para poder planear cuánto tiempo pueden dedicarle a cada tarea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3688,8 +3688,8 @@
       <tuv lang="EN-GB">
         <seg>You may be able to push back some tasks until you're feeling less stressed.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195305Z" creationid="Vicky" creationdate="20180519T195305Z">
-        <seg>Es posible que puedas retrasar algunas tareas hasta que te sientas menos estresado.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221712Z" creationid="Vicky" creationdate="20180519T195305Z">
+        <seg>Puede que tengas la posibilidad de retrasar algunas tareas hasta que te sientas menos estresado.</seg>
       </tuv>
     </tu>
     <tu>
