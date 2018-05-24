@@ -88,8 +88,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;/s0&gt;When you’re under a lot of pressure it’s easy to set yourself large targets that are often unachievable.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195327Z" creationid="Vicky" creationdate="20180519T195327Z">
-        <seg>Cuando estás bajo mucha presión, es fácil establecer objetivos grandes que a menudo son inalcanzables.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221806Z" creationid="Vicky" creationdate="20180519T195327Z">
+        <seg>&lt;/s0&gt;Cuando estás bajo mucha presión, es fácil establecerte grandes metas que a menudo son inalcanzables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Set smaller and more achievable targets.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195318Z" creationid="Vicky" creationdate="20180519T195318Z">
-        <seg>Establece objetivos más pequeños y alcanzables.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221723Z" creationid="Vicky" creationdate="20180519T195318Z">
+        <seg>&lt;s0&gt;Establece objetivos más pequeños y alcanzables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,16 +504,16 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Try not to do too much at once.&lt;/s0&gt; If you take on too much, you might find it harder to do any individual task well.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195436Z" creationid="Vicky" creationdate="20180519T195436Z">
-        <seg>Si asumes demasiado, puede que te cueste más hacer bien cualquier tarea individual.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222040Z" creationid="Vicky" creationdate="20180519T195436Z">
+        <seg>&lt;s0&gt;Intenta no hacer demasiado al mismo tiempo&lt;/s0&gt; Si asumes demasiado, puede que te cueste más hacer bien cualquier tarea individual.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Vary your activities.&lt;/s0&gt; Balance interesting tasks with more mundane ones, and stressful tasks with those you find easier or can do more calmly.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195424Z" creationid="Vicky" creationdate="20180519T195424Z">
-        <seg>Equilibra tareas interesantes con otras más mundanas, y tareas estresantes con las que te resulten más fáciles o que puedas hacer con más calma.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221950Z" creationid="Vicky" creationdate="20180519T195424Z">
+        <seg>&lt;s0&gt;Varía tus actividades&lt;/s0&gt; Equilibra tareas interesantes con otras más mundanas, y tareas estresantes con las que te resulten más fáciles o que puedas hacer con más calma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2624,8 +2624,8 @@
       <tuv lang="EN-GB">
         <seg>Setting smaller more achievable goals can make you feel in more control and you can see your achievements more easily.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195358Z" creationid="Vicky" creationdate="20180519T195358Z">
-        <seg>Establecer metas más pequeñas y alcanzables puede hacerte sentir con más control y puedes ver tus logros más fácilmente.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221911Z" creationid="Vicky" creationdate="20180519T195358Z">
+        <seg>Establecer metas más pequeñas y alcanzables puede hacerte sentir que tienes más control y ver tus logros más fácilmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3080,8 +3080,8 @@
       <tuv lang="EN-GB">
         <seg>This can make you feel more stressed and if you don’t reach them, it can make you feel disappointed and frustrated.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195336Z" creationid="Vicky" creationdate="20180519T195336Z">
-        <seg>Esto puede hacer que te sientas más estresado y si no los alcanzas, puede hacerte sentir decepcionado y frustrado.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221840Z" creationid="Vicky" creationdate="20180519T195336Z">
+        <seg>Esto puede hacerte sentir más estresado y, si no los alcanzas, puede que te haga sentir decepcionado y frustrado.</seg>
       </tuv>
     </tu>
     <tu>
