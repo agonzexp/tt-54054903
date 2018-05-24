@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3008,8 +3008,8 @@
       <tuv lang="EN-GB">
         <seg>They help and support me any way they can.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T183445Z" creationid="Ainhoa" creationdate="20180519T180257Z">
-        <seg>Ellos me ayudan y me apoyan de todo lo que pueden. Ellos me ayudan y me apoyan de cualquier forma que pueden.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T220617Z" creationid="Ainhoa" creationdate="20180519T180257Z">
+        <seg>Ellos me ayudan y me apoyan en todo lo que pueden. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3920,8 +3920,8 @@
       <tuv lang="EN-GB">
         <seg>ask for on-the-job support (such as a workplace mentor) or permission for a &lt;s0&gt;support worker&lt;/s0&gt; to come in or be contacted during work hours</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180205Z" creationid="Ainhoa" creationdate="20180519T180205Z">
-        <seg>Pide apoyo en el trabajo (como por ejemplo un mentor) o permiso para acceder a un &lt;s0&gt;trabajador social&lt;/s0&gt; que acuda a tu lugar de trabajo o al que puedas contactar en horas laborables.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T220537Z" creationid="Ainhoa" creationdate="20180519T180205Z">
+        <seg>Pide apoyo en el trabajo (como por ejemplo un mentor) o permiso para acceder a un &lt;s0&gt;trabajador social&lt;/s0&gt; que acuda a tu lugar de trabajo o con que puedas contactar en horas laborables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4152,8 +4152,8 @@
       <tuv lang="EN-GB">
         <seg>discuss &lt;s0&gt;flexible working&lt;/s0&gt; to suit your needs, for example, so you can attend medical appointments</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180027Z" creationid="Ainhoa" creationdate="20180519T180027Z">
-        <seg>Discutir la posibilidad de&lt;s0&gt;trabajo flexible&lt;/s0&gt; que se adapte a tus necesidades, si, por ejemplo, tienes que acudir a una cita médica.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T220501Z" creationid="Ainhoa" creationdate="20180519T180027Z">
+        <seg>Discutir la posibilidad de&lt;s0&gt;un trabajo flexible&lt;/s0&gt; que se adapte a tus necesidades, si, por ejemplo, tienes que acudir a una cita médica.</seg>
       </tuv>
     </tu>
     <tu>
