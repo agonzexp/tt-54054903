@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;insurance cover&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222327Z" creationid="usuario" creationdate="20180524T222327Z">
+        <seg>&lt;a0&gt;seguro&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a0&gt;problems getting to sleep&lt;/a0&gt;, staying asleep or having nightmares</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210718Z" creationid="Vicky" creationdate="20180519T210718Z">
@@ -1968,8 +1976,8 @@
       <tuv lang="EN-GB">
         <seg>It's not easy, but accepting that there are some things happening to you that you probably can't do anything about will help you focus your time and energy more productively.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T202057Z" creationid="Vicky" creationdate="20180519T202057Z">
-        <seg>No es fácil, pero aceptar que ocurren cosas con las que no puedes hacer nada ak respecto puede ayudarte a enfocar tu tiempo y energía de una forma más productiva. </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222413Z" creationid="Vicky" creationdate="20180519T202057Z">
+        <seg>No es fácil, pero aceptar que te ocurren cosas con las que no puedes hacer nada al respecto puede ayudarte a enfocar tu tiempo y energía de una forma más productiva. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2168,8 +2176,8 @@
       <tuv lang="EN-GB">
         <seg>Most of the things I worry about are either things I can't change or things which aren't earth-shatteringly important.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T202143Z" creationid="Vicky" creationdate="20180519T202143Z">
-        <seg>La mayoría de las cosas que me preocupan son cosas que no puedo cambiar o cosas que no son tan importantes.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222525Z" creationid="Vicky" creationdate="20180519T202143Z">
+        <seg>La mayoría de las cosas que me preocupan son cosas que o bien no puedo cambiar o bien cosas que no son tan importantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2736,8 +2744,8 @@
       <tuv lang="EN-GB">
         <seg>Sometimes I take a minute to 'reply' to my stressy thoughts... it's hard to be stressed when you've got things in perspective!</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T202136Z" creationid="Vicky" creationdate="20180519T202136Z">
-        <seg>A veces me tomo un minuto para 'responder' a mis pensamientos estresantes ... ¡es difícil estar estresado cuando tienes las cosas en perspectiva!</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222452Z" creationid="Vicky" creationdate="20180519T202136Z">
+        <seg>A veces me tomo un minuto para "responder" a mis pensamientos estresantes... ¡Es difícil estar estresado cuando tienes las cosas en perspectiva!</seg>
       </tuv>
     </tu>
     <tu>
