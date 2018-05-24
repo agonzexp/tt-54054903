@@ -2046,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Loneliness</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223244Z" creationid="usuario" creationdate="20180524T223244Z">
+        <seg>Soledad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Lots of things stress me at the moment, mainly worries about my memory, as I'm a pensioner with nothing to do all day.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203249Z" creationid="usuario" creationdate="20180519T203249Z">
@@ -4104,8 +4112,8 @@
       <tuv lang="EN-GB">
         <seg>contantly worrying</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180522T111944Z" creationid="Vicky" creationdate="20180519T210110Z">
-        <seg>Preocupantemente preocupante</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223433Z" creationid="Vicky" creationdate="20180519T210110Z">
+        <seg>constantemente preocupante</seg>
       </tuv>
     </tu>
     <tu>
@@ -4264,8 +4272,8 @@
       <tuv lang="EN-GB">
         <seg>finding it hard to make decisions</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180522T111941Z" creationid="Vicky" creationdate="20180519T210103Z">
-        <seg>Resulta difícil tomar decisiones</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223453Z" creationid="Vicky" creationdate="20180519T210103Z">
+        <seg>Resultando difícil tomar decisiones</seg>
       </tuv>
     </tu>
     <tu>
