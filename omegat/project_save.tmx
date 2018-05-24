@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -216,8 +216,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Ask someone if they can help&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T200452Z" creationid="Vicky" creationdate="20180519T200452Z">
-        <seg>Pregúntele a alguien si te puede ayudar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222142Z" creationid="Vicky" creationdate="20180519T200452Z">
+        <seg>&lt;s0&gt;Pregúntele a alguien si te puede ayudar&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -464,8 +464,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Take breaks and take things slowly&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T200434Z" creationid="Vicky" creationdate="20180519T200434Z">
-        <seg>Toma descansos y toma las cosas lentamente.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222054Z" creationid="Vicky" creationdate="20180519T200434Z">
+        <seg>&lt;s0&gt;Toma descansos y toma las cosas lentamente&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,8 +696,8 @@
       <tuv lang="EN-GB">
         <seg>Address some of the causes</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T200537Z" creationid="Vicky" creationdate="20180519T200537Z">
-        <seg>Aborda algunas de las causas</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222252Z" creationid="Vicky" creationdate="20180519T200537Z">
+        <seg>Identifica algunas de las causas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1224,8 +1224,8 @@
       <tuv lang="EN-GB">
         <seg>For example, you could ask a friend or family member to help with some of your daily tasks so that you have more time to spend completing your tasks that are causing you to feel stressed.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T200534Z" creationid="Vicky" creationdate="20180519T200534Z">
-        <seg>Por ejemplo, podrías pedirle a un amigo o familiar que te ayude con algunas de tus tareas diarias para que tengas más tiempo para dedicar a completar las tareas que te hacen sentirte estresado.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222232Z" creationid="Vicky" creationdate="20180519T200534Z">
+        <seg>Por ejemplo, podrías pedirle a un amigo o familiar que te ayude con algunas de tus tareas diarias para que dispongas de más tiempo para dedicar a completar las tareas que te causan estrés.</seg>
       </tuv>
     </tu>
     <tu>
