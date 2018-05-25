@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>However, if you're finding it very hard to cope with things going on in your life and are experiencing lots of &lt;a0&gt;signs of stress&lt;/a0&gt;, there are treatments available that could help.  These include:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T190529Z" creationid="Ainhoa" creationdate="20180525T190338Z">
+        <seg>Sin embargo, si le resulta muy difícil hacer frente a las cosas que suceden en su vida y experimenta muchos &lt;a0&gt;signos de estrés&lt;/a0&gt;, existen tratamientos disponibles que podrían ayudar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>I don't take on too much at one time, little steps are the way.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T081928Z" creationid="usuario" creationdate="20180515T081928Z">
@@ -2814,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Stress isn't a medical diagnosis, so there's no specific treatment for it.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T190334Z" creationid="Ainhoa" creationdate="20180525T190334Z">
+        <seg>El estrés no es un diagnóstico médico, por lo que no hay un tratamiento específico para él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Stress isn't a psychiatric diagnosis, but it's closely linked to your mental health in two important ways:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202745Z" creationid="Ainhoa" creationdate="20180519T202745Z">
@@ -3458,6 +3474,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192952Z" creationid="Patricia" creationdate="20180521T192952Z">
         <seg>¿Qué apoyo hay disponible para ayudarme a volver al trabajo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What treatments are there?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T190316Z" creationid="Ainhoa" creationdate="20180525T190316Z">
+        <seg>¿Qué tratamientos hay?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,6 +4938,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172950Z" creationid="Ainhoa" creationdate="20180519T165634Z">
         <seg>tomarse unos días libres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>talking treatments</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T190902Z" creationid="Ainhoa" creationdate="20180525T190902Z">
+        <seg>tratamientos de conversación</seg>
       </tuv>
     </tu>
     <tu>
