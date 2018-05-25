@@ -328,8 +328,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Keep in touch&lt;/s0&gt; with colleagues.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T211538Z" creationid="Vicky" creationdate="20180519T211538Z">
-        <seg>&lt;/s0&gt;Mantente en contacto con&lt;s0&gt; tus compañeros.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T072927Z" creationid="Vicky" creationdate="20180519T211538Z">
+        <seg>&lt;/s0&gt;Mantente en contacto&lt;s0&gt; con tus compañeros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +800,8 @@
       <tuv lang="EN-GB">
         <seg>Arrange with your manager to &lt;s0&gt;drop in to work&lt;/s0&gt; before you return, to say hello to colleagues and get re-familiarised.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T211909Z" creationid="Vicky" creationdate="20180519T211909Z">
-        <seg>Haz arreglos con su jefe para que vaya a trabajar antes de tu regreso, para saludar a sus compañeros y volver a familiarizarte.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073140Z" creationid="Vicky" creationdate="20180519T211909Z">
+        <seg>Queda con tu jefe para &lt;s0&gt;pasarte por el trabajo&lt;/s0&gt; antes de que regreses, para saludar a sus compañeros y volver a familiarizarte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,8 +3536,8 @@
       <tuv lang="EN-GB">
         <seg>While you're off work there are some practical things that you can do to make returning to your job easier:</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T224306Z" creationid="Vicky" creationdate="20180519T211516Z">
-        <seg>Mientras estás fuera del trabajo, hay algunas cosas que puedes hacer para facilitar el regreso a su trabajo:</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T072917Z" creationid="Vicky" creationdate="20180519T211516Z">
+        <seg>Mientras estás fuera del trabajo, hay algunas cosas que puedes hacer para hacer más llevadero el regreso a tu trabajo :</seg>
       </tuv>
     </tu>
     <tu>
