@@ -360,8 +360,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Make a schedule&lt;/s0&gt; with your manager for your first week back.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212209Z" creationid="Vicky" creationdate="20180519T212209Z">
-        <seg>Haz un cronograma con tu jefe para tu primera semana de regreso.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073533Z" creationid="Vicky" creationdate="20180519T212209Z">
+        <seg>&lt;s0&gt;Haz un horario&lt;/s0&gt; con tu jefe para tu primera semana de regreso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,8 +792,8 @@
       <tuv lang="EN-GB">
         <seg>Arrange to catch up on any &lt;s1&gt;training&lt;/s1&gt; you have missed.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212232Z" creationid="Vicky" creationdate="20180519T212232Z">
-        <seg>Haz arreglos para ponerte al día con cualquier entrenamiento que hayas perdido.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073719Z" creationid="Vicky" creationdate="20180519T212232Z">
+        <seg>Organízate para ponerte al día &lt;s1&gt;con cualquier entrenamiento&lt;/s1&gt; que te hayas perdido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1656,8 @@
       <tuv lang="EN-GB">
         <seg>If you are worried about walking into a busy office on your own, arrange for someone to &lt;s0&gt;meet you at the front desk.&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212339Z" creationid="Vicky" creationdate="20180519T212331Z">
-        <seg>Si te preocupa ir por tu cuenta en una oficina ocupada, haga arreglos para que alguien te reciba en la recepción.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073846Z" creationid="Vicky" creationdate="20180519T212331Z">
+        <seg>Si estás preocupado por adentrarte en una oficina llena, queda en &lt;s0&gt;encontrarte con alguien en la recepción.&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2344,8 +2344,8 @@
       <tuv lang="EN-GB">
         <seg>Plan what you will be doing where and when so you know what to expect.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212215Z" creationid="Vicky" creationdate="20180519T212215Z">
-        <seg>Planifica lo que harás dónde y cuándo para saber qué esperar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073606Z" creationid="Vicky" creationdate="20180519T212215Z">
+        <seg>Planifica lo que harás, y dónde y cuándo lo harás para saber qué esperar.</seg>
       </tuv>
     </tu>
     <tu>
