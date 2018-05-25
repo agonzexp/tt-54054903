@@ -1184,8 +1184,8 @@
       <tuv lang="EN-GB">
         <seg>Find out if your employer has any &lt;s0&gt;specialist support services&lt;/s0&gt; on offer, for example; occupational health services or an employee assistance programme (EAP).</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212547Z" creationid="Vicky" creationdate="20180519T212547Z">
-        <seg>Averigüa si tu empresa tiene algún servicio de apoyo especializado que se ofrezca, por ejemplo; servicios de salud ocupacional o un programa de asistencia al empleado (EAP).</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T074122Z" creationid="Vicky" creationdate="20180519T212547Z">
+        <seg>Averigua si tu empresa tiene algún &lt;s0&gt;servicio de apoyo especializado&lt;/s0&gt; que se ofrezca, por ejemplo; servicios de salud ocupacional o un programa de asistencia al empleado (EAP).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2208,8 +2208,8 @@
       <tuv lang="EN-GB">
         <seg>My employer supports me by helping me when I get stressed and feel like I can't cope, changing my tasks or just being there to talk to.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212618Z" creationid="Vicky" creationdate="20180519T212618Z">
-        <seg>Mi empresa me apoya ayudándome cuando estoy estresado y siento que no puedo con todo, cambiar mis tareas o simplemente estar allí para hablar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T074210Z" creationid="Vicky" creationdate="20180519T212618Z">
+        <seg>Mi empresa me apoya ayudándome cuando estoy estresado y siento que no puedo con todo, cambiando mis tareas o simplemente estando allí para hablar.</seg>
       </tuv>
     </tu>
     <tu>
