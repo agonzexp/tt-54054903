@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>(You can find out more about ecotherapy, including details of local programmes, in our pages on &lt;a0&gt;ecotherapy&lt;/a0&gt;.)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201103Z" creationid="Ainhoa" creationdate="20180525T201025Z">
+        <seg>(Puedes obtener más información sobre la ecoterapia, incluidos los detalles de los programas locales, en nuestras páginas sobre &lt;a0&gt;ecoterapia)&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>/information-support/reproducing-our-information/</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T202440Z" creationid="Vicky" creationdate="20180519T202440Z">
@@ -3278,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>These might include:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201129Z" creationid="Ainhoa" creationdate="20180525T201129Z">
+        <seg>Estas pueden incluir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>They help and support me any way they can.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T220617Z" creationid="Ainhoa" creationdate="20180519T180257Z">
@@ -4032,8 +4048,8 @@
       <tuv lang="EN-GB">
         <seg>You may find certain complementary therapies help you manage feelings of stress.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
-        <seg>Es posible que encuentre ciertas terapias complementarias que lo ayuden a controlar los sentimientos de estrés.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201113Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>Es posible que encuentres ciertas terapias complementarias que te ayuden a controlar los sentimientos de estrés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,6 +4274,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T200349Z" creationid="Vicky" creationdate="20180519T194223Z">
         <seg>Acepta las cosas que no puedes cambiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>acupuncture</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201139Z" creationid="Ainhoa" creationdate="20180525T201139Z">
+        <seg>acupuntura</seg>
       </tuv>
     </tu>
     <tu>
