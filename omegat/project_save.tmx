@@ -16,8 +16,8 @@
       <tuv lang="EN-GB">
         <seg>(See our pages on &lt;a1&gt;seeking help for a mental health problem&lt;/a1&gt; for tips on how to talk to your doctor about your mental health.)</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191302Z" creationid="Ainhoa" creationdate="20180525T191302Z">
-        <seg>(Consulte nuestras páginas sobre &lt;a1&gt;cómo buscar ayuda para un problema de salud mental&lt;/a1&gt; para obtener consejos sobre cómo hablar con su médico sobre su salud mental).</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191402Z" creationid="Ainhoa" creationdate="20180525T191302Z">
+        <seg>(Consulte nuestras páginas sobre &lt;a1&gt;cómo buscar ayuda para un problema de salud mental&lt;/a1&gt; para obtener consejos sobre cómo hablar con tu médico sobre tu salud mental).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1528,8 +1528,8 @@
       <tuv lang="EN-GB">
         <seg>However, if you're finding it very hard to cope with things going on in your life and are experiencing lots of &lt;a0&gt;signs of stress&lt;/a0&gt;, there are treatments available that could help.  These include:</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T190529Z" creationid="Ainhoa" creationdate="20180525T190338Z">
-        <seg>Sin embargo, si le resulta muy difícil hacer frente a las cosas que suceden en su vida y experimenta muchos &lt;a0&gt;signos de estrés&lt;/a0&gt;, existen tratamientos disponibles que podrían ayudar.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191435Z" creationid="Ainhoa" creationdate="20180525T190338Z">
+        <seg>Sin embargo, si te resulta muy difícil hacer frente a las cosas que suceden en tu vida y experimentas muchos &lt;a0&gt;signos de estrés&lt;/a0&gt;, existen tratamientos disponibles que podrían ayudar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2926,6 +2926,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Talking treatments</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191320Z" creationid="Ainhoa" creationdate="20180525T191320Z">
+        <seg>Tratamientos de conversación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Talking with a trained professional can help you learn to deal with stress and become more aware of your own thoughts and feelings.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191355Z" creationid="Ainhoa" creationdate="20180525T191355Z">
+        <seg>Hablar con un profesional capacitado puede ayudarte a aprender a lidiar con el estrés y a ser más consciente de tus propios pensamientos y sentimientos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Telling anyone about your mental health is a personal choice &lt;s0&gt;–&lt;/s0&gt; there is no right or wrong answer.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173411Z" creationid="Ainhoa" creationdate="20180519T173411Z">
@@ -3240,8 +3256,8 @@
       <tuv lang="EN-GB">
         <seg>To access most treatments, the first step is usually to &lt;s0&gt;talk to your GP&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191133Z" creationid="Ainhoa" creationdate="20180525T191133Z">
-        <seg>Para acceder a la mayoría de los tratamientos, el primer paso suele ser &lt;s0&gt;hablar con su médico de cabecera&lt;/s0&gt;.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191416Z" creationid="Ainhoa" creationdate="20180525T191133Z">
+        <seg>Para acceder a la mayoría de los tratamientos, el primer paso suele ser &lt;s0&gt;hablar con tu médico de cabecera&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
