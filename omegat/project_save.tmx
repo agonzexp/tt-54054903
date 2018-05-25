@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>(See our pages on &lt;a1&gt;seeking help for a mental health problem&lt;/a1&gt; for tips on how to talk to your doctor about your mental health.)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191302Z" creationid="Ainhoa" creationdate="20180525T191302Z">
+        <seg>(Consulte nuestras páginas sobre &lt;a1&gt;cómo buscar ayuda para un problema de salud mental&lt;/a1&gt; para obtener consejos sobre cómo hablar con su médico sobre su salud mental).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>(This is the body’s automatic way of preparing to respond to a threat, sometimes called the '&lt;a0&gt;fight, flight or freeze' response&lt;/a0&gt;).</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T204317Z" creationid="Ainhoa" creationdate="20180519T204317Z">
@@ -2622,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Seeking help for a mental health problem</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191114Z" creationid="Ainhoa" creationdate="20180525T191114Z">
+        <seg>Búsqueda de ayuda para problemas de salud mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Self-employed</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215804Z" creationid="usuario" creationdate="20180515T215804Z">
@@ -3218,6 +3234,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175206Z" creationid="Ainhoa" creationdate="20180519T175206Z">
         <seg>Información de "La hora del cambio" sobre cómo hablar sobre tu salud mental en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To access most treatments, the first step is usually to &lt;s0&gt;talk to your GP&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191133Z" creationid="Ainhoa" creationdate="20180525T191133Z">
+        <seg>Para acceder a la mayoría de los tratamientos, el primer paso suele ser &lt;s0&gt;hablar con su médico de cabecera&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4110,6 +4134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>complementary and alternative therapies</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191031Z" creationid="Ainhoa" creationdate="20180525T191031Z">
+        <seg>terapias complementarias y alternativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>constipation or diarrhoea</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210802Z" creationid="Vicky" creationdate="20180519T210802Z">
@@ -4226,6 +4258,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223655Z" creationid="Vicky" creationdate="20180519T210610Z">
         <seg>Comiendo demasiado o muy poco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>ecotherapy</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191038Z" creationid="Ainhoa" creationdate="20180525T190925Z">
+        <seg>ecoterapia</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4650,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160538Z" creationid="Patricia" creationdate="20180511T185745Z">
         <seg>Hecho redundante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>medication</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191035Z" creationid="Ainhoa" creationdate="20180525T190919Z">
+        <seg>medicación</seg>
       </tuv>
     </tu>
     <tu>
