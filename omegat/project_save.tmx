@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;Mindfulness&lt;/a0&gt; based stress reduction (MBSR), which combines mindfulness, meditation and yoga with a particular focus on reducing stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T192535Z" creationid="Ainhoa" creationdate="20180525T192535Z">
+        <seg>Reducción del estrés basada en &lt;a0&gt;mindfulness&lt;/a0&gt; (MBSR), que combina mindfulness, meditación y yoga con un enfoque particular en la reducción del estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a0&gt;Rethink Mental Illness&lt;/a0&gt; has more information about different schemes and organisations that can help you into work.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T192229Z" creationid="Patricia" creationdate="20180516T192229Z">
@@ -790,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Anxiety UK</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180518T162706Z" creationid="OmegaT Aligner" creationdate="20180518T162706Z">
+        <seg>Ansiedad Reino Unido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Anxiety and panic attacks</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T205348Z" creationid="Vicky" creationdate="20180519T205348Z">
@@ -830,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Be Mindful</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180518T162632Z" creationid="OmegaT Aligner" creationdate="20180518T162632Z">
+        <seg>Tener en cuenta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Be Mindful website</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164455Z" creationid="usuario" creationdate="20180518T164455Z">
@@ -858,6 +882,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202623Z" creationid="Ainhoa" creationdate="20180519T202553Z">
         <seg>Estar bajo presión forma parte de la vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Big White Wall</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180518T162706Z" creationid="OmegaT Aligner" creationdate="20180518T162706Z">
+        <seg>Gran pared blanca</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Complementary therapies</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>Terapias complementarias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Confidential advice on a range of issues, including employment and bullying.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184557Z" creationid="Ainhoa" creationdate="20180519T184557Z">
@@ -1098,6 +1138,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082451Z" creationid="usuario" creationdate="20180515T082451Z">
         <seg>No hagas demasiado a la vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Ecotherapy</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>Ecoterapia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,6 +1234,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T201221Z" creationid="Vicky" creationdate="20180519T201221Z">
         <seg>Familia y vida personal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Feelings of stress are a reaction to things happening in your life, not a mental health problem, so there's no specific medication for stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>Los sentimientos de estrés son una reacción a las cosas que suceden en su vida, no un problema de salud mental, por lo que no existe un medicamento específico para el estrés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Lists several talking treatments and alternative therapies that can be used to treat stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180518T162706Z" creationid="OmegaT Aligner" creationdate="20180518T162706Z">
+        <seg>Enumera varios tratamientos de conversación y terapias alternativas que se pueden usar para tratar el estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Lists stress practitioners by specialist area.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200159Z" creationid="Ainhoa" creationdate="20180519T200159Z">
@@ -2142,10 +2206,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Medication</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>Medicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Mental health problems (general)</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203330Z" creationid="Ainhoa" creationdate="20180519T203330Z">
         <seg>Problemas de salud mental (general)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Mind Tools</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180518T162706Z" creationid="OmegaT Aligner" creationdate="20180518T162706Z">
+        <seg>Herramientas mentales</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>NHS Choices</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180518T162706Z" creationid="OmegaT Aligner" creationdate="20180518T162706Z">
+        <seg>Elecciones NHS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>National Council For Voluntary Organisations</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185908Z" creationid="Ainhoa" creationdate="20180519T185908Z">
@@ -2314,6 +2402,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T220405Z" creationid="Vicky" creationdate="20180519T193928Z">
         <seg>Solo prueba aquello con lo que te sientas cómodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Open University</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180518T162632Z" creationid="OmegaT Aligner" creationdate="20180518T162632Z">
+        <seg>Universidad Abierta</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,6 +2666,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T182228Z" creationid="Ainhoa" creationdate="20180519T182228Z">
         <seg>Reincorporación al trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Samaritans</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180518T162706Z" creationid="OmegaT Aligner" creationdate="20180518T162706Z">
+        <seg>Samaritanos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>This can include physical exercise in green spaces or taking part in a gardening or conservation project.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>Esto puede incluir ejercicio físico en espacios verdes o participar en un proyecto de jardinería o conservación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>This can make it difficult for you to work out what &lt;a0&gt;causes your feelings of stress&lt;/a0&gt;, or how to deal with them.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180525T172320Z" creationid="Ainhoa" creationdate="20180519T201924Z">
@@ -3278,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Time to Change</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180518T162632Z" creationid="OmegaT Aligner" creationdate="20180518T162632Z">
+        <seg>Hora de cambiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>To access most treatments, the first step is usually to &lt;s0&gt;talk to your GP&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191416Z" creationid="Ainhoa" creationdate="20180525T191133Z">
@@ -3358,10 +3478,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Using mindfulness [helps me] to just allow some space to breathe and focus on the present moment.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>Usar la atención plena [me ayuda] a dejar espacio para respirar y enfocarme en el momento presente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Using social media can be a good way of communicating if you don't feel ready to see them face-to-face.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T211550Z" creationid="Vicky" creationdate="20180519T211550Z">
         <seg>Usar las redes sociales puede ser una buena forma de comunicación si no te sientes preparado para verlos cara a cara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Volunteering Wales</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180518T162632Z" creationid="OmegaT Aligner" creationdate="20180518T162632Z">
+        <seg>Voluntariado Gales</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>You can find out more from &lt;a1&gt;Be Mindful’s website&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T192716Z" creationid="Ainhoa" creationdate="20180525T192716Z">
+        <seg>Puedes encontrar más información en el sitio web &lt;a1&gt;Be Mindful&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>You can make some of the changes on your own.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T211423Z" creationid="Ainhoa" creationdate="20180519T175417Z">
@@ -3794,6 +3938,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192749Z" creationid="Patricia" creationdate="20180521T192749Z">
         <seg>Puedes estar preocupado acerca de lo que pensarán tus compañeros o de lo que no podrás hacer frente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You may find certain complementary therapies help you manage feelings of stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>Es posible que encuentre ciertas terapias complementarias que lo ayuden a controlar los sentimientos de estrés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3930,6 +4082,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T224046Z" creationid="Vicky" creationdate="20180519T210821Z">
         <seg>[Parece que] el mundo me está afixiando, no puedo respirar y se me está acabando el tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>[It helps me to] spend time outdoors or doing crafts.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>[Me ayuda a] pasar tiempo al aire libre o haciendo manualidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4518,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>http://www.mind.org.uk/workplace/mental-health-at-work/taking-care-of-your-staff/employer-resources/wellness-action-plan-download/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180519T170222Z" creationid="OmegaT Aligner" creationdate="20180519T170222Z">
+        <seg>Es posible que te resulte útil llevar algunas notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>https://www.gov.uk/taking-sick-leave</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180949Z" creationid="Ainhoa" creationdate="20180519T180916Z">
@@ -4694,10 +4862,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>massage.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>• &lt;t0/&gt;masaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>medication</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191035Z" creationid="Ainhoa" creationdate="20180525T190919Z">
         <seg>medicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>medication to treat any physical symptoms of stress, such as irritable bowel syndrome (IBS), or high blood pressure.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>• medicamento para tratar cualquier síntoma físico de estrés, como el síndrome del intestino irritable (SII) o presión arterial alta.</seg>
       </tuv>
     </tu>
     <tu>
