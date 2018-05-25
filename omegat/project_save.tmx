@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;sleeping pills or minor tranquillisers&lt;/a0&gt; if you're having trouble sleeping</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T193203Z" creationid="Ainhoa" creationdate="20180525T193203Z">
+        <seg>&lt;a0&gt;pastillas para dormir o ansiolíticos&lt;/a0&gt; si tienes problemas para dormir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a0&gt;time-to-change.org.uk&lt;/a0&gt; (England)</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200444Z" creationid="Ainhoa" creationdate="20180519T200427Z">
@@ -1240,8 +1248,8 @@
       <tuv lang="EN-GB">
         <seg>Feelings of stress are a reaction to things happening in your life, not a mental health problem, so there's no specific medication for stress.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
-        <seg>Los sentimientos de estrés son una reacción a las cosas que suceden en su vida, no un problema de salud mental, por lo que no existe un medicamento específico para el estrés.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T192818Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>Los sentimientos de estrés son una reacción a las cosas que suceden en tu vida, no un problema de salud mental, por lo que no existe un medicamento específico para el estrés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,6 +1338,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T195106Z" creationid="Vicky" creationdate="20180519T195106Z">
         <seg>Por ejemplo, puedes ser una persona de mañanas o una persona de tardes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>For example, your doctor might offer to prescribe:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T192914Z" creationid="Ainhoa" creationdate="20180525T192914Z">
+        <seg>Por ejemplo, tu médico podría recetarte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1626,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191435Z" creationid="Ainhoa" creationdate="20180525T190338Z">
         <seg>Sin embargo, si te resulta muy difícil hacer frente a las cosas que suceden en tu vida y experimentas muchos &lt;a0&gt;signos de estrés&lt;/a0&gt;, existen tratamientos disponibles que podrían ayudar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>However, there are various medications available which can help to reduce or manage some of the &lt;a0&gt;signs of stress&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T192834Z" creationid="Ainhoa" creationdate="20180525T192834Z">
+        <seg>Sin embargo, hay varios medicamentos disponibles que pueden ayudar a reducir o controlar algunos de los &lt;a0&gt;signos de estrés&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
