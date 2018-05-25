@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Ecotherapy is a way of improving your &lt;a0&gt;wellbeing&lt;/a0&gt; and &lt;a1&gt;self-esteem&lt;/a1&gt; by spending time in nature.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T200916Z" creationid="Ainhoa" creationdate="20180525T200916Z">
+        <seg>La ecoterapia es una forma de mejorar tu &lt;a0&gt;bienestar&lt;/a0&gt; y &lt;a1&gt;autoestima&lt;/a1&gt; relacionándote con la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Emotional resilience</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202327Z" creationid="Ainhoa" creationdate="20180519T202327Z">
@@ -2502,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Our pages on &lt;a5&gt;&lt;s6&gt;coming off medication&lt;/s6&gt;&lt;/a5&gt; give guidance on how to come off medication safely.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T200637Z" creationid="Ainhoa" creationdate="20180525T200637Z">
+        <seg>Nuestras páginas sobre &lt;a5&gt;&lt;s6&gt;cómo dejar la medicación&lt;/s6&gt;&lt;/a5&gt; ofrecen orientación sobre cómo hacerlo de manera segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Parenting with a mental health problem</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T201807Z" creationid="Vicky" creationdate="20180519T201740Z">
@@ -3634,6 +3650,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203950Z" creationid="usuario" creationdate="20180519T203950Z">
         <seg>Todos somos diferentes, por lo que una situación que no a ti te molesta puede causarle mucho estrés a otra persona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Wellbeing</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T200654Z" creationid="Ainhoa" creationdate="20180525T200654Z">
+        <seg>Bienestar</seg>
       </tuv>
     </tu>
     <tu>
