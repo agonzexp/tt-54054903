@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Before taking medication</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T194942Z" creationid="Ainhoa" creationdate="20180525T194942Z">
+        <seg>Antes de tomar medicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Being calm and relaxed will make you more able to help someone else.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T213725Z" creationid="usuario" creationdate="20180519T213725Z">
@@ -4912,8 +4920,8 @@
       <tuv lang="EN-GB">
         <seg>medication to treat any physical symptoms of stress, such as irritable bowel syndrome (IBS), or high blood pressure.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
-        <seg>• medicamento para tratar cualquier síntoma físico de estrés, como el síndrome del intestino irritable (SII) o presión arterial alta.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T194813Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>medicamentos para tratar cualquier síntoma físico de estrés, como el síndrome del intestino irritable (SII) o la presión arterial alta.</seg>
       </tuv>
     </tu>
     <tu>
