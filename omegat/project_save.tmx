@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Medication - stopping or coming off</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T200236Z" creationid="Ainhoa" creationdate="20180525T200236Z">
+        <seg>Medicación - cómo dejarla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Mental health problems (general)</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203330Z" creationid="Ainhoa" creationdate="20180519T203330Z">
@@ -4098,6 +4106,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212115Z" creationid="usuario" creationdate="20180519T212115Z">
         <seg>Tu punto de vista puede ser útil, pero a tu amigo o familiar esta conversación puede resultarle un tanto estresante, por lo que ser paciente ayudará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Your right to refuse medication</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T200032Z" creationid="Ainhoa" creationdate="20180525T200032Z">
+        <seg>Tu derecho a rechazar medicación</seg>
       </tuv>
     </tu>
     <tu>
