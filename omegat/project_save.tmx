@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-GB">
+        <seg>(See our pages on &lt;a0&gt;complementary and alternative therapies&lt;/a0&gt; for more information.)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201229Z" creationid="Ainhoa" creationdate="20180525T201229Z">
+        <seg>(Consulte nuestras páginas sobre &lt;a0&gt;terapias complementarias y alternativas&lt;/a0&gt; para obtener más información).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>(See our pages on &lt;a0&gt;how to cope with suicidal feelings&lt;/a0&gt; for more information.)</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210033Z" creationid="Vicky" creationdate="20180519T210033Z">
@@ -4310,6 +4318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>aromatherapy</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201144Z" creationid="Ainhoa" creationdate="20180525T201144Z">
+        <seg>aromaterapia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>ask for on-the-job support (such as a workplace mentor) or permission for a &lt;s0&gt;support worker&lt;/s0&gt; to come in or be contacted during work hours</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T220537Z" creationid="Ainhoa" creationdate="20180519T180205Z">
@@ -4984,8 +5000,8 @@
       <tuv lang="EN-GB">
         <seg>massage.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
-        <seg>• &lt;t0/&gt;masaje</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201156Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>masaje</seg>
       </tuv>
     </tu>
     <tu>
