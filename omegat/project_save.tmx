@@ -2496,8 +2496,8 @@
       <tuv lang="EN-GB">
         <seg>Request &lt;s0&gt;changes&lt;/s0&gt; to allow you to be better able to do your job.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212519Z" creationid="Vicky" creationdate="20180519T212519Z">
-        <seg>Solicita cambios para que puedas hacer mejor tu trabajo.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T074046Z" creationid="Vicky" creationdate="20180519T212519Z">
+        <seg>Solicita &lt;s0&gt;cambios&lt;/s0&gt; para que puedas hacer mejor tu trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,8 +2544,8 @@
       <tuv lang="EN-GB">
         <seg>Schedule &lt;s0&gt;regular catch ups&lt;/s0&gt; with your manager to talk about how you are getting on.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212352Z" creationid="Vicky" creationdate="20180519T212334Z">
-        <seg>Programa reuniones periódicas con tu agente para hablar sobre cómo te está yendo.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T074019Z" creationid="Vicky" creationdate="20180519T212334Z">
+        <seg>Planifica &lt;s0&gt;reencuentros continuos&lt;/s0&gt; con tu agente para hablar sobre cómo te está yendo.</seg>
       </tuv>
     </tu>
     <tu>
