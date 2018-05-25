@@ -1800,8 +1800,8 @@
       <tuv lang="EN-GB">
         <seg>In the time leading up to your return, try to go to &lt;s0&gt;sleep and rise&lt;/s0&gt; the same hours as if you were going to work.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180522T111509Z" creationid="Vicky" creationdate="20180519T211927Z">
-        <seg>En el tiempo previo a tu regreso, intenta dormir y levantarte a las mismas horas que si fuera a trabajar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073216Z" creationid="Vicky" creationdate="20180519T211927Z">
+        <seg>Durante el tiempo previo a tu regreso, intenta &lt;s0&gt;dormir y levantarte&lt;/s0&gt; a las mismas horas como si fueras a trabajar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2064,8 +2064,8 @@
       <tuv lang="EN-GB">
         <seg>Make use of any support you can from your employer:</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212132Z" creationid="Vicky" creationdate="20180519T212132Z">
-        <seg>Haz uso de cualquier apoyo que pueda de tu jefe:</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073351Z" creationid="Vicky" creationdate="20180519T212132Z">
+        <seg>Haz uso de cualquier apoyo que puedas de tu jefe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,14 +2138,6 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T174804Z" creationid="Ainhoa" creationdate="20180519T174804Z">
         <seg>Información de Mind sobre cómo contarle a tu jefe tu problema de salud mental</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-GB">
-        <seg>Mind's peer support section</seg>
-      </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212010Z" creationid="Vicky" creationdate="20180519T212010Z">
-        <seg>Usa el apoyo de compañeros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2512,8 +2504,8 @@
       <tuv lang="EN-GB">
         <seg>Request to return to work gradually &lt;s0&gt;–&lt;/s0&gt; for example, by starting part-time as part of a 'phased return' to work.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212152Z" creationid="Vicky" creationdate="20180519T212152Z">
-        <seg>Solicita regresar al trabajo gradualmente, por ejemplo, comenzando a tiempo parcial como parte de un 'retorno gradual' para trabajar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073439Z" creationid="Vicky" creationdate="20180519T212152Z">
+        <seg>Solicita regresar al trabajo gradualmente &lt;s0&gt;-&lt;/s0&gt; por ejemplo, comenzando a tiempo parcial como parte de una "fase de vuelta" para trabajar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3680,8 +3672,8 @@
       <tuv lang="EN-GB">
         <seg>You could join an online community, such as &lt;a3&gt;Elefriends&lt;/a3&gt;, where you can talk openly about your mental health.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212102Z" creationid="Vicky" creationdate="20180519T212102Z">
-        <seg>Puedes unirtse a una comunidad online, como Elefriends, donde puedes hablar abiertamente sobre tu salud mental.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073330Z" creationid="Vicky" creationdate="20180519T212102Z">
+        <seg>Puedes unirte a una comunidad online, como &lt;a3&gt;Elefriends&lt;/a3&gt;, donde puedes hablar abiertamente sobre tu salud mental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4426,14 +4418,6 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180949Z" creationid="Ainhoa" creationdate="20180519T180916Z">
         <seg>https://www.gov.uk/taking-sick-leave.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-GB">
-        <seg>https://www.mind.org.uk/information-support/guides-to-support-and-services/peer-support.aspx</seg>
-      </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T211951Z" creationid="Vicky" creationdate="20180519T211951Z">
-        <seg>abrumado</seg>
       </tuv>
     </tu>
     <tu>
