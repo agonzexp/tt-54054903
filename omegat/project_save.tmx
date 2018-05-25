@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;Cognitive behavioural therapy (CBT)&lt;/a0&gt;, which helps you understand your thought patterns, recognise your trigger points and identify positive actions you can take.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T192126Z" creationid="Ainhoa" creationdate="20180525T192126Z">
+        <seg>&lt;a0&gt;Terapia cognitiva conductual (TCC)&lt;/a0&gt;, que te ayuda a comprender tus patrones de pensamiento, reconocer tus puntos desencadenantes e identificar las medidas positivas que puedes adoptar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a0&gt;Fit for Work&lt;/a0&gt; provides impartial work-related health advice and can refer you to occupational health professionals for support in returning to work.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T190624Z" creationid="Patricia" creationdate="20180521T190624Z">
@@ -994,6 +1002,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184446Z" creationid="Ainhoa" creationdate="20180519T184446Z">
         <seg>Sitio web de información al ciudadano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Cognitive behavioural therapy (CBT)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191657Z" creationid="Ainhoa" creationdate="20180525T191657Z">
+        <seg>Terapia cognitivo-conductual (TCC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Common types of talking treatments which can help with stress are:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191536Z" creationid="Ainhoa" creationdate="20180525T191536Z">
+        <seg>Los tipos de tratamientos de conversación más comunes que pueden ayudar con el estrés son:</seg>
       </tuv>
     </tu>
     <tu>
