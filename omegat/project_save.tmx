@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Before deciding to take any drug, it's important to &lt;s0&gt;make sure you have all the facts&lt;/s0&gt; you need to make an informed choice.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T200323Z" creationid="Ainhoa" creationdate="20180525T200323Z">
+        <seg>Antes de tomar cualquier medicamento, es importante &lt;s0&gt;asegurarse de tener todos los datos&lt;/s0&gt; que necesitas para tomar una decisión informada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Before taking medication</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T194942Z" creationid="Ainhoa" creationdate="20180525T194942Z">
@@ -2786,6 +2794,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173040Z" creationid="Ainhoa" creationdate="20180519T173040Z">
         <seg>Para más información, dirígete a nuestras páginas sobre discriminación y discriminación en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>See our pages on &lt;a1&gt;&lt;s2&gt;things to consider before taking medication&lt;/s2&gt;&lt;/a1&gt; and &lt;a3&gt;&lt;s4&gt;your right to refuse medication&lt;/s4&gt;&lt;/a3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T200528Z" creationid="Ainhoa" creationdate="20180525T200528Z">
+        <seg>Para obtener más información, consulte nuestras páginas sobre &lt;a1&gt;&lt;s2&gt;cosas que debes considerar antes de tomar medicación&lt;/s2&gt;&lt;/a1&gt; y &lt;a3&gt;&lt;s4&gt;tu derecho a rechazar medicación&lt;/s4&gt;&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
