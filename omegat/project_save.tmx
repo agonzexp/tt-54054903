@@ -2352,8 +2352,8 @@
       <tuv lang="EN-GB">
         <seg>Monday to Friday 9am&lt;s0&gt;–&lt;/s0&gt;8pm</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T222115Z" creationid="Ainhoa" creationdate="20180519T184915Z">
-        <seg>De lunes a viernes de 9:00&lt;s0&gt;a&lt;/s0&gt; 20:00</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180527T121519Z" creationid="Ainhoa" creationdate="20180519T184915Z">
+        <seg>De lunes a viernes de 9 am&lt;s0&gt;a&lt;/s0&gt; 8pm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2768,8 +2768,8 @@
       <tuv lang="EN-GB">
         <seg>Saturday 10am&lt;s0&gt;–&lt;/s0&gt;2pm</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T222038Z" creationid="Ainhoa" creationdate="20180519T184931Z">
-        <seg>Sábado de 10:00&lt;s0&gt;a&lt;/s0&gt; 14:00</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180527T121531Z" creationid="Ainhoa" creationdate="20180519T184931Z">
+        <seg>Sábado de 10am&lt;s0&gt;a&lt;/s0&gt; 2pm</seg>
       </tuv>
     </tu>
     <tu>
