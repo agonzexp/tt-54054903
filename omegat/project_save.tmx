@@ -40,8 +40,8 @@
       <tuv lang="EN-GB">
         <seg>(You can find out more about ecotherapy, including details of local programmes, in our pages on &lt;a0&gt;ecotherapy&lt;/a0&gt;.)</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201103Z" creationid="Ainhoa" creationdate="20180525T201025Z">
-        <seg>(Puedes obtener más información sobre la ecoterapia, incluidos los detalles de los programas locales, en nuestras páginas sobre &lt;a0&gt;ecoterapia)&lt;/a0&gt;.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180529T073837Z" creationid="Ainhoa" creationdate="20180525T201025Z">
+        <seg>(Puedes obtener más información sobre la ecoterapia, incluidos los detalles de los programas locales, en nuestras páginas sobre &lt;a0&gt;ecoterapia&lt;/a0&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4208,8 +4208,8 @@
       <tuv lang="EN-GB">
         <seg>[It helps me to] spend time outdoors or doing crafts.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180525T190249Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
-        <seg>[Me ayuda a] pasar tiempo al aire libre o haciendo manualidades.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180529T074055Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
+        <seg>[Me ayuda el] pasar tiempo al aire libre o hacer manualidades.</seg>
       </tuv>
     </tu>
     <tu>
