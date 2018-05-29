@@ -1798,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you are an &lt;s0&gt;employer,&lt;/s0&gt; see our information on &lt;a1&gt;taking care of your staff&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T102434Z" creationid="Ainhoa" creationdate="20180529T102434Z">
+        <seg>Si eres &lt;s0&gt;empleador,&lt;/s0&gt;consulte nuestra información&lt;a1&gt;sobre cómo cuidar a tus trabajadores&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If you are looking for legal advice about your rights at work, see our pages on &lt;a0&gt;discrimination at work&lt;/a0&gt; and &lt;a1&gt;disability discrimination&lt;/a1&gt; for more information.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180522T112557Z" creationid="Patricia" creationdate="20180521T175812Z">
@@ -3136,8 +3144,8 @@
       <tuv lang="EN-GB">
         <seg>Taking care of your staff</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T102031Z" creationid="Ainhoa" creationdate="20180529T102031Z">
-        <seg>Cómo cuidar a tu personal</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T102058Z" creationid="Ainhoa" creationdate="20180529T102031Z">
+        <seg>Cómo cuidar a tus trabajadores</seg>
       </tuv>
     </tu>
     <tu>
