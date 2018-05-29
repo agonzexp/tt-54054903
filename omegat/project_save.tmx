@@ -8,8 +8,8 @@
       <tuv lang="EN-GB">
         <seg>(See our pages on &lt;a0&gt;complementary and alternative therapies&lt;/a0&gt; for more information.)</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201229Z" creationid="Ainhoa" creationdate="20180525T201229Z">
-        <seg>(Consulte nuestras páginas sobre &lt;a0&gt;terapias complementarias y alternativas&lt;/a0&gt; para obtener más información).</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180529T074226Z" creationid="Ainhoa" creationdate="20180525T201229Z">
+        <seg>(Consulta nuestras páginas sobre &lt;a0&gt;terapias complementarias y alternativas&lt;/a0&gt; para obtener más información).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5562,6 +5562,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173243Z" creationid="Ainhoa" creationdate="20180519T173224Z">
         <seg>que te preocupe que pueda haber consecuencias negativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>yoga and meditation</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180529T074142Z" creationid="Vicky" creationdate="20180529T074142Z">
+        <seg>yoga y meditation</seg>
       </tuv>
     </tu>
     <tu>
