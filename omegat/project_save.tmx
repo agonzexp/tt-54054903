@@ -4360,8 +4360,8 @@
       <tuv lang="EN-GB">
         <seg>at work</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160531Z" creationid="Patricia" creationdate="20180511T185741Z">
-        <seg>En el trabajo</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T104516Z" creationid="Patricia" creationdate="20180511T185741Z">
+        <seg>Estás trabajando</seg>
       </tuv>
     </tu>
     <tu>
@@ -5016,8 +5016,8 @@
       <tuv lang="EN-GB">
         <seg>made redundant</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160538Z" creationid="Patricia" creationdate="20180511T185745Z">
-        <seg>Hecho redundante</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T104749Z" creationid="Patricia" creationdate="20180511T185745Z">
+        <seg>Te han despedido</seg>
       </tuv>
     </tu>
     <tu>
