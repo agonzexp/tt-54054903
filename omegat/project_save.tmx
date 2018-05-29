@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -458,6 +458,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201629Z" creationid="Ainhoa" creationdate="20180519T201355Z">
         <seg>&lt;s0&gt;Nuestra reacción ante la presión:&lt;/s0&gt; cómo nos sentimos cuando tenemos responsabilidades con las que nos resultan difícil lidiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Please note:&lt;/s0&gt; this resource is for people managing their own mental health at work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T101843Z" creationid="Ainhoa" creationdate="20180529T101843Z">
+        <seg>&lt;s0&gt;Tened en cuenta&lt;/s0&gt; que esta información es para personas que manejan su propia salud mental en el trabajo.</seg>
       </tuv>
     </tu>
     <tu>
