@@ -2334,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Mind's Back-to-Work manifesto</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T112635Z" creationid="Ainhoa" creationdate="20180529T112635Z">
+        <seg>Manifiesto de reincorporación al trabajo de Mind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Mind's Equality Act page</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175909Z" creationid="Ainhoa" creationdate="20180519T175909Z">
@@ -4016,8 +4024,8 @@
       <tuv lang="EN-GB">
         <seg>You can find out more about our back-to-work campaign and how to get involved by reading more about our &lt;a0&gt;back-to-work manifesto&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T192842Z" creationid="Patricia" creationdate="20180516T192842Z">
-        <seg>Podrás encontrar más información sobre la campaña de la vuelta al trabajo y sobre como involucrarte leyendo más sobre el manifiesto de la vuelta al trabajo&lt;/a0&gt;.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T113219Z" creationid="Patricia" creationdate="20180516T192842Z">
+        <seg>Podrás encontrar más información sobre la campaña de la vuelta al trabajo y sobre cómo participar leyendo más sobre el &lt;a0&gt;manifiesto de reincorporación al trabajo&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
