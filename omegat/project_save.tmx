@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Equality Advisory and Support Service</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T105235Z" creationid="Ainhoa" creationdate="20180529T105235Z">
+        <seg>Asesoramiento sobre igualdad y Servicio de apoyo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Even if you can't avoid these situations, being prepared can help.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T220620Z" creationid="Vicky" creationdate="20180519T194320Z">
