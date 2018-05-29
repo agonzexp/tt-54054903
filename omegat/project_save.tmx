@@ -3872,8 +3872,8 @@
       <tuv lang="EN-GB">
         <seg>When looking for a new job, challenges such as finding a suitable role, writing applications and attending interviews can take time.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180511T190111Z" creationid="Patricia" creationdate="20180511T190111Z">
-        <seg>Al buscar un nuevo trabajo, desafíos como encontrar un papel adecuado, escribir aplicaciones y asistir a entrevistas pueden llevar tiempo.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T110838Z" creationid="Patricia" creationdate="20180511T190111Z">
+        <seg>Buscar un nuevo trabajo, desafíos como encontrar un puesto adecuado, enviar currículos o asistir a entrevistas pueden llevar tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4608,8 +4608,8 @@
       <tuv lang="EN-GB">
         <seg>dismissal</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160655Z" creationid="Patricia" creationdate="20180511T190030Z">
-        <seg>Despido</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T110248Z" creationid="Patricia" creationdate="20180511T190030Z">
+        <seg>Rechazo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5264,8 +5264,8 @@
       <tuv lang="EN-GB">
         <seg>relocation</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160651Z" creationid="Patricia" creationdate="20180511T190027Z">
-        <seg>Reubicación</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T110203Z" creationid="Patricia" creationdate="20180511T190027Z">
+        <seg>Translado</seg>
       </tuv>
     </tu>
     <tu>
