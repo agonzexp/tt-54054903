@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -378,6 +378,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T220731Z" creationid="Vicky" creationdate="20180519T194454Z">
         <seg>&lt;s0&gt;Problemas que surgen regularmente&lt;/s0&gt; y de los que te preocupas, por ejemplo, pagar una factura o asistir a una cita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Keep a professional distance.&lt;/s0&gt; Unfortunately it's not always possible to have good personal relationships with all your colleagues, so if you do have to work with someone you don't get on with, it's helpful to keep focused on work and stay professional.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180531T153159Z" creationid="Vicky" creationdate="20180531T153159Z">
+        <seg>Desafortunadamente, no siempre es posible tener buenas relaciones personales con todos tus compañeros, por lo que si tienes que trabajar con alguien con quien no tienes relación, céntrate en el trabajo y sé profesional.</seg>
       </tuv>
     </tu>
     <tu>
