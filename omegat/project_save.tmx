@@ -3606,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Use &lt;a0&gt;&lt;s1&gt;peer suppor&lt;/s1&gt;&lt;s2&gt;t&lt;/s2&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180602T200358Z" creationid="Ainhoa" creationdate="20180602T200358Z">
+        <seg>Haz uso del&lt;a0&gt;&lt;s1&gt;apoyo entre pares&lt;/s1&gt;&lt;s2&gt;&lt;/s2&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Use the &lt;s1&gt;holiday&lt;/s1&gt; you're entitled to.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083213Z" creationid="usuario" creationdate="20180515T083213Z">
