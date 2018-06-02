@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Coping with academic work and exams</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180602T204916Z" creationid="Ainhoa" creationdate="20180602T204916Z">
+        <seg>Lidiar con trabajos de clase y exámenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Dealing with pressure</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193636Z" creationid="Patricia" creationdate="20180521T193636Z">
@@ -4866,6 +4874,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T200924Z" creationid="Vicky" creationdate="20180519T200924Z">
         <seg>Vivienda y salud mental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>http://www.mind.org.uk/workplace/mental-health-at-work/taking-care-of-your-staff/employer-resources/wellness-action-plan-download/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="OmegaT Aligner" changedate="20180519T170222Z" creationid="OmegaT Aligner" creationdate="20180519T170222Z">
+        <seg>Es posible que te resulte útil llevar algunas notas</seg>
       </tuv>
     </tu>
     <tu>
