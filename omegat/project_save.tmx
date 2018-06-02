@@ -4662,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180602T201953Z" creationid="Ainhoa" creationdate="20180602T201953Z">
+        <seg>ens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>everyday tasks such as travel or household chores.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193948Z" creationid="usuario" creationdate="20180519T204719Z">
