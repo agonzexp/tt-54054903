@@ -1160,8 +1160,8 @@
       <tuv lang="EN-GB">
         <seg>Develop a &lt;a0&gt;&lt;s1&gt;Wellness Action Plan&lt;/s1&gt;&lt;/a0&gt; with your manager.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T212505Z" creationid="Vicky" creationdate="20180519T212505Z">
-        <seg>Desarrolla un Plan de Acción de Bienestar con tu jefe.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180602T201105Z" creationid="Vicky" creationdate="20180519T212505Z">
+        <seg>Desarrolla un &lt;a0&gt;&lt;s1&gt;Plan de Acción de Bienestar&lt;/s1&gt;&lt;/a0&gt; con tu jefe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1352,8 +1352,8 @@
       <tuv lang="EN-GB">
         <seg>Find out if your employer has any &lt;s0&gt;specialist support services&lt;/s0&gt; on offer, for example; occupational health services or an employee assistance programme (EAP).</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T074122Z" creationid="Vicky" creationdate="20180519T212547Z">
-        <seg>Averigua si tu empresa tiene algún &lt;s0&gt;servicio de apoyo especializado&lt;/s0&gt; que se ofrezca, por ejemplo; servicios de salud ocupacional o un programa de asistencia al empleado (EAP).</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180602T201218Z" creationid="Vicky" creationdate="20180519T212547Z">
+        <seg>Averigua si tu empresa tiene algún &lt;s0&gt;servicio de apoyo especializado&lt;/s0&gt; que se ofrezca, por ejemplo; servicios de salud ocupacional o un programa de asistencia al empleado (PAE).</seg>
       </tuv>
     </tu>
     <tu>
