@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1291,6 +1291,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Bullying can have a significant impact on your mental health, but remember: &lt;s0&gt;you don't have to put up with it.&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T102554Z" creationid="Vicky" creationdate="20180603T102554Z">
+        <seg>La intimidación puede tener un impacto significativo en tu salud mental, pero recuerda&lt;s0&gt;: no tienes por qué aguantarlo.&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>But because they can bring big changes or make unusual demands on you, they can still be very stressful.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T205720Z" creationid="usuario" creationdate="20180519T205720Z">
@@ -2361,6 +2369,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095505Z" creationid="Vicky" creationdate="20180603T095505Z">
         <seg>Si deseas reproducir alguna de esta información, consulta nuestra página sobre permisos y licencias&lt;a0&gt;&lt;s1&gt;&lt;/s1&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you're being bullied by at work, it can be difficult to know what to do.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T102530Z" creationid="Vicky" creationdate="20180603T102530Z">
+        <seg>Si te están intimidando en el trabajo, puede que sea difícil saber qué hacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3570,6 +3586,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222452Z" creationid="Vicky" creationdate="20180519T202136Z">
         <seg>A veces me tomo un minuto para "responder" a mis pensamientos estresantes... ¡Es difícil estar estresado cuando tienes las cosas en perspectiva!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Sometimes bullying may be obvious, but sometimes it can be harder to identify.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T102536Z" creationid="Vicky" creationdate="20180603T102536Z">
+        <seg>A veces, la intimidación es obvia, pero otras veces es más difícil de identificar.</seg>
       </tuv>
     </tu>
     <tu>
