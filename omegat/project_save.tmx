@@ -224,6 +224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;&lt;s1&gt;Dealing with pressure&lt;/s1&gt;&lt;/a0&gt; &lt;a2&gt;&lt;s3&gt;Treatment for stress&lt;/s3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095541Z" creationid="Vicky" creationdate="20180603T095541Z">
+        <seg>&lt;a0&gt;&lt;s1&gt;Lidiar con la presión&lt;/s1&gt;&lt;/a0&gt; &lt;a2&gt;&lt;s3&gt;Tratamiento para el estrés&lt;/s3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a0&gt;Cognitive behavioural therapy (CBT)&lt;/a0&gt;, which helps you understand your thought patterns, recognise your trigger points and identify positive actions you can take.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180529T072850Z" creationid="Ainhoa" creationdate="20180525T192126Z">
@@ -365,6 +373,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094419Z" creationid="Vicky" creationdate="20180603T094419Z">
         <seg>&lt;a1&gt;Elefriends&lt;/a1&gt; y &lt;a2&gt;Big White Wall&lt;/a2&gt; ofrecen comunidades de apoyo en línea donde se puede hablar abiertamente sobre el estrés y su salud mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;a1&gt;Find your local Mind here.&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095402Z" creationid="Vicky" creationdate="20180603T095402Z">
+        <seg>&lt;a1&gt;Encuentra tu local Mind aquí.&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2333,6 +2349,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you would like to reproduce any of this information see our page on &lt;a0&gt;&lt;s1&gt;permissions and licensing&lt;/s1&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095505Z" creationid="Vicky" creationdate="20180603T095505Z">
+        <seg>Si deseas reproducir alguna de esta información, consulta nuestra página sobre permisos y licencias&lt;a0&gt;&lt;s1&gt;&lt;/s1&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If you're experiencing a mental health problem that is impacting your working life, it can be tricky to know what action to take.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T210254Z" creationid="Ainhoa" creationdate="20180519T165354Z">
@@ -2997,6 +3021,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Or they may offer another service that could help you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095348Z" creationid="Vicky" creationdate="20180603T095348Z">
+        <seg>O pueden ofrecer otro servicio que podría ayudarte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Organise your time</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T194854Z" creationid="Vicky" creationdate="20180519T194854Z">
@@ -3186,6 +3218,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200507Z" creationid="Ainhoa" creationdate="20180519T200507Z">
         <seg>Proporciona información sobre el estrés y el bienestar del lugar de trabajo para empleadores y empleados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>References are available on request.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095437Z" creationid="Vicky" creationdate="20180603T095437Z">
+        <seg>Las referencias están disponibles a pedido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4867,6 +4907,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T224046Z" creationid="Vicky" creationdate="20180519T210821Z">
         <seg>[Parece que] el mundo me está afixiando, no puedo respirar y se me está acabando el tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>[It helps me to] hug, fuss and play with my kittens!</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095422Z" creationid="Vicky" creationdate="20180603T095422Z">
+        <seg>[¡Me ayuda a] abrazar, alborotar y jugar con mis gatitos!</seg>
       </tuv>
     </tu>
     <tu>
