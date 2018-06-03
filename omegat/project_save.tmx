@@ -965,8 +965,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;communicate your concerns.&lt;/s0&gt; Request a one-to-one meeting with your manager to discuss how you feel and what you would find helpful from them.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171256Z" creationid="Vicky" creationdate="20180518T171256Z">
-        <seg> expresa tus preocupaciones.&lt;s0&gt; Solicita una reunión en persona con tu jefe para hablar sobre cómo te sientes y sobre qué podrías aprotar a la empresa.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135619Z" creationid="Vicky" creationdate="20180518T171256Z">
+        <seg>&lt;/s0&gt;expresa tus preocupaciones.&lt;s0&gt; Solicita una reunión presencial con tu jefe para hablar sobre cómo te sientes y sobre cómo podrían ayudarte con ello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1029,8 +1029,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;speak to another manager&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171359Z" creationid="Vicky" creationdate="20180518T171359Z">
-        <seg>habla con otro jefe.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135649Z" creationid="Vicky" creationdate="20180518T171359Z">
+        <seg>&lt;s0&gt;habla con otro jefe&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1045,8 +1045,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;think about your job description&lt;/s0&gt;, and what you understand your role to be.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135446Z" creationid="Vicky" creationdate="20180518T171000Z">
-        <seg>&lt;s0&gt;pensar en la función de tu trabajo&lt;/s0&gt;, y cuál crees que es tu papel en la empresa</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135455Z" creationid="Vicky" creationdate="20180518T171000Z">
+        <seg>&lt;s0&gt;pensar en la función de tu trabajo&lt;/s0&gt;, y en cuál crees que es tu papel en la empresa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,16 +2494,16 @@
       <tuv lang="EN-GB">
         <seg>If you don't feel able to talk to your manager, ask to meet with another manager or someone from HR.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171443Z" creationid="Vicky" creationdate="20180518T171443Z">
-        <seg>Si no te sientes capaz de hablar con su jefe, solicita una reunión con otro jefe o con alguien de Recursos Humanos.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135802Z" creationid="Vicky" creationdate="20180518T171443Z">
+        <seg>Si no te sientes capaz de hablar con tu jefe, solicita una reunión con otro jefe o con alguien de Recursos Humanos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>If you don't feel comfortable meeting with your manager alone, request to bring a colleague with you, or record your meetings.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171345Z" creationid="Vicky" creationdate="20180518T171345Z">
-        <seg>Si no te sientes cómodo reuniéndote a solas con tu jefe, solicita llevar a un compañero contigo o registra tus reuniones.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135638Z" creationid="Vicky" creationdate="20180518T171345Z">
+        <seg>Si no te sientes cómodo reuniéndote a solas con tu jefe, solicita llevar a un compañero contigo o graba tus reuniones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2815,8 +2815,8 @@
       <tuv lang="EN-GB">
         <seg>Is your manager making unreasonable requests or being unclear about what they expect?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171059Z" creationid="Vicky" creationdate="20180518T171059Z">
-        <seg>¿Su jefe te solicita cosas poco razonables o no deja claro lo que espera de ti?</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135509Z" creationid="Vicky" creationdate="20180518T171059Z">
+        <seg>¿Su jefe te pide cosas poco razonables o no deja claro lo que espera de ti?</seg>
       </tuv>
     </tu>
     <tu>
