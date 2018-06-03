@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Get a change of scenery.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092213Z" creationid="Vicky" creationdate="20180603T092213Z">
+        <seg>&lt;s0&gt;Consigue un cambio de escenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Get enough sleep.&lt;/s0&gt; Stress can often make it difficult to sleep, and can cause &lt;a1&gt;sleep problems&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090231Z" creationid="Vicky" creationdate="20180603T090231Z">
@@ -602,6 +610,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082729Z" creationid="usuario" creationdate="20180515T082729Z">
         <seg>&lt;s0&gt;Siéntete orgulloso por lo que has logrado&lt;/s0&gt; Es fácil enfocarse en lo siguiente que se debe hacer y olvidarte de sentirte orgulloso por lo que ya has logrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Reward yourself for achievements &lt;s1&gt;&lt;s2&gt;–&lt;/s2&gt;&lt;/s1&gt;&lt;/s0&gt; even small things like finishing a piece of work or making a decision.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090944Z" creationid="Vicky" creationdate="20180603T090944Z">
+        <seg>&lt;s0&gt;Recompénsate por tus logros &lt;s1&gt;&lt;s2&gt;-&lt;/s2&gt;&lt;/s1&gt;&lt;/s0&gt;incluso por cosas pequeñas, como terminar una tarea o tomar una decisión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2428,6 +2444,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085738Z" creationid="Vicky" creationdate="20180603T085738Z">
         <seg>Reír y sonreír con ellos también producirá hormonas que te ayudarán a relajarte.&lt;s1&gt;.&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Learning to be kinder to yourself in general can help you control the amount of pressure you feel in different situations, which can help you feel less stressed.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090854Z" creationid="Vicky" creationdate="20180603T090854Z">
+        <seg>Aprender a ser más amable contigo mismo en general puede ayudarte a controlar la cantidad de presión que sientes en diferentes situaciones, lo que puede ayudarte a sentirte menos estresado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4373,6 +4397,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073330Z" creationid="Vicky" creationdate="20180519T212102Z">
         <seg>Puedes unirte a una comunidad online, como &lt;a3&gt;Elefriends&lt;/a3&gt;, donde puedes hablar abiertamente sobre tu salud mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You could take a walk, read a book, treat yourself to food you enjoy, or simply tell yourself "well done".</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090954Z" creationid="Vicky" creationdate="20180603T090954Z">
+        <seg>Puedes salir a caminar, leer un libro, disfrutar de la comida que le gusta o simplemente decirte a ti mismo "bien hecho".</seg>
       </tuv>
     </tu>
     <tu>
