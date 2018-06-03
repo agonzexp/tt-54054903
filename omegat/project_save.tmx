@@ -973,8 +973,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;contact Acas&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171625Z" creationid="Vicky" creationdate="20180518T171551Z">
-        <seg>&lt;s0&gt; contacta con Acas&lt;/s0&gt;.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135848Z" creationid="Vicky" creationdate="20180518T171551Z">
+        <seg>&lt;s0&gt;contacta con Acas&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1133,8 +1133,8 @@
       <tuv lang="EN-GB">
         <seg>Acas provides free and confidential advice on resolving relationship issues within the workplace.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171648Z" creationid="Vicky" creationdate="20180518T171648Z">
-        <seg>Acas brinda asesoramiento gratuito y confidencial para resolver problemas de relaciónes dentro del lugar de trabajo.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135917Z" creationid="Vicky" creationdate="20180518T171648Z">
+        <seg>Acas provee asesoramiento gratuito y confidencial para resolver problemas de relaciones en el lugar de trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2615,8 +2615,8 @@
       <tuv lang="EN-GB">
         <seg>If you're being bullied by at work, it can be difficult to know what to do.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T102530Z" creationid="Vicky" creationdate="20180603T102530Z">
-        <seg>Si te están intimidando en el trabajo, puede que sea difícil saber qué hacer.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140004Z" creationid="Vicky" creationdate="20180603T102530Z">
+        <seg>Si te están intimidando en el trabajo, puede ser difícil saber qué hacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,8 +3672,8 @@
       <tuv lang="EN-GB">
         <seg>See its &lt;a1&gt;website&lt;/a1&gt; for more information.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171702Z" creationid="Vicky" creationdate="20180518T171702Z">
-        <seg>Visita su sitio web para más información.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135936Z" creationid="Vicky" creationdate="20180518T171702Z">
+        <seg>Visita su &lt;a1&gt;página web&lt;/a1&gt; para más información.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3888,8 +3888,8 @@
       <tuv lang="EN-GB">
         <seg>Sometimes bullying may be obvious, but sometimes it can be harder to identify.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T102536Z" creationid="Vicky" creationdate="20180603T102536Z">
-        <seg>A veces, la intimidación es obvia, pero otras veces es más difícil de identificar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140105Z" creationid="Vicky" creationdate="20180603T102536Z">
+        <seg>A veces, "el bullying" puede resultar obvio, pero otras veces puede ser más difícil de detectar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4553,8 +4553,8 @@
       <tuv lang="EN-GB">
         <seg>Try to provide examples of difficult behaviour and discuss what you would like to change.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171519Z" creationid="Vicky" creationdate="20180518T171519Z">
-        <seg>Intente dar ejemplos de comportamiento difícil y expresa qué es lo que te gustaría cambiar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135842Z" creationid="Vicky" creationdate="20180518T171519Z">
+        <seg>Intenta dar ejemplos de comportamientos difíciles y debate sobre lo que te gustaría que cambiase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4777,8 +4777,8 @@
       <tuv lang="EN-GB">
         <seg>What if I'm being bullied?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171712Z" creationid="Vicky" creationdate="20180518T171712Z">
-        <seg>¿Qué pasa si estoy siendo intimidado?</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135949Z" creationid="Vicky" creationdate="20180518T171712Z">
+        <seg>¿Qué pasa si estoy siendo una víctima de bullying?</seg>
       </tuv>
     </tu>
     <tu>
