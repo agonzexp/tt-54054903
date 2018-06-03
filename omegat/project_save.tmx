@@ -459,8 +459,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Avoid participating in office gossip.&lt;/s0&gt; People often use gossip as a way of bonding b</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T142600Z" creationid="Vicky" creationdate="20180511T142600Z">
-        <seg>&lt;s0&gt;Evita participar en los chismes de la oficina&lt;/s0&gt; La gente suele cotillear como forma de hacer amistad</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135009Z" creationid="Vicky" creationdate="20180511T142600Z">
+        <seg>&lt;s0&gt;Evita participar en los chismes de la oficina.&lt;/s0&gt; La gente suele chismear como una manera de entablar una amistad</seg>
       </tuv>
     </tu>
     <tu>
@@ -539,8 +539,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Find a common ground.&lt;/s0&gt; You won't always have lots in common with each co-worker but finding something that you both like &lt;s1&gt;–&lt;/s1&gt; such as a sports team, TV programme or hobby &lt;s2&gt;–&lt;/s2&gt; can give you something positive to talk about and improve your relationship.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T102157Z" creationid="Vicky" creationdate="20180603T102157Z">
-        <seg>&lt;s0&gt;Ponte de acuerdo&lt;/s0&gt; Normalmente no tendrás muchas cosas en común con el otro compañero pero encontrar algo que os guste a los dos &lt;s1&gt;–&lt;/s1&gt; como un equipo deportivo, un programa de televisón o un hobby&lt;s2&gt;–&lt;/s2&gt;puede  darte positivo sobre lo que hablar y mejorar vuestra relación.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135218Z" creationid="Vicky" creationdate="20180603T102157Z">
+        <seg>&lt;s0&gt;Llegar a un acuerdo.&lt;/s0&gt; Normalmente no tendrás muchas cosas en común con cada compañero pero encontrar algo que os guste a los dos &lt;s1&gt;–&lt;/s1&gt; como un equipo deportivo, un programa de televisión o un hobby&lt;s2&gt;–&lt;/s2&gt;puede proporcionaros algo positivo sobre lo que hablar y mejorar vuestra relación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5177,8 +5177,8 @@
       <tuv lang="EN-GB">
         <seg>You may find it helpful to use phrases such as, 'I appreciate your point of view, but I don't see it that way.'</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143417Z" creationid="Vicky" creationdate="20180511T142404Z">
-        <seg>Te puede ser últil usar frases como, 'Valoro tu punto de vista, pero no lo veo de esa manera.'</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134907Z" creationid="Vicky" creationdate="20180511T142404Z">
+        <seg>Te puede ser últil usar frases como: "'Entiendo tu punto de vista, pero no lo veo de esa manera."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6649,8 +6649,8 @@
       <tuv lang="EN-GB">
         <seg>ut it can put strain on relationships and cause conflict, so it can be a good idea to avoid getting involved.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143401Z" creationid="Vicky" creationdate="20180511T142823Z">
-        <seg>pero ello puede tensar las relaciones y crear conflictos, entonces puede que sea una buena idea el evitar participar en ellos. </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135048Z" creationid="Vicky" creationdate="20180511T142823Z">
+        <seg>pero ello puede tensar las relaciones y crear conflictos, entonces puede que evitar formar parte de ello puede ser una buena idea. </seg>
       </tuv>
     </tu>
     <tu>
