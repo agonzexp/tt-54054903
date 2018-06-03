@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -378,6 +378,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083227Z" creationid="usuario" creationdate="20180515T083227Z">
         <seg>&lt;s0&gt;No dejes que tu vida sea trabajo&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Get enough sleep.&lt;/s0&gt; Stress can often make it difficult to sleep, and can cause &lt;a1&gt;sleep problems&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090231Z" creationid="Vicky" creationdate="20180603T090231Z">
+        <seg>&lt;s0&gt;Duerme lo suficiente. &lt;/s0&gt; El estrés a menudo puede dificultar el sueño y puede causar &lt;a1&gt;problemas para dormir&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2311,6 +2319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>It's not easy, but this can help spread the weight of pressures in your life, and make everything feel lighter.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085933Z" creationid="Vicky" creationdate="20180603T085933Z">
+        <seg>No es fácil, pero esto puede ayudar a disminuir el peso de las presiones en su vida y hacer que todo sea más ligero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It's overwhelming.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201657Z" creationid="Ainhoa" creationdate="20180519T201657Z">
@@ -2395,6 +2411,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223244Z" creationid="usuario" creationdate="20180524T223244Z">
         <seg>Soledad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Look after your physical health</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090104Z" creationid="Vicky" creationdate="20180603T090104Z">
+        <seg>Cuida tu salud física</seg>
       </tuv>
     </tu>
     <tu>
@@ -2627,6 +2651,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185908Z" creationid="Ainhoa" creationdate="20180519T185908Z">
         <seg>Consejo Nacional de Organizaciones Voluntarias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Not full on belting out a tune, but just quietly or even humming to myself, really calms me down.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090051Z" creationid="Vicky" creationdate="20180603T090051Z">
+        <seg>No suelo cantar en voz alta, pero hacerlo solo y lo hago en voz baja o incluso tarareando, realmente me tranquiliza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3331,6 +3363,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T102058Z" creationid="Ainhoa" creationdate="20180529T102031Z">
         <seg>Cómo cuidar a tus trabajadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Taking steps to look after your physical health can help you to look after your mental health and reduce feelings of stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090117Z" creationid="Vicky" creationdate="20180603T090117Z">
+        <seg>Tomar medidas para cuidar tu salud física puede ayudar a cuidar tu salud mental y reducir los sentimientos de estrés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4059,6 +4099,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082043Z" creationid="usuario" creationdate="20180515T082043Z">
         <seg>Qué te está estresando en el trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When I'm stressed, I take myself away from everyone, into another room or somewhere quiet – even just for five minutes – and sing to myself.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085957Z" creationid="Vicky" creationdate="20180603T085957Z">
+        <seg>Cuando estoy estresado, me evado de todos, en otra habitación o en algún lugar silencioso, incluso durante cinco minutos, y me digo a mí mismo.</seg>
       </tuv>
     </tu>
     <tu>
