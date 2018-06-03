@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -90,6 +90,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180529T073837Z" creationid="Ainhoa" creationdate="20180525T201025Z">
         <seg>(Puedes obtener más información sobre la ecoterapia, incluidos los detalles de los programas locales, en nuestras páginas sobre &lt;a0&gt;ecoterapia&lt;/a0&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>/about-us/mind-cymru/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T131546Z" creationid="Vicky" creationdate="20180511T131546Z">
+        <seg>n/about-us/mind-cymru/</seg>
       </tuv>
     </tu>
     <tu>
@@ -425,6 +433,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Address your concerns&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T141548Z" creationid="Vicky" creationdate="20180511T141548Z">
+        <seg>&lt;s0&gt;Aclara tus dudas: &lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Ask for help&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082205Z" creationid="usuario" creationdate="20180515T082205Z">
@@ -437,6 +453,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222142Z" creationid="Vicky" creationdate="20180519T200452Z">
         <seg>&lt;s0&gt;Pregúntele a alguien si te puede ayudar&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Avoid participating in office gossip.&lt;/s0&gt; People often use gossip as a way of bonding b</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T142600Z" creationid="Vicky" creationdate="20180511T142600Z">
+        <seg>&lt;s0&gt;Evita participar en los chismes de la oficina&lt;/s0&gt; La gente suele cotillear como forma de hacer amistad</seg>
       </tuv>
     </tu>
     <tu>
@@ -485,6 +509,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085913Z" creationid="Vicky" creationdate="20180603T085548Z">
         <seg>&lt;s0&gt;Desarrolla tus intereses y tus pasatiempos.&lt;/s0&gt; Encontrar una actividad que sea completamente diferente de las cosas que te causan estrés es una excelente manera de alejarse de las presiones cotidianas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Discuss the problem with someone you feel comfortable with&lt;/s0&gt; such as your manager&lt;s1&gt;,&lt;/s1&gt; human resources department, your welfare officer or union representative (if you have one).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175308Z" creationid="Vicky" creationdate="20180518T175308Z">
+        <seg>&lt;s0&gt; Comparte este problema con alguien con el que tengas confianza&lt;/s0&gt; como tu jefe&lt;s1&gt;,&lt;/s1&gt; el departamanto de recusos humanos, tu ofcina de bienestar o una unión representativa (si la tienes). </seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +770,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Resolve the issue informally&lt;/s0&gt; where possible. With the support of a manager or colleague, if you feel able to, arrange to speak with the person who is bullying you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175437Z" creationid="Vicky" creationdate="20180518T175437Z">
+        <seg>&lt;s0&gt; Resuelve este tema formalmente&lt;/s0&gt; cuando sea posible. Con el apoyo de un jefe o un compañero, si te ves capaz, queda para habalr con la persona que te está intimidando. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Reward yourself for achievements.&lt;/s0&gt; It is easy to focus on what needs to be done next and forget to reward yourself for what you have already accomplished.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082729Z" creationid="usuario" creationdate="20180515T082729Z">
@@ -867,6 +907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Try not to get drawn into arguments.&lt;/s0&gt; You won't always agree with your colleagues.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T142043Z" creationid="Vicky" creationdate="20180511T142043Z">
+        <seg>&lt;s0&gt;Intenta no meterte en discusiones&lt;/s0&gt; No siempre estrás de acuerdo con tus compañeros </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Use relaxation techniques.&lt;/s0&gt; You may already know what helps you relax, like having a bath, listening to music or taking your dog for a walk.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085343Z" creationid="Vicky" creationdate="20180603T085343Z">
@@ -911,6 +959,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095338Z" creationid="Vicky" creationdate="20180603T095338Z">
         <seg>&lt;s0&gt;Your local Mind.&lt;/s0&gt; Es posible que encuentre que su sucursal local de Mind ejecute un curso para ayudarte a cuidar tu bienestar, desarrollar resistencia o controlar el estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;communicate your concerns.&lt;/s0&gt; Request a one-to-one meeting with your manager to discuss how you feel and what you would find helpful from them.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171256Z" creationid="Vicky" creationdate="20180518T171256Z">
+        <seg> expresa tus preocupaciones.&lt;s0&gt; Solicita una reunión en persona con tu jefe para hablar sobre cómo te sientes y sobre qué podrías aprotar a la empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;contact Acas&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171625Z" creationid="Vicky" creationdate="20180518T171551Z">
+        <seg>&lt;s0&gt; contacta con Acas&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -963,10 +1027,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;speak to another manager&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171359Z" creationid="Vicky" creationdate="20180518T171359Z">
+        <seg>habla con otro jefe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;talking to your manager in private&lt;/s0&gt; during supervision or requesting a one-to-one meeting</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173829Z" creationid="Ainhoa" creationdate="20180519T173829Z">
         <seg>&lt;s0&gt;hablar con tu jefe en privado&lt;/s0&gt; durante el periodo de supervisión o solicitar una reunión uno a uno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;think about your job description&lt;/s0&gt;, and what you understand your role to be.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171000Z" creationid="Vicky" creationdate="20180518T171000Z">
+        <seg>piensa en la función de tu trabajo y en cuál crees que es tu papel en la empresa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1047,6 +1127,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T201838Z" creationid="Vicky" creationdate="20180519T201838Z">
         <seg>Maltrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Acas provides free and confidential advice on resolving relationship issues within the workplace.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171648Z" creationid="Vicky" creationdate="20180518T171648Z">
+        <seg>Acas brinda asesoramiento gratuito y confidencial para resolver problemas de relaciónes dentro del lugar de trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1315,6 +1403,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>But getting your point across in a diplomatic way can avoid unhelpful disagreements.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T142248Z" creationid="Vicky" creationdate="20180511T142248Z">
+        <seg>Pero contenerte en una discusión diplomática puede evitar desacuerdos inútiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>But if you often become overwhelmed by stress, these feelings could start to be a problem for you.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202715Z" creationid="Ainhoa" creationdate="20180519T202715Z">
@@ -1359,6 +1455,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200317Z" creationid="Ainhoa" creationdate="20180519T200317Z">
         <seg>Las llamadas son gratuitas para todos los proveedores y no aparecen en las facturas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Calmly explain the situation and your feelings.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143516Z" creationid="Vicky" creationdate="20180511T141736Z">
+        <seg>Explica tu situación y tus sentimientos de una forma calmada</seg>
       </tuv>
     </tu>
     <tu>
@@ -1495,6 +1599,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T194007Z" creationid="Vicky" creationdate="20180519T194007Z">
         <seg>La baja por enfermedad de salud mental es tan válida como la baja por problemas de salud física.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Dealing with workplace bullying</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T141250Z" creationid="Vicky" creationdate="20180511T141250Z">
+        <seg>Cómo enfrentar el bullyng en el trabajo </seg>
       </tuv>
     </tu>
     <tu>
@@ -1711,6 +1823,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181726Z" creationid="Patricia" creationdate="20180516T193526Z">
         <seg>Encuentra un grupo de ayuda comunitaria en la página web del gobierno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Find out if your employer has a &lt;s0&gt;policy on bullying&lt;/s0&gt; and what their grievance procedure is.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T174856Z" creationid="Vicky" creationdate="20180518T174856Z">
+        <seg>Investiga si tu empresa tienes una &lt;s0&gt; política contra el bullying&lt;/s0&gt; y cuál es su procedimiento de quejas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1956,6 +2076,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Having a difficult relationship with your co-workers can be stressful, and make work harder to manage.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143554Z" creationid="Vicky" creationdate="20180511T131712Z">
+        <seg>Tener una relación dificil con tus compañeros de trabajo puede ser estresante, y puede hacer que el trabajo se te haga cuesta arriba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Having a good relationship with your manager can help you feel supported and involved in your role.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T170751Z" creationid="Vicky" creationdate="20180518T170751Z">
+        <seg>Tener una buena relación con su jefe puede ayudarte a sentirte respaldado e involucrado en tu papel en la empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Having problems with your workload</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082117Z" creationid="usuario" creationdate="20180515T082117Z">
@@ -1976,6 +2112,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185620Z" creationid="Ainhoa" creationdate="20180519T185610Z">
         <seg>Sitio web del ejecutivo de Salud y Seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Here are some first steps for managing difficult relationships:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T141432Z" creationid="Vicky" creationdate="20180511T141432Z">
+        <seg>Aquí tienes algunos primeros pasos para afrontar las relaciones difíciles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2016,6 +2160,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T193717Z" creationid="Vicky" creationdate="20180519T193717Z">
         <seg>¿Cómo puedo lidiar con la presión?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>How can I manage difficult relationships?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143606Z" creationid="Vicky" creationdate="20180511T141326Z">
+        <seg>¿Cómo puedo afrontar las relaciones difíciles?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,6 +2244,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>However, a difficult relationship might make your working life feel harder.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T170818Z" creationid="Vicky" creationdate="20180518T170818Z">
+        <seg>Sin embargo, una mala relación puede hacer que tu vida laboral sea más difícil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>However, if you're finding it very hard to cope with things going on in your life and are experiencing lots of &lt;a0&gt;signs of stress&lt;/a0&gt;, there are treatments available that could help.  These include:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180529T072637Z" creationid="Ainhoa" creationdate="20180525T190338Z">
@@ -2156,6 +2316,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>I have [been bullied] in the past.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180453Z" creationid="Vicky" creationdate="20180518T180453Z">
+        <seg>A mí me [hicieron bullying] hace tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>I left that place immediately.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180557Z" creationid="Vicky" creationdate="20180518T180557Z">
+        <seg>Me fui inmediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>I took it to the appropriate person.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180510Z" creationid="Vicky" creationdate="20180518T180510Z">
+        <seg>Se lo comenté a la persona apropiada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>I try to keep each task short and clear, take breaks when getting tired and be polite, honest and empathic with the people I work with.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T084745Z" creationid="usuario" creationdate="20180518T163737Z">
@@ -2188,6 +2372,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If a co-worker says or does something that you find upsetting or offensive, arrange to speak with them in private about this.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180520T203148Z" creationid="Vicky" creationdate="20180511T141709Z">
+        <seg>Si algún compañero dice o hace algo que te molesta o te parece ofensivo, queda con él para hablar en privado sobre este tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If it happens again, or you don't feel you can talk to your co-worker&lt;s1&gt;, discuss your concerns with your manager.&lt;/s1&gt; If you think you're being &lt;a2&gt;bullied&lt;/a2&gt;, see our information below.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143506Z" creationid="Vicky" creationdate="20180511T141930Z">
+        <seg>Si ocurre otra vez, o no crees que puedas hablar con tu compañero&lt;s1&gt;, expón tu situación a tu jefe.&lt;/s1&gt; Si crees que te están haciendo bullyng&lt;a2&gt;&lt;/a2&gt;, mira la información de abajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If people are making unreasonable or unrealistic demands on you, be prepared to tell them how you feel and say no.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085110Z" creationid="Vicky" creationdate="20180603T085110Z">
@@ -2208,6 +2408,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085616Z" creationid="Vicky" creationdate="20180603T085616Z">
         <seg>Si el estrés te hace sentir solo o aislado, los pasatiempos también pueden ser una buena forma de conocer gente nueva..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If the situation isn't improving, or you do not feel as if you can take action, you may decide that leaving your job is the best option for your mental health.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180310Z" creationid="Vicky" creationdate="20180518T180310Z">
+        <seg>Si la situación no mejora, o sientes que no puedes hacer nada, quizá dejar tu trabajo sea la mejor opción para tu salud mental .</seg>
       </tuv>
     </tu>
     <tu>
@@ -2284,10 +2492,42 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you don't feel able to talk to your manager, ask to meet with another manager or someone from HR.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171443Z" creationid="Vicky" creationdate="20180518T171443Z">
+        <seg>Si no te sientes capaz de hablar con su jefe, solicita una reunión con otro jefe o con alguien de Recursos Humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you don't feel comfortable meeting with your manager alone, request to bring a colleague with you, or record your meetings.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171345Z" creationid="Vicky" creationdate="20180518T171345Z">
+        <seg>Si no te sientes cómodo reuniéndote a solas con tu jefe, solicita llevar a un compañero contigo o registra tus reuniones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you experience bullying at work, you can:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T174738Z" creationid="Vicky" creationdate="20180518T174738Z">
+        <seg>Si dufres bullying en el trabajo, puedes: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If you feel able to, you may want to think about:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T162825Z" creationid="Patricia" creationdate="20180516T193132Z">
         <seg>Si te sientes capacitado, quizá quieras pensar en ello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you feel forced to leave your job because of bullying, contact &lt;a0&gt;Acas&lt;/a0&gt; or a solicitor specialising in employment law for advice about your rights.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180426Z" creationid="Vicky" creationdate="20180518T180426Z">
+        <seg>Si te ves forzado a dejar tu trabajo debido al bullying, contacta con &lt;a0&gt;Acas&lt;/a0&gt; o con un abogado especialista en derecho laboral para que te aconseje sobre tus derechos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2401,6 +2641,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T212142Z" creationid="Ainhoa" creationdate="20180519T175919Z">
         <seg>Pero si la ley de &lt;a0&gt;Acto de Igualdad&lt;/a0&gt; no te cubre, tu jefe debería apoyarte en función de lo que es mejor para ti en tu puesto de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you're not ready to talk to someone at work about it, the &lt;a0&gt;Acas website&lt;/a0&gt; and &lt;a1&gt;helpline&lt;/a1&gt; provide &lt;s2&gt;independent and confidential advice&lt;/s2&gt; on what to do if you're being bullied at work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175722Z" creationid="Vicky" creationdate="20180518T175722Z">
+        <seg>Si no te sientes preparado para hablar con alguien del trabajo sobre ello, la &lt;a0&gt;web de Acas &lt;/a0&gt; y &lt;a1&gt; el servicio telefónico&lt;/a1&gt; proporciona &lt;s2&gt; consejos de forma independiente y confidencial&lt;/s2&gt; sobre lo que debes hacre si te están haciendo bullying.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2565,6 +2813,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Is your manager making unreasonable requests or being unclear about what they expect?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171059Z" creationid="Vicky" creationdate="20180518T171059Z">
+        <seg>¿Su jefe te solicita cosas poco razonables o no deja claro lo que espera de ti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It can be difficult to know how to start the conversation.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T173624Z" creationid="Ainhoa" creationdate="20180519T173624Z">
@@ -2677,6 +2933,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Just like in your life outside work, you might encounter people at work who upset you or behave in ways that cause you serious problems.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T162833Z" creationid="Vicky" creationdate="20180511T140939Z">
+        <seg>Igual que en la vida personal, te vas a encontrar a gente en el trabajo que te moleste o se comporte contigo de tal manera que te pueda causar serios problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Lack of support</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083658Z" creationid="usuario" creationdate="20180515T083658Z">
@@ -2785,6 +3049,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221104Z" creationid="Vicky" creationdate="20180519T195002Z">
         <seg>Hacer algunos ajustes en la forma en la que organizas tu tiempo podría ayudarte a tener más control sobre cualquier tarea a la que enfrentas y a manejar la presión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Managing difficult relationships</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T141118Z" creationid="Vicky" creationdate="20180511T141118Z">
+        <seg>Cómo manejar relaciones difíciles </seg>
       </tuv>
     </tu>
     <tu>
@@ -3246,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Raise a &lt;s0&gt;formal complaint&lt;/s0&gt; if you still do not feel the situation is improving.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175942Z" creationid="Vicky" creationdate="20180518T175942Z">
+        <seg>Plantea una &lt;s0&gt; queja formal &lt;/s0&gt; si todavía ves que la situación no mejora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>References are available on request.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095437Z" creationid="Vicky" creationdate="20180603T095437Z">
@@ -3378,6 +3658,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180148Z" creationid="Ainhoa" creationdate="20180519T180148Z">
         <seg>Trastorno afectivo estacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>See &lt;a0&gt;Acas&lt;/a0&gt; for more information about bullying and harassment at work.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T174624Z" creationid="Vicky" creationdate="20180518T174624Z">
+        <seg>Visita&lt;a0&gt; Acas&lt;/a0&gt; para más información sobre el bullying y el acoso en el trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>See its &lt;a1&gt;website&lt;/a1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171702Z" creationid="Vicky" creationdate="20180518T171702Z">
+        <seg>Visita su sitio web para más información.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3886,10 +4182,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>The law provides some protection from bullying.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T174418Z" creationid="Vicky" creationdate="20180518T174418Z">
+        <seg>La ley proporciona algo de protección para el bullying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>The national independent watchdog for work-related health, safety and illness.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185826Z" creationid="Ainhoa" creationdate="20180519T185826Z">
         <seg>Órgano de control nacional independiente para la salud, la seguridad y la enfermedad relacionadas con el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The policy should outline whether a behaviour is acceptable and how to address the problem.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175046Z" creationid="Vicky" creationdate="20180518T175046Z">
+        <seg>La política debería subrayar cualquier comportamiento es aceptable y cómo aborda el problema. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4239,6 +4551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Try to provide examples of difficult behaviour and discuss what you would like to change.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171519Z" creationid="Vicky" creationdate="20180518T171519Z">
+        <seg>Intente dar ejemplos de comportamiento difícil y expresa qué es lo que te gustaría cambiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Try to remember that nobody's perfect, and putting extra pressure on yourself doesn't help.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092504Z" creationid="Vicky" creationdate="20180603T092504Z">
@@ -4259,6 +4579,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094039Z" creationid="usuario" creationdate="20180515T094039Z">
         <seg>Tipos de trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Unfortunately for me they didn't care and didn't take it seriously.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180545Z" creationid="Vicky" creationdate="20180518T180545Z">
+        <seg>Desafrotunadamente paa mí, no les importó y no se lo tomaron en serio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4447,6 +4775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>What if I'm being bullied?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171712Z" creationid="Vicky" creationdate="20180518T171712Z">
+        <seg>¿Qué pasa si estoy siendo intimidado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>What if I'm not well enough to work?</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T113256Z" creationid="Patricia" creationdate="20180516T192912Z">
@@ -4459,6 +4795,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180511T185915Z" creationid="Patricia" creationdate="20180511T185915Z">
         <seg>¿Qué pasa si estoy desempleado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What if my manager is the problem?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T170721Z" creationid="Vicky" creationdate="20180518T170721Z">
+        <seg>¿Qué pasa si mi jefe es el problema?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4539,6 +4883,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082043Z" creationid="usuario" creationdate="20180515T082043Z">
         <seg>Qué te está estresando en el trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When I was bullied at work I told someone how I felt and what was happening.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T174717Z" creationid="Vicky" creationdate="20180518T174717Z">
+        <seg> Cuando sufrí bullying en el trabajo, le conté a alguien cómo me sentía y qué era lo que sucedía </seg>
       </tuv>
     </tu>
     <tu>
@@ -4695,6 +5047,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Workplace relations</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T140808Z" creationid="Vicky" creationdate="20180511T140808Z">
+        <seg>Relaciones en el trabajp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>You are considered disabled if your mental health problem has a substantial and long-term adverse effect (12 months, or more) on your ability to carry out normal day-to-day activities.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T104256Z" creationid="Patricia" creationdate="20180511T185702Z">
@@ -4759,6 +5119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>You could:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T170828Z" creationid="Vicky" creationdate="20180518T170828Z">
+        <seg>Puedes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>You don't have to be 'perfect' all the time.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082753Z" creationid="usuario" creationdate="20180515T082753Z">
@@ -4771,6 +5139,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T163749Z" creationid="usuario" creationdate="20180518T163749Z">
         <seg>No tienes que lidiar con el estrés solo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You may be able to do this through formal procedures in your workplace, or you can contact &lt;a1&gt;Acas&lt;/a1&gt; to discuss your options and your rights, including what you can do if you're not happy with the outcome of your complaint.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180146Z" creationid="Vicky" creationdate="20180518T180146Z">
+        <seg>Puede que debas llevar a esto a procedimientos formales en tu lugar de trabajo, o puedes contactar con &lt;a1&gt;Acas&lt;/a1&gt; para discutir tus opciones y tus derechos, incluyendo lo que puedes hacer si no estás contento con el resultado de tu queja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4795,6 +5171,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201113Z" creationid="OmegaT Aligner" creationdate="20180525T190249Z">
         <seg>Es posible que encuentres ciertas terapias complementarias que te ayuden a controlar los sentimientos de estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>You may find it helpful to use phrases such as, 'I appreciate your point of view, but I don't see it that way.'</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143417Z" creationid="Vicky" creationdate="20180511T142404Z">
+        <seg>Te puede ser últil usar frases como, 'Valoro tu punto de vista, pero no lo veo de esa manera.'</seg>
       </tuv>
     </tu>
     <tu>
@@ -4899,6 +5283,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T111846Z" creationid="Patricia" creationdate="20180516T191824Z">
         <seg>Tu &lt;a0&gt;Jobcentre Plus&lt;/a0&gt; más cercano puede ayudarte a encontrar trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Your local &lt;a3&gt;Citizen's Advice&lt;/a3&gt; may also be able to help.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175841Z" creationid="Vicky" creationdate="20180518T175841Z">
+        <seg>Tu &lt;a3&gt; centro locel de información al ciudadano &lt;/a3&gt; quizás también pueda ayudarte. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6251,6 +6643,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180002Z" creationid="Ainhoa" creationdate="20180519T180002Z">
         <seg>usar &lt;s0&gt;mensajes de voz&lt;/s0&gt; para recibir mensajes si las llamadas te crean ansiedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>ut it can put strain on relationships and cause conflict, so it can be a good idea to avoid getting involved.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143401Z" creationid="Vicky" creationdate="20180511T142823Z">
+        <seg>pero ello puede tensar las relaciones y crear conflictos, entonces puede que sea una buena idea el evitar participar en ellos. </seg>
       </tuv>
     </tu>
     <tu>
