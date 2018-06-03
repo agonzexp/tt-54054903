@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>(See our pages on &lt;a1&gt;how to cope with student life&lt;/a1&gt; for more tips on accessing support as a student.)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094323Z" creationid="Vicky" creationdate="20180603T094323Z">
+        <seg>(Consulta nuestras páginas sobre &lt;a1&gt;cómo lidiar con la vida estudiantil&lt;/a1&gt; para obtener más consejos sobre cómo acceder al apoyo como estudiante).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>(See our pages on &lt;a1&gt;relaxation&lt;/a1&gt; for lots more ideas.)</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085443Z" creationid="Vicky" creationdate="20180603T085443Z">
@@ -683,6 +691,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202845Z" creationid="Ainhoa" creationdate="20180519T202845Z">
         <seg>&lt;s0&gt;El estrés puede causar problemas de salud mental&lt;/s0&gt; y empeorar problemas ya existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Support at university or college,&lt;/s0&gt; such as your tutors, student union or student services.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T093400Z" creationid="Vicky" creationdate="20180603T093400Z">
+        <seg>&lt;s0&gt;Soporte en la universidad o instituto,&lt;/s0&gt; como tutores, sindicato estudiantil o servicios estudiantiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5903,6 +5919,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T190902Z" creationid="Ainhoa" creationdate="20180525T190902Z">
         <seg>tratamientos de conversación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the Health and Safety Executive’s &lt;a0&gt;information on work-related stress&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T093324Z" creationid="Vicky" creationdate="20180603T093324Z">
+        <seg>La información del Ejecutivo de Salud y Seguridad&lt;a0&gt;sobre el estrés relacionado con el trabajo&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
