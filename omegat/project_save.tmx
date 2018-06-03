@@ -1381,8 +1381,8 @@
       <tuv lang="EN-GB">
         <seg>Bullying can have a significant impact on your mental health, but remember: &lt;s0&gt;you don't have to put up with it.&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140219Z" creationid="Vicky" creationdate="20180603T102554Z">
-        <seg>El "bullying" o el acoso puede tener un impacto significativo en tu salud mental, pero recuerda:&lt;s0&gt;no tienes por qué aguantarlo.&lt;/s0&gt;</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140341Z" creationid="Vicky" creationdate="20180603T102554Z">
+        <seg>El acoso puede tener un impacto significativo en tu salud mental, pero recuerda:&lt;s0&gt;no tienes por qué aguantarlo.&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1829,8 +1829,8 @@
       <tuv lang="EN-GB">
         <seg>Find out if your employer has a &lt;s0&gt;policy on bullying&lt;/s0&gt; and what their grievance procedure is.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T174856Z" creationid="Vicky" creationdate="20180518T174856Z">
-        <seg>Investiga si tu empresa tienes una &lt;s0&gt; política contra el bullying&lt;/s0&gt; y cuál es su procedimiento de quejas.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140632Z" creationid="Vicky" creationdate="20180518T174856Z">
+        <seg>Investigar si tu jefe tiene una &lt;s0&gt;política contra el acoso laboral&lt;/s0&gt; y cuál es su procedimiento de quejas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,8 +2510,8 @@
       <tuv lang="EN-GB">
         <seg>If you experience bullying at work, you can:</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T174738Z" creationid="Vicky" creationdate="20180518T174738Z">
-        <seg>Si dufres bullying en el trabajo, puedes: </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140552Z" creationid="Vicky" creationdate="20180518T174738Z">
+        <seg>Si experimentas acoso laboral, puedes: </seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,8 +3664,8 @@
       <tuv lang="EN-GB">
         <seg>See &lt;a0&gt;Acas&lt;/a0&gt; for more information about bullying and harassment at work.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T174624Z" creationid="Vicky" creationdate="20180518T174624Z">
-        <seg>Visita&lt;a0&gt; Acas&lt;/a0&gt; para más información sobre el bullying y el acoso en el trabajo</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140417Z" creationid="Vicky" creationdate="20180518T174624Z">
+        <seg>Visita&lt;a0&gt; Acas&lt;/a0&gt; para más información sobre el "bullying" y el acoso en el trabajo</seg>
       </tuv>
     </tu>
     <tu>
@@ -4184,8 +4184,8 @@
       <tuv lang="EN-GB">
         <seg>The law provides some protection from bullying.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140320Z" creationid="Vicky" creationdate="20180518T174418Z">
-        <seg>La ley proporciona alguna protección contra el "bullying".</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140354Z" creationid="Vicky" creationdate="20180518T174418Z">
+        <seg>La ley proporciona alguna protección contra el acoso laboral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4777,8 +4777,8 @@
       <tuv lang="EN-GB">
         <seg>What if I'm being bullied?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135949Z" creationid="Vicky" creationdate="20180518T171712Z">
-        <seg>¿Qué pasa si estoy siendo una víctima de bullying?</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140430Z" creationid="Vicky" creationdate="20180518T171712Z">
+        <seg>¿Qué pasa si estoy siendo una víctima de acoso laboral?</seg>
       </tuv>
     </tu>
     <tu>
