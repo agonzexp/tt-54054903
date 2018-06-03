@@ -150,6 +150,15 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;/s0&gt;Time away from your normal routine can help you relax and feel refreshed.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092309Z" creationid="Vicky" creationdate="20180603T092309Z">
+        <seg>&lt;/s0&gt;El tiempo alejado de la rutina normal puede ayudar a relajarse y sentirse renovado.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;/s0&gt;When you’re under a lot of pressure it’s easy to set yourself large targets that are often unachievable.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T221806Z" creationid="Vicky" creationdate="20180519T195327Z">
@@ -162,6 +171,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T203240Z" creationid="Ainhoa" creationdate="20180519T203240Z">
         <seg>&lt;/s0&gt;Es posible que te enfrentes día a día a los síntomas de tus problemas de salud mental, probablemente necesitando tomar medicamentos, citas médicas u otros tratamientos, los cuales pueden convertirse en causas adicionales de estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;/s0&gt;You might want to go outside, go to a friend’s house or go to a café for a break – even if it's just for a short time.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092227Z" creationid="Vicky" creationdate="20180603T092227Z">
+        <seg>&lt;/s0&gt;Es posible que desees salir, ir a casa de un amigo o ir a tomar un café en el descanso, incluso si es por poco tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +667,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212931Z" creationid="usuario" creationdate="20180519T212931Z">
         <seg>&lt;s0&gt;Dale apoyo para acudir a una ayuda profesional.&lt;/s0&gt; Por ejemplo, podrías ayudarle a ponerse en contacto con su médico de cabecera, asistir con él a una cita o investigar sobre la salud mental y el bienestar (consulte nuestra página en &lt;a1&gt;ayudar a otra persona a buscar ayuda&lt;/a1&gt; para muchas más ideas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Take a break or holiday.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092239Z" creationid="Vicky" creationdate="20180603T092239Z">
+        <seg>&lt;s0&gt;Tómate un descanso o unas vacaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1418,6 +1443,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090559Z" creationid="Vicky" creationdate="20180603T090559Z">
         <seg>Incluso hacer pequeños cambios, como salir a caminar regularmente, puede ayudarte a reducir el estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Even spending a day in a different place can help you feel more able to face stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092329Z" creationid="Vicky" creationdate="20180603T092329Z">
+        <seg>Incluso pasar un día en un lugar diferente puede ayudarte a sentirte más capaz de enfrentar el estrés.</seg>
       </tuv>
     </tu>
     <tu>
