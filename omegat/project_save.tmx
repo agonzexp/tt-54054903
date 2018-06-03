@@ -909,8 +909,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Try not to get drawn into arguments.&lt;/s0&gt; You won't always agree with your colleagues.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T142043Z" creationid="Vicky" creationdate="20180511T142043Z">
-        <seg>&lt;s0&gt;Intenta no meterte en discusiones&lt;/s0&gt; No siempre estrás de acuerdo con tus compañeros </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134652Z" creationid="Vicky" creationdate="20180511T142043Z">
+        <seg>&lt;s0&gt;Intenta no meterte en discusiones.&lt;/s0&gt; No siempre estarás de acuerdo con tus compañeros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1405,8 +1405,8 @@
       <tuv lang="EN-GB">
         <seg>But getting your point across in a diplomatic way can avoid unhelpful disagreements.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T142248Z" creationid="Vicky" creationdate="20180511T142248Z">
-        <seg>Pero contenerte en una discusión diplomática puede evitar desacuerdos inútiles.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134835Z" creationid="Vicky" creationdate="20180511T142248Z">
+        <seg>Sin embargo, expresar tu argumento en una manera diplomática puede evitar desacuerdos inútiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2382,8 +2382,8 @@
       <tuv lang="EN-GB">
         <seg>If it happens again, or you don't feel you can talk to your co-worker&lt;s1&gt;, discuss your concerns with your manager.&lt;/s1&gt; If you think you're being &lt;a2&gt;bullied&lt;/a2&gt;, see our information below.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143506Z" creationid="Vicky" creationdate="20180511T141930Z">
-        <seg>Si ocurre otra vez, o no crees que puedas hablar con tu compañero&lt;s1&gt;, expón tu situación a tu jefe.&lt;/s1&gt; Si crees que te están haciendo bullyng&lt;a2&gt;&lt;/a2&gt;, mira la información de abajo.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134639Z" creationid="Vicky" creationdate="20180511T141930Z">
+        <seg>Si ocurre otra vez, o si consideras que no puedes hablar con tu compañero&lt;s1&gt;, exponle tu situación a tu jefe.&lt;/s1&gt; Si crees que te están haciendo bullying&lt;a2&gt;&lt;/a2&gt;, mira nuestra información de abajo.</seg>
       </tuv>
     </tu>
     <tu>
