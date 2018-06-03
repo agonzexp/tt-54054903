@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3537,8 +3537,8 @@
       <tuv lang="EN-GB">
         <seg>There might be one big thing causing you stress, but stress can also be caused by a build-up of small pressures.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203129Z" creationid="usuario" creationdate="20180519T203129Z">
-        <seg>Puede que sea una cosa en concreto la que te cause estrás, pero también puede causarlo una acumulación de pequeños desafíos.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T090349Z" creationid="usuario" creationdate="20180519T203129Z">
+        <seg>Puede que sea una cosa en concreto la que te cause estrés, pero también puede causarlo la acumulación de pequeños desafíos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4657,8 +4657,8 @@
       <tuv lang="EN-GB">
         <seg>being under lots of pressure</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193724Z" creationid="usuario" creationdate="20180519T202646Z">
-        <seg>Estar bajo mucha presión</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T090059Z" creationid="usuario" creationdate="20180519T202646Z">
+        <seg>estar bajo mucha presión</seg>
       </tuv>
     </tu>
     <tu>
@@ -4929,8 +4929,8 @@
       <tuv lang="EN-GB">
         <seg>facing big changes</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202905Z" creationid="usuario" creationdate="20180519T202905Z">
-        <seg>Enfrentarse a grandes cambios</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T090102Z" creationid="usuario" creationdate="20180519T202905Z">
+        <seg>enfrentarse a grandes cambios</seg>
       </tuv>
     </tu>
     <tu>
@@ -5089,8 +5089,8 @@
       <tuv lang="EN-GB">
         <seg>having responsibilities that you're finding overwhelming</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193804Z" creationid="usuario" creationdate="20180519T202938Z">
-        <seg>Tener responsabilidades que te resulten abrumadoras</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T090245Z" creationid="usuario" creationdate="20180519T202938Z">
+        <seg>tener responsabilidades que te resulten abrumadoras</seg>
       </tuv>
     </tu>
     <tu>
@@ -5409,16 +5409,16 @@
       <tuv lang="EN-GB">
         <seg>not having enough work, activities or change in your life</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193810Z" creationid="usuario" creationdate="20180519T202955Z">
-        <seg>No tener suficiente trabajo, actividades o cambios en tu vida</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T090249Z" creationid="usuario" creationdate="20180519T202955Z">
+        <seg>no tener suficiente trabajo, actividades o cambios en tu vida</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>not having much or any control over the outcome of a situation</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193759Z" creationid="usuario" creationdate="20180519T202921Z">
-        <seg>No tener mucho o ningún control sobre el resultado de una situación</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T090240Z" creationid="usuario" creationdate="20180519T202921Z">
+        <seg>no tener el control sobre el resultado de ciertas situaciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -5729,8 +5729,8 @@
       <tuv lang="EN-GB">
         <seg>times of uncertainty.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193814Z" creationid="usuario" creationdate="20180519T203013Z">
-        <seg>Momentos de incertidumbre.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T090252Z" creationid="usuario" creationdate="20180519T203013Z">
+        <seg>momentos de incertidumbre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5865,8 +5865,8 @@
       <tuv lang="EN-GB">
         <seg>worrying about something</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T202910Z" creationid="usuario" creationdate="20180519T202910Z">
-        <seg>Preocuparse por algo</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T090108Z" creationid="usuario" creationdate="20180519T202910Z">
+        <seg>preocuparse por algo</seg>
       </tuv>
     </tu>
     <tu>
