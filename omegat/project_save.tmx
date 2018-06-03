@@ -2326,16 +2326,16 @@
       <tuv lang="EN-GB">
         <seg>I left that place immediately.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180557Z" creationid="Vicky" creationdate="20180518T180557Z">
-        <seg>Me fui inmediatamente.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141630Z" creationid="Vicky" creationdate="20180518T180557Z">
+        <seg>Me fui de aquel lugar inmediatamente.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>I took it to the appropriate person.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180510Z" creationid="Vicky" creationdate="20180518T180510Z">
-        <seg>Se lo comenté a la persona apropiada.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141604Z" creationid="Vicky" creationdate="20180518T180510Z">
+        <seg>Recurrí a la persona apropiada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4585,8 +4585,8 @@
       <tuv lang="EN-GB">
         <seg>Unfortunately for me they didn't care and didn't take it seriously.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180545Z" creationid="Vicky" creationdate="20180518T180545Z">
-        <seg>Desafrotunadamente paa mí, no les importó y no se lo tomaron en serio.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141621Z" creationid="Vicky" creationdate="20180518T180545Z">
+        <seg>Desafortunadamente para mí, no les importó y no se lo tomaron en serio.</seg>
       </tuv>
     </tu>
     <tu>
