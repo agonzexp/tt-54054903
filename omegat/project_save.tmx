@@ -1541,8 +1541,8 @@
       <tuv lang="EN-GB">
         <seg>Citizens Advice website</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184446Z" creationid="Ainhoa" creationdate="20180519T184446Z">
-        <seg>Sitio web de información al ciudadano.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141037Z" creationid="Ainhoa" creationdate="20180519T184446Z">
+        <seg>Página web de Información al Ciudadano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2647,8 +2647,8 @@
       <tuv lang="EN-GB">
         <seg>If you're not ready to talk to someone at work about it, the &lt;a0&gt;Acas website&lt;/a0&gt; and &lt;a1&gt;helpline&lt;/a1&gt; provide &lt;s2&gt;independent and confidential advice&lt;/s2&gt; on what to do if you're being bullied at work.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175722Z" creationid="Vicky" creationdate="20180518T175722Z">
-        <seg>Si no te sientes preparado para hablar con alguien del trabajo sobre ello, la &lt;a0&gt;web de Acas &lt;/a0&gt; y &lt;a1&gt; el servicio telefónico&lt;/a1&gt; proporciona &lt;s2&gt; consejos de forma independiente y confidencial&lt;/s2&gt; sobre lo que debes hacre si te están haciendo bullying.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141142Z" creationid="Vicky" creationdate="20180518T175722Z">
+        <seg>Si no te sientes preparado para hablar de ello con alguien del trabajo, la&lt;a0&gt;página web de Acas&lt;/a0&gt; y &lt;a1&gt;el servicio telefónico&lt;/a1&gt; proporciona &lt;s2&gt;consejos de forma independiente y confidencial&lt;/s2&gt; sobre lo que debes hacer en este caso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3520,8 +3520,8 @@
       <tuv lang="EN-GB">
         <seg>Raise a &lt;s0&gt;formal complaint&lt;/s0&gt; if you still do not feel the situation is improving.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175942Z" creationid="Vicky" creationdate="20180518T175942Z">
-        <seg>Plantea una &lt;s0&gt; queja formal &lt;/s0&gt; si todavía ves que la situación no mejora.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141330Z" creationid="Vicky" creationdate="20180518T175942Z">
+        <seg>Exige una &lt;s0&gt;queja formal&lt;/s0&gt; si crees que la situación aún no mejora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5289,8 +5289,8 @@
       <tuv lang="EN-GB">
         <seg>Your local &lt;a3&gt;Citizen's Advice&lt;/a3&gt; may also be able to help.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175841Z" creationid="Vicky" creationdate="20180518T175841Z">
-        <seg>Tu &lt;a3&gt; centro locel de información al ciudadano &lt;/a3&gt; quizás también pueda ayudarte. </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141222Z" creationid="Vicky" creationdate="20180518T175841Z">
+        <seg>Tu centro local de&lt;a3&gt;Información al Ciudadano&lt;/a3&gt; quizás también pueda ayudar. </seg>
       </tuv>
     </tu>
     <tu>
