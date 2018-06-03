@@ -1381,8 +1381,8 @@
       <tuv lang="EN-GB">
         <seg>Bullying can have a significant impact on your mental health, but remember: &lt;s0&gt;you don't have to put up with it.&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T102554Z" creationid="Vicky" creationdate="20180603T102554Z">
-        <seg>La intimidación puede tener un impacto significativo en tu salud mental, pero recuerda&lt;s0&gt;: no tienes por qué aguantarlo.&lt;/s0&gt;</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140219Z" creationid="Vicky" creationdate="20180603T102554Z">
+        <seg>El "bullying" o el acoso puede tener un impacto significativo en tu salud mental, pero recuerda:&lt;s0&gt;no tienes por qué aguantarlo.&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3888,8 +3888,8 @@
       <tuv lang="EN-GB">
         <seg>Sometimes bullying may be obvious, but sometimes it can be harder to identify.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140105Z" creationid="Vicky" creationdate="20180603T102536Z">
-        <seg>A veces, "el bullying" puede resultar obvio, pero otras veces puede ser más difícil de detectar.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140330Z" creationid="Vicky" creationdate="20180603T102536Z">
+        <seg>A veces, el acoso puede resultar obvio, pero otras veces puede ser más difícil de detectar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4184,8 +4184,8 @@
       <tuv lang="EN-GB">
         <seg>The law provides some protection from bullying.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T174418Z" creationid="Vicky" creationdate="20180518T174418Z">
-        <seg>La ley proporciona algo de protección para el bullying.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140320Z" creationid="Vicky" creationdate="20180518T174418Z">
+        <seg>La ley proporciona alguna protección contra el "bullying".</seg>
       </tuv>
     </tu>
     <tu>
