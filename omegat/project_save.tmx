@@ -2318,8 +2318,8 @@
       <tuv lang="EN-GB">
         <seg>I have [been bullied] in the past.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180453Z" creationid="Vicky" creationdate="20180518T180453Z">
-        <seg>A mí me [hicieron bullying] hace tiempo.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141550Z" creationid="Vicky" creationdate="20180518T180453Z">
+        <seg>Yo también sufrí [acoso] hace tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,8 +2414,8 @@
       <tuv lang="EN-GB">
         <seg>If the situation isn't improving, or you do not feel as if you can take action, you may decide that leaving your job is the best option for your mental health.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180310Z" creationid="Vicky" creationdate="20180518T180310Z">
-        <seg>Si la situación no mejora, o sientes que no puedes hacer nada, quizá dejar tu trabajo sea la mejor opción para tu salud mental .</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141456Z" creationid="Vicky" creationdate="20180518T180310Z">
+        <seg>Si la situación no mejora, o no te sientes capaz de tomar acción, quizá dejar tu trabajo sea la mejor opción para tu salud mental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2526,8 +2526,8 @@
       <tuv lang="EN-GB">
         <seg>If you feel forced to leave your job because of bullying, contact &lt;a0&gt;Acas&lt;/a0&gt; or a solicitor specialising in employment law for advice about your rights.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180426Z" creationid="Vicky" creationdate="20180518T180426Z">
-        <seg>Si te ves forzado a dejar tu trabajo debido al bullying, contacta con &lt;a0&gt;Acas&lt;/a0&gt; o con un abogado especialista en derecho laboral para que te aconseje sobre tus derechos.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141526Z" creationid="Vicky" creationdate="20180518T180426Z">
+        <seg>Si te ves forzado a dejar tu trabajo debido al acoso laboral, contacta con &lt;a0&gt;Acas&lt;/a0&gt; o con un abogado especializado en derecho laboral para que te aconseje sobre tus derechos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5145,8 +5145,8 @@
       <tuv lang="EN-GB">
         <seg>You may be able to do this through formal procedures in your workplace, or you can contact &lt;a1&gt;Acas&lt;/a1&gt; to discuss your options and your rights, including what you can do if you're not happy with the outcome of your complaint.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T180146Z" creationid="Vicky" creationdate="20180518T180146Z">
-        <seg>Puede que debas llevar a esto a procedimientos formales en tu lugar de trabajo, o puedes contactar con &lt;a1&gt;Acas&lt;/a1&gt; para discutir tus opciones y tus derechos, incluyendo lo que puedes hacer si no estás contento con el resultado de tu queja.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141412Z" creationid="Vicky" creationdate="20180518T180146Z">
+        <seg>Puede que debas llevar a esto a procedimientos formales en tu lugar de trabajo, o puedes contactar con &lt;a1&gt;Acas&lt;/a1&gt; para debatir tus opciones y derechos, incluyendo lo que puedes hacer si no estás contento con el resultado de tu queja.</seg>
       </tuv>
     </tu>
     <tu>
