@@ -635,8 +635,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Keep a professional distance.&lt;/s0&gt; Unfortunately it's not always possible to have good personal relationships with all your colleagues, so if you do have to work with someone you don't get on with, it's helpful to keep focused on work and stay professional.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180531T153159Z" creationid="Vicky" creationdate="20180531T153159Z">
-        <seg>Desafortunadamente, no siempre es posible tener buenas relaciones personales con todos tus compañeros, por lo que si tienes que trabajar con alguien con quien no tienes relación, céntrate en el trabajo y sé profesional.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135327Z" creationid="Vicky" creationdate="20180531T153159Z">
+        <seg>&lt;s0&gt;Mantén una distancia profesional.&lt;/s0&gt;Desafortunadamente, no siempre es posible tener buenas relaciones personales con todos tus compañeros, por lo que si tienes que trabajar con alguien con quien no te llevas bien, será mejor centrarte en el trabajo y ser profesional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1045,8 +1045,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;think about your job description&lt;/s0&gt;, and what you understand your role to be.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T171000Z" creationid="Vicky" creationdate="20180518T171000Z">
-        <seg>piensa en la función de tu trabajo y en cuál crees que es tu papel en la empresa</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135446Z" creationid="Vicky" creationdate="20180518T171000Z">
+        <seg>&lt;s0&gt;pensar en la función de tu trabajo&lt;/s0&gt;, y cuál crees que es tu papel en la empresa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2086,8 +2086,8 @@
       <tuv lang="EN-GB">
         <seg>Having a good relationship with your manager can help you feel supported and involved in your role.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T170751Z" creationid="Vicky" creationdate="20180518T170751Z">
-        <seg>Tener una buena relación con su jefe puede ayudarte a sentirte respaldado e involucrado en tu papel en la empresa.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135404Z" creationid="Vicky" creationdate="20180518T170751Z">
+        <seg>Tener una buena relación con tu jefe puede ayudarte a sentirte respaldado e involucrado en tu papel en la empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4801,8 +4801,8 @@
       <tuv lang="EN-GB">
         <seg>What if my manager is the problem?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T170721Z" creationid="Vicky" creationdate="20180518T170721Z">
-        <seg>¿Qué pasa si mi jefe es el problema?</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T135343Z" creationid="Vicky" creationdate="20180518T170721Z">
+        <seg>¿Qué pasa si el problema es mi jefe?</seg>
       </tuv>
     </tu>
     <tu>
