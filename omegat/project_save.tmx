@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30,10 +30,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>(See our pages on &lt;a1&gt;relaxation&lt;/a1&gt; for lots more ideas.)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085443Z" creationid="Vicky" creationdate="20180603T085443Z">
+        <seg>(Consulta nuestras páginas sobre &lt;a1&gt;relajación&lt;/a1&gt;para obtener muchas más ideas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>(See our pages on &lt;a1&gt;seeking help for a mental health problem&lt;/a1&gt; for tips on how to talk to your doctor about your mental health.)</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191402Z" creationid="Ainhoa" creationdate="20180525T191302Z">
         <seg>(Consulte nuestras páginas sobre &lt;a1&gt;cómo buscar ayuda para un problema de salud mental&lt;/a1&gt; para obtener consejos sobre cómo hablar con tu médico sobre tu salud mental).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>(The organisation Mind Tools provides &lt;a2&gt;tips on assertiveness&lt;/a2&gt; on their website.)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085210Z" creationid="Vicky" creationdate="20180603T085210Z">
+        <seg>(La organización Mind Tools proporciona &lt;a2&gt;consejos sobre asertividad &lt;/a2&gt; en su sitio web).</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Develop your interests and hobbies.&lt;/s0&gt; Finding an activity that's completely different from the things causing you stress is a great way to get away from everyday pressures.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085548Z" creationid="Vicky" creationdate="20180603T085548Z">
+        <seg>&lt;s0&gt;Desarrolla tus intereses y tis hobbies.&lt;/s0&gt; Encontrar una actividad que sea completamente diferente de las cosas que te causan estrés es una excelente manera de alejarse de las presiones cotidianas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Don't let your life be work&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083227Z" creationid="usuario" creationdate="20180515T083227Z">
@@ -610,6 +634,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222040Z" creationid="Vicky" creationdate="20180519T195436Z">
         <seg>&lt;s0&gt;Intenta no hacer demasiado al mismo tiempo&lt;/s0&gt; Si asumes demasiado, puede que te cueste más hacer bien cualquier tarea individual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Use relaxation techniques.&lt;/s0&gt; You may already know what helps you relax, like having a bath, listening to music or taking your dog for a walk.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085343Z" creationid="Vicky" creationdate="20180603T085343Z">
+        <seg>&lt;s0&gt;Usa técnicas de relajación.&lt;/s0&gt; Es posible que ya sepas qué es lo que te ayuda a relajarte, como bañarte, escuchar música o sacar a pasear a tu perro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1830,10 +1862,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If people are making unreasonable or unrealistic demands on you, be prepared to tell them how you feel and say no.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085110Z" creationid="Vicky" creationdate="20180603T085110Z">
+        <seg>Si las personas te exigen algo irrazonable o poco realista, prepárate para decirles cómo te sientes y para decir que no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If someone you're close to is feeling stressed there are lots of practical things you can do to support them – even though you probably can't change the situation they're in.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211238Z" creationid="usuario" creationdate="20180519T211238Z">
         <seg>Si alguien cercano a ti padece de estrés, hay muchas cosas prácticas que puedes hacer para apoyarle, aunque probablemente no puedas cambiar la situación en la que se encuentra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If stress is making you feel lonely or isolated, shared hobbies can also be a good way to meet new people.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085616Z" creationid="Vicky" creationdate="20180603T085616Z">
+        <seg>Si el estrés te hace sentir solo o aislado, los pasatiempos también pueden ser una buena forma de conocer gente nueva..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1970,6 +2018,15 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193007Z" creationid="Patricia" creationdate="20180521T193007Z">
         <seg>Si has estado ausente por enfermedad por más de siete días consecutivos, considera hacer lo siguiente antes de regresar al trabajo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you know that a certain activity helps you feel more relaxed, make sure you set aside time to do it.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085359Z" creationid="Vicky" creationdate="20180603T085359Z">
+        <seg>Si sabes que cierta actividad te ayuda a sentirte más relajado, asegúrate de reservar tiempo para ello.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2778,6 +2835,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200507Z" creationid="Ainhoa" creationdate="20180519T200507Z">
         <seg>Proporciona información sobre el estrés y el bienestar del lugar de trabajo para empleadores y empleados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Relaxation - tips</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085229Z" creationid="Vicky" creationdate="20180603T085229Z">
+        <seg>Consejos de relajación.</seg>
       </tuv>
     </tu>
     <tu>
