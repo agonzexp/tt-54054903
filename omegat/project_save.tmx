@@ -488,8 +488,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Recognising the&lt;/s0&gt; &lt;a1&gt;&lt;s2&gt;signs of stress&lt;/s2&gt;&lt;/a1&gt; and the causes is a good place to start.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164133Z" creationid="usuario" creationdate="20180518T164133Z">
-        <seg>&lt;s0&gt;Un buen camino para empezar es hallar los&lt;/s0&gt; &lt;a1&gt;&lt;s2&gt;indicios de estrés&lt;/s2&gt;&lt;/a1&gt; y sus causas.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T084947Z" creationid="usuario" creationdate="20180518T164133Z">
+        <seg>Un buen inicio es&lt;s0&gt;hallar&lt;/s0&gt; &lt;a1&gt;&lt;s2&gt;indicios de estrés&lt;/s2&gt;&lt;/a1&gt; y sus causas.</seg>
       </tuv>
     </tu>
     <tu>
