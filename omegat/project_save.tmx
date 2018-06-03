@@ -343,6 +343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;&lt;s1&gt;Resolve conflicts,&lt;/s1&gt; &lt;/s0&gt;if you can.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092402Z" creationid="Vicky" creationdate="20180603T092402Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Resuelve conflictos,&lt;/s1&gt; &lt;/s0&gt; si puedes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Ask for help&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082205Z" creationid="usuario" creationdate="20180515T082205Z">
@@ -419,6 +427,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090631Z" creationid="Vicky" creationdate="20180603T090631Z">
         <seg>&lt;s0&gt;Comer sano.&lt;/s0&gt;Cuando estás estresado, puede resultar tentador omitir comidas o comer demasiados tipos de alimentos equivocados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Forgive yourself&lt;/s0&gt; when you feel you have make a mistake, or don't achieve something you hoped for.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092450Z" creationid="Vicky" creationdate="20180603T092450Z">
+        <seg>&lt;s0&gt;Perdónate&lt;/s0&gt; cuando sientas que has cometido un error o no consigas lo que esperabas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -975,6 +991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Although this can sometimes be hard, speaking to a manager, colleague or family member about problems in your relationship with them can help you find ways to move forward.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092417Z" creationid="Vicky" creationdate="20180603T092417Z">
+        <seg>Aunque a veces esto puede ser difícil, hablar con un gerente, colega o miembro de la familia sobre los problemas en ka relación con ellos puede ayudar a encontrar la forma de avanzar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>An online community of people who are finding it hard to cope.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180525T180705Z" creationid="Ainhoa" creationdate="20180519T200029Z">
@@ -1107,6 +1131,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T081950Z" creationid="usuario" creationdate="20180515T081950Z">
         <seg>Estrategias de respiración, teniendo una mentalidad y pensando, '¡Puedo hacer esto!'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Build your support network</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092539Z" creationid="Vicky" creationdate="20180603T092539Z">
+        <seg>Construye tu red de soporte</seg>
       </tuv>
     </tu>
     <tu>
@@ -1924,6 +1956,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T192834Z" creationid="Ainhoa" creationdate="20180525T192834Z">
         <seg>Sin embargo, hay varios medicamentos disponibles que pueden ayudar a reducir o controlar algunos de los &lt;a0&gt;signos de estrés&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>I distract myself from my [...] worry by doing a puzzle or playing a game.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092516Z" creationid="Vicky" creationdate="20180603T092516Z">
+        <seg>Me distraigo de mi [...] preocupación haciendo un acertijo o jugando un juego..</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,6 +3074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Remember that whatever you're going through that's causing you stress, you don't have to cope with it alone.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T093025Z" creationid="Vicky" creationdate="20180603T093025Z">
+        <seg>Recuerda que sea lo que sea que esté pasando que te esté causando estrés, no tienes por qué arreglártelas solo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Remote working</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215457Z" creationid="usuario" creationdate="20180515T215457Z">
@@ -3926,6 +3974,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T085129Z" creationid="usuario" creationdate="20180518T164159Z">
         <seg>Prueba la página de &lt;a1&gt;Sociedad de control del estrés&lt;/a1&gt; para recoger ideas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Try to remember that nobody's perfect, and putting extra pressure on yourself doesn't help.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092504Z" creationid="Vicky" creationdate="20180603T092504Z">
+        <seg>Trata de recordar que nadie es perfecto, y ejercer presión adicional sobre si mismo no ayuda.</seg>
       </tuv>
     </tu>
     <tu>
