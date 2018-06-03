@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-GB">
+        <seg>(For guidance on using these services safely, see our pages on &lt;a3&gt;staying safe online&lt;/a3&gt;.)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094510Z" creationid="Vicky" creationdate="20180603T094510Z">
+        <seg>(Para obtener orientación sobre el uso seguro de estos servicios, consulta nuestras páginas sobre &lt;a3&gt;cómo mantenerse seguro en línea&lt;/a3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>(For more tips on building your emotional resilience, see our pages on &lt;a0&gt;improving your wellbeing&lt;/a0&gt;, and &lt;a1&gt;increasing your self-esteem&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084834Z" creationid="Vicky" creationdate="20180603T084834Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084542Z" creationid="Vicky" creationdate="20180603T084542Z">
         <seg>&lt;/s0&gt;La resiliencia no es solo tu capacidad de recuperación, sino también tu capacidad de adaptación frente a circunstancias desafiantes, a la vez que mantener un bienestar mental estable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;/s0&gt;Sometimes sharing your experiences with people who've been through something similar can help you feel less alone.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094358Z" creationid="Vicky" creationdate="20180603T094358Z">
+        <seg>&lt;/s0&gt;A veces, compartir sus experiencias con personas que han pasado por algo similar puede ayudarlo a sentirse menos solo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -315,6 +331,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T205338Z" creationid="usuario" creationdate="20180515T084518Z">
         <seg>&lt;a1&gt;Conectar&lt;/a1&gt; con ellos puede ayudarte a construir una red de apoyo y hacer que sea más ameno estar en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;a1&gt;Elefriends&lt;/a1&gt; and &lt;a2&gt;Big White Wall&lt;/a2&gt; both offer supportive online communities where you can talk openly about stress and your mental health.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094419Z" creationid="Vicky" creationdate="20180603T094419Z">
+        <seg>&lt;a1&gt;Elefriends&lt;/a1&gt; y &lt;a2&gt;Big White Wall&lt;/a2&gt; ofrecen comunidades de apoyo en línea donde se puede hablar abiertamente sobre el estrés y su salud mental.</seg>
       </tuv>
     </tu>
     <tu>
@@ -619,6 +643,15 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201629Z" creationid="Ainhoa" creationdate="20180519T201355Z">
         <seg>&lt;s0&gt;Nuestra reacción ante la presión:&lt;/s0&gt; cómo nos sentimos cuando tenemos responsabilidades con las que nos resultan difícil lidiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Peer support.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094343Z" creationid="Vicky" creationdate="20180603T094343Z">
+        <seg>&lt;s0&gt;Apoyo de los compañeros.
+</seg>
       </tuv>
     </tu>
     <tu>
