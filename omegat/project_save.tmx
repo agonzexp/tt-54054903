@@ -166,6 +166,15 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;/s0&gt;If you feel like you need some professional support, you can &lt;a1&gt;speak to your doctor&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095229Z" creationid="Vicky" creationdate="20180603T095229Z">
+        <seg>&lt;/s0&gt;Si sientes que necesitas apoyo profesional, puedes  &lt;a1&gt;hablar con tu médico de cabecera.
+&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;/s0&gt;Resilience is not just your ability to bounce back, but also your capacity to adapt in the face of challenging circumstances, whilst maintaining a stable mental wellbeing.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084542Z" creationid="Vicky" creationdate="20180603T084542Z">
@@ -233,8 +242,9 @@
       <tuv lang="EN-GB">
         <seg>&lt;a0&gt;Mind's Infoline&lt;/a0&gt; can let you about support groups and mental health services in your local area.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095005Z" creationid="Vicky" creationdate="20180603T095005Z">
-        <seg>&lt;a0&gt;Mind's Infoline&lt;/a0&gt;puede ayudarlo a encontrar un especialista en estrés en tu área local.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095100Z" creationid="Vicky" creationdate="20180603T095005Z">
+        <seg>&lt;a0&gt;Mind's Infoline&lt;/a0&gt;puede informarle sobre grupos de apoyo y servicios de salud mental en tu área local.
+.</seg>
       </tuv>
     </tu>
     <tu>
@@ -861,6 +871,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180518T164126Z" creationid="usuario" creationdate="20180518T164126Z">
         <seg>&lt;s0&gt;Intenta cuadrar aquello que encuentres estresante y que te ayude en el lugar de trabajo&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Your GP.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095151Z" creationid="Vicky" creationdate="20180603T095151Z">
+        <seg>&lt;s0&gt;Visita a tu édico de cabecera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Your local Mind.&lt;/s0&gt; You might find your local Mind branch runs a course to help you look after your wellbeing, build resilience or manage stress.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095338Z" creationid="Vicky" creationdate="20180603T095338Z">
+        <seg>&lt;s0&gt;Your local Mind.&lt;/s0&gt; Es posible que encuentre que su sucursal local de Mind ejecute un curso para ayudarte a cuidar tu bienestar, desarrollar resistencia o controlar el estrés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3864,6 +3890,22 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T201129Z" creationid="Ainhoa" creationdate="20180525T201129Z">
         <seg>Estas pueden incluir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>They can check your overall health, and help you access support and &lt;a2&gt;treatments&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095252Z" creationid="Vicky" creationdate="20180603T095252Z">
+        <seg>Pueden verificar tu estado de salud general y ayudarte a acceder a soporte y &lt;a2&gt;tratamientos&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>They could also recommend that you take some time off work, university or college, and sign a medical note for you.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095312Z" creationid="Vicky" creationdate="20180603T095312Z">
+        <seg>También podrían recomendarte que te tomes tiempo libre del trabajo, la universidad o la universidad, y firmar una nota médica.</seg>
       </tuv>
     </tu>
     <tu>
