@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T210033Z" creationid="Vicky" creationdate="20180519T210033Z">
         <seg>(Consulte nuestras páginas sobre &lt;a0&gt;cómo lidiar con los pensamientos suicidas&lt;/a0&gt; para obtener más información).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>(See our pages on &lt;a1&gt;food and mood&lt;/a1&gt; for more tips.)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090805Z" creationid="Vicky" creationdate="20180603T090805Z">
+        <seg>(Consulta nuestras páginas sobre &lt;a1&gt;alimentos y estado de ánimo&lt;/a1&gt;para obtener más consejos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Be active.&lt;/s0&gt; &lt;a1&gt;Being physically active&lt;/a1&gt; is important for both our physical and mental health.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090547Z" creationid="Vicky" creationdate="20180603T090330Z">
+        <seg>&lt;s0&gt;Estar activo.&lt;/s0&gt; &lt;a1&gt;Estar físicamente activo&lt;/a1&gt; es importante para nuestra salud física y mental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Be realistic&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T082748Z" creationid="usuario" creationdate="20180515T082748Z">
@@ -378,6 +394,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083227Z" creationid="usuario" creationdate="20180515T083227Z">
         <seg>&lt;s0&gt;No dejes que tu vida sea trabajo&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Eat healthily.&lt;/s0&gt; When you're stressed, it can be tempting to skip meals or eat too much of the wrong kinds of food.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090631Z" creationid="Vicky" creationdate="20180603T090631Z">
+        <seg>&lt;s0&gt;Comer sano.&lt;/s0&gt;Cuando estás estresado, puede resultar tentador omitir comidas o comer demasiados tipos de alimentos equivocados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>But what you eat, and when you eat, can make a big difference to how well you feel.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090709Z" creationid="Vicky" creationdate="20180603T090709Z">
+        <seg>Pero lo que comes y cuando comes puede marcar una gran diferencia en lo bien que te sientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>But whatever your personal definition of stress is, it's likely that you can learn to manage your stress better by:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180525T172338Z" creationid="Ainhoa" creationdate="20180519T201943Z">
@@ -1366,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Even making small changes such as going for a regular walk outside may help you to feel less stressed.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090559Z" creationid="Vicky" creationdate="20180603T090559Z">
+        <seg>Incluso hacer pequeños cambios, como salir a caminar regularmente, puede ayudarte a reducir el estrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Even though you're feeling better, it doesn't always mean that you're no longer experiencing a mental health problem.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T192819Z" creationid="Patricia" creationdate="20180521T192819Z">
@@ -1622,6 +1662,15 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Getting enough sleep can help you feel more able to deal with difficult situations.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090307Z" creationid="Vicky" creationdate="20180603T090307Z">
+        <seg>Dormir lo suficiente puede ayudar a sentirse más capaz de manejar situaciones difíciles.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Getting support</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T172543Z" creationid="Ainhoa" creationdate="20180519T172440Z">
@@ -1642,6 +1691,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T085323Z" creationid="usuario" creationdate="20180515T082505Z">
         <seg>Concentra toda tu atención en cada tarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Give yourself a break</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090816Z" creationid="Vicky" creationdate="20180603T090816Z">
+        <seg>Date un respiro</seg>
       </tuv>
     </tu>
     <tu>
@@ -2779,6 +2836,15 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T110022Z" creationid="Patricia" creationdate="20180511T190015Z">
         <seg>Hay gente en situación de desempleo por diferentes razones, tales como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Physical activity, sport and mental health</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T090320Z" creationid="Vicky" creationdate="20180603T090320Z">
+        <seg>Actividad física, deporte y salud mental.
+</seg>
       </tuv>
     </tu>
     <tu>
