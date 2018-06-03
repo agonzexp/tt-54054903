@@ -231,6 +231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;Mind's Infoline&lt;/a0&gt; can let you about support groups and mental health services in your local area.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095005Z" creationid="Vicky" creationdate="20180603T095005Z">
+        <seg>&lt;a0&gt;Mind's Infoline&lt;/a0&gt;puede ayudarlo a encontrar un especialista en estrés en tu área local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a0&gt;Mindfulness&lt;/a0&gt; based stress reduction (MBSR), which combines mindfulness, meditation and yoga with a particular focus on reducing stress.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T192535Z" creationid="Ainhoa" creationdate="20180525T192535Z">
@@ -3696,6 +3704,30 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184812Z" creationid="Ainhoa" creationdate="20180519T184812Z">
         <seg>Sms: 0808 800 0084</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The &lt;a0&gt;Be Mindful&lt;/a0&gt; website provides guidance on mindfulness, including how to find a mindfulness-based stress reduction (MBSR) course.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094853Z" creationid="Vicky" creationdate="20180603T094853Z">
+        <seg>El sitio web de &lt;a0&gt;Be Mindful&lt;/a0&gt; proporciona orientación sobre la atención plena, que incluye cómo encontrar un curso de reducción del estrés basado en mindfulness (MBSR).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The &lt;a0&gt;International Stress Management Association&lt;/a0&gt; can help you find a specialist stress practitioner in your local area.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094931Z" creationid="Vicky" creationdate="20180603T094931Z">
+        <seg>La &lt;a0&gt;Asociación Internacional para el Manejo del Estrés&lt;/a0&gt;puede ayudarlo a encontrar un especialista en estrés en tu área local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The &lt;a0&gt;Mind Tools&lt;/a0&gt; website can help you with stress management and assertiveness techniques.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094829Z" creationid="Vicky" creationdate="20180603T094829Z">
+        <seg>El sitio web de  &lt;a0&gt;Mind Tools&lt;/a0&gt; puede ayudarte con técnicas de manejo del estrés y asertividad.</seg>
       </tuv>
     </tu>
     <tu>
