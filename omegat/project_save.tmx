@@ -435,8 +435,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Address your concerns&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T141548Z" creationid="Vicky" creationdate="20180511T141548Z">
-        <seg>&lt;s0&gt;Aclara tus dudas: &lt;/s0&gt;.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134457Z" creationid="Vicky" creationdate="20180511T141548Z">
+        <seg>&lt;s0&gt;Identifica tus preocupaciones&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1461,8 +1461,8 @@
       <tuv lang="EN-GB">
         <seg>Calmly explain the situation and your feelings.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143516Z" creationid="Vicky" creationdate="20180511T141736Z">
-        <seg>Explica tu situación y tus sentimientos de una forma calmada</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134541Z" creationid="Vicky" creationdate="20180511T141736Z">
+        <seg>Explica tu situación y tus sentimientos con calma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1605,8 +1605,8 @@
       <tuv lang="EN-GB">
         <seg>Dealing with workplace bullying</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T141250Z" creationid="Vicky" creationdate="20180511T141250Z">
-        <seg>Cómo enfrentar el bullyng en el trabajo </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134320Z" creationid="Vicky" creationdate="20180511T141250Z">
+        <seg>Cómo lidiar con el bullyng en el trabajo </seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,8 +2078,8 @@
       <tuv lang="EN-GB">
         <seg>Having a difficult relationship with your co-workers can be stressful, and make work harder to manage.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143554Z" creationid="Vicky" creationdate="20180511T131712Z">
-        <seg>Tener una relación dificil con tus compañeros de trabajo puede ser estresante, y puede hacer que el trabajo se te haga cuesta arriba</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134419Z" creationid="Vicky" creationdate="20180511T131712Z">
+        <seg>Tener una relación difícil con tus compañeros de trabajo puede ser estresante, y puede hacer que el trabajo se te haga cuesta arriba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2166,8 +2166,8 @@
       <tuv lang="EN-GB">
         <seg>How can I manage difficult relationships?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T143606Z" creationid="Vicky" creationdate="20180511T141326Z">
-        <seg>¿Cómo puedo afrontar las relaciones difíciles?</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134353Z" creationid="Vicky" creationdate="20180511T141326Z">
+        <seg>¿Cómo puedo manejar las relaciones difíciles?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2374,8 +2374,8 @@
       <tuv lang="EN-GB">
         <seg>If a co-worker says or does something that you find upsetting or offensive, arrange to speak with them in private about this.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180520T203148Z" creationid="Vicky" creationdate="20180511T141709Z">
-        <seg>Si algún compañero dice o hace algo que te molesta o te parece ofensivo, queda con él para hablar en privado sobre este tema.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134518Z" creationid="Vicky" creationdate="20180511T141709Z">
+        <seg>Si algún compañero dice o hace algo que te moleste o te parezca ofensivo, queda con él para hablar en privado sobre este tema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2935,8 +2935,8 @@
       <tuv lang="EN-GB">
         <seg>Just like in your life outside work, you might encounter people at work who upset you or behave in ways that cause you serious problems.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T162833Z" creationid="Vicky" creationdate="20180511T140939Z">
-        <seg>Igual que en la vida personal, te vas a encontrar a gente en el trabajo que te moleste o se comporte contigo de tal manera que te pueda causar serios problemas</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134304Z" creationid="Vicky" creationdate="20180511T140939Z">
+        <seg>Igual que en la vida personal, te vas a encontrar a gente en el trabajo que te moleste o se comporte contigo de una manera que te pueda causar serios problemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5049,8 +5049,8 @@
       <tuv lang="EN-GB">
         <seg>Workplace relations</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180511T140808Z" creationid="Vicky" creationdate="20180511T140808Z">
-        <seg>Relaciones en el trabajp</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T134236Z" creationid="Vicky" creationdate="20180511T140808Z">
+        <seg>Relaciones en el trabajo</seg>
       </tuv>
     </tu>
     <tu>
