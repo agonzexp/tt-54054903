@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;/s0&gt;For example:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094544Z" creationid="Vicky" creationdate="20180603T094544Z">
+        <seg>&lt;/s0&gt;Por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;/s0&gt;Resilience is not just your ability to bounce back, but also your capacity to adapt in the face of challenging circumstances, whilst maintaining a stable mental wellbeing.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084542Z" creationid="Vicky" creationdate="20180603T084542Z">
@@ -716,6 +724,15 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201402Z" creationid="Ainhoa" creationdate="20180519T201306Z">
         <seg>&lt;s0&gt;Situaciones o acontecimientos que nos ponen bajo presión:&lt;/s0&gt; momentos en los que tenemos mucho que hacer y en qué pensar o en los que no tenemos mucho control sobre lo que sucede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Specialist websites and organisations.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094525Z" creationid="Vicky" creationdate="20180603T094525Z">
+        <seg>&lt;s0&gt;Sitios web y organizaciones especializados.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3679,6 +3696,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184812Z" creationid="Ainhoa" creationdate="20180519T184812Z">
         <seg>Sms: 0808 800 0084</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The &lt;a0&gt;Stressbusting&lt;/a0&gt; website and the &lt;a1&gt;Stress Management Society&lt;/a1&gt; both offer information about stress and provide techniques for coping.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T094736Z" creationid="Vicky" creationdate="20180603T094551Z">
+        <seg>El &lt;a0&gt;sitio web de&lt;/a0&gt; Stressbusting y &lt;a1&gt;la Sociedad de Manejo del estrés&lt;/a1&gt; ofrecen información sobre el estrés y proporcionan técnicas para sobrellevarlo.</seg>
       </tuv>
     </tu>
     <tu>
