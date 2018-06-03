@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;&lt;s1&gt;Find balance in your life.&lt;/s1&gt; &lt;/s0&gt;You may find that one part of your life, such as your job or taking care of young children, is taking up almost all of your time and energy.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085828Z" creationid="Vicky" creationdate="20180603T085828Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Encuentra el equilibrio de tu vida.&lt;/s1&gt; &lt;/s0&gt;Es posible que una parte de tu vida, como tu trabajo o el cuidado de niños pequeños, ocupe casi todo tu tiempo y energía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;&lt;s1&gt;Listen to how they are feeling.&lt;/s1&gt; &lt;/s0&gt;Having a chance to talk openly could help someone to feel calmer and more able to move forward. Just being there for them will probably help lots.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211618Z" creationid="usuario" creationdate="20180519T211618Z">
@@ -360,8 +368,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Develop your interests and hobbies.&lt;/s0&gt; Finding an activity that's completely different from the things causing you stress is a great way to get away from everyday pressures.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085548Z" creationid="Vicky" creationdate="20180603T085548Z">
-        <seg>&lt;s0&gt;Desarrolla tus intereses y tis hobbies.&lt;/s0&gt; Encontrar una actividad que sea completamente diferente de las cosas que te causan estrés es una excelente manera de alejarse de las presiones cotidianas.</seg>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085913Z" creationid="Vicky" creationdate="20180603T085548Z">
+        <seg>&lt;s0&gt;Desarrolla tus intereses y tus pasatiempos.&lt;/s0&gt; Encontrar una actividad que sea completamente diferente de las cosas que te causan estrés es una excelente manera de alejarse de las presiones cotidianas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083955Z" creationid="usuario" creationdate="20180511T164226Z">
         <seg>Haz un &lt;s0&gt;plan de acción de bienestar&lt;/s0&gt; para determinar qué te causa estrés y qué te hace sentir bien en el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Make time for your friends.&lt;/s0&gt; When you've got a lot on this might seem hard, but it can help you feel more positive and less isolated.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085652Z" creationid="Vicky" creationdate="20180603T085652Z">
+        <seg>&lt;s0&gt;Saca tiempo para tus amigos.&lt;/s0&gt;Cuando tienes esto, puede parecer difícil, pero puede ayudarte a sentirte más positivo y menos aislado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1154,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T175409Z" creationid="Ainhoa" creationdate="20180519T175409Z">
         <seg>Cambiar algo de tu entorno de trabajo o la forma en que lo desempeñas, puede ayudarte a estar bien y a trabajar de manera más efectiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Chatting to friends about the things you find difficult can help you keep things in perspective – and you can do the same for them.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085726Z" creationid="Vicky" creationdate="20180603T085726Z">
+        <seg>Hablar con amigos sobre las cosas que encuentras difíciles puede ayudarte a mantener las cosas en perspectiva, y puedes hacer lo mismo por ellos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2323,6 +2347,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T083658Z" creationid="usuario" creationdate="20180515T083658Z">
         <seg>Falta de apoyo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Laughing and smiling with them will also produce hormones that help you to relax&lt;s1&gt;.&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085738Z" creationid="Vicky" creationdate="20180603T085738Z">
+        <seg>Reír y sonreír con ellos también producirá hormonas que te ayudarán a relajarte.&lt;s1&gt;.&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3715,6 +3747,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T221540Z" creationid="Vicky" creationdate="20180524T221540Z">
         <seg>Tratamiento del estrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Try making a decision to focus some of your energy on other parts of your life, like family, friends or hobbies.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085857Z" creationid="Vicky" creationdate="20180603T085857Z">
+        <seg>Intenta tomar la decisión de concentrar parte de la energía en otras partes de la vida, como familiares, amigos o pasatiempos..</seg>
       </tuv>
     </tu>
     <tu>
