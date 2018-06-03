@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>(For more tips on building your emotional resilience, see our pages on &lt;a0&gt;improving your wellbeing&lt;/a0&gt;, and &lt;a1&gt;increasing your self-esteem&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084834Z" creationid="Vicky" creationdate="20180603T084834Z">
+        <seg>(Para obtener más consejos sobre cómo aumentar su capacidad de recuperación emocional, consulta nuestras páginas sobre cómo mejorar su bienestar y aumentar tu autoestima&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>(See our pages on &lt;a0&gt;complementary and alternative therapies&lt;/a0&gt; for more information.)</seg>
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200309Z" creationid="Ainhoa" creationdate="20180519T200309Z">
         <seg>Soporte emocional las 24 horas para cualquier persona que necesite hablar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;/s0&gt;Resilience is not just your ability to bounce back, but also your capacity to adapt in the face of challenging circumstances, whilst maintaining a stable mental wellbeing.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084542Z" creationid="Vicky" creationdate="20180603T084542Z">
+        <seg>&lt;/s0&gt;La resiliencia no es solo tu capacidad de recuperación, sino también tu capacidad de adaptación frente a circunstancias desafiantes, a la vez que mantener un bienestar mental estable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +282,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211618Z" creationid="usuario" creationdate="20180519T211618Z">
         <seg>&lt;s0&gt;Escucha cómo se siente&lt;s1&gt; Tener la oportunidad de hablar abiertamente podría ayudar a que alguien se sienta más tranquilo y capaz de seguir adelante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;&lt;s1&gt;Practise being straightforward and assertive&lt;/s1&gt;&lt;/s0&gt; in communicating with others.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085041Z" creationid="Vicky" creationdate="20180603T085041Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Practica el ser directo y asertivo&lt;/s1&gt;&lt;/s0&gt; al comunicarte con los demás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1406,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>For example, you can:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084653Z" creationid="Vicky" creationdate="20180603T084653Z">
+        <seg>Por ejemplo, puedes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>For example, you could ask a friend or family member to help with some of your daily tasks so that you have more time to spend completing your tasks that are causing you to feel stressed.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222232Z" creationid="Vicky" creationdate="20180519T200534Z">
@@ -1618,6 +1650,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T200848Z" creationid="Vicky" creationdate="20180519T200848Z">
         <seg>Vivienda y economía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>How can I be more resilient?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084356Z" creationid="Vicky" creationdate="20180603T084356Z">
+        <seg>¿Cómo puedo tener mayor resistencia?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2278,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Make some lifestyle changes</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084850Z" creationid="Vicky" creationdate="20180603T084850Z">
+        <seg>Realiza algunos cambios de estilo de vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Make use of any support you can from your employer:</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180602T200625Z" creationid="Vicky" creationdate="20180519T212132Z">
@@ -2782,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Resilience isn't a personality trait – it's something that we can all take steps to achieve.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084603Z" creationid="Vicky" creationdate="20180603T084603Z">
+        <seg>La resiliencia no es un rasgo de la personalidad, es algo que todos podemos lograr mediante algunas medidas..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Rethink Mental Illness</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190015Z" creationid="Ainhoa" creationdate="20180519T190015Z">
@@ -3182,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Taking steps to look after your wellbeing can help you deal with pressure, and reduce the impact that stress has on your life. This is sometimes called developing &lt;s0&gt;emotional resilience.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084514Z" creationid="Vicky" creationdate="20180603T084514Z">
+        <seg>Tomar medidas para cuidar tu bienestar puede ayudarte a lidiar con la presión y reducir &lt;s0&gt; el impacto que el estrés tiene en tu vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Taking time off does not mean that you won't ever go back to work.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T180921Z" creationid="Ainhoa" creationdate="20180519T180913Z">
@@ -3306,6 +3370,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T094958Z" creationid="usuario" creationdate="20180515T094958Z">
         <seg>Hay muchos tipos de trabajo diferentes, con diversas ventajas y desventajas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>There are some general changes that you can make to your lifestyle that could help you feel more able to cope with pressure and stressful situations.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084912Z" creationid="Vicky" creationdate="20180603T084912Z">
+        <seg>Hay algunos cambios generales que puedes realizar en tu estilo de vida que podrían ayudarte a sentirte más capaz de lidiar con la presión y situaciones estresantes.pressure and stressful situations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4494,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>build your support network</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084800Z" creationid="Vicky" creationdate="20180603T084800Z">
+        <seg>Construye tu red de soporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>can be challenging if you struggle with creating structure for yourself</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T100438Z" creationid="usuario" creationdate="20180515T100438Z">
@@ -4754,6 +4834,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193953Z" creationid="usuario" creationdate="20180519T204846Z">
         <seg>Casarse o unión civil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>give yourself a break</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084746Z" creationid="Vicky" creationdate="20180603T084746Z">
+        <seg>Date un respiro</seg>
       </tuv>
     </tu>
     <tu>
@@ -5038,6 +5126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>look after your physical health</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084734Z" creationid="Vicky" creationdate="20180603T084734Z">
+        <seg>Cuida tu salud física</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>losing your job</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T194007Z" creationid="usuario" creationdate="20180519T205015Z">
@@ -5058,6 +5154,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T104749Z" creationid="Patricia" creationdate="20180511T185745Z">
         <seg>Te han despedido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>make some lifestyle changes</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T084710Z" creationid="Vicky" creationdate="20180603T084710Z">
+        <seg>Hacer algunos cambios en tu estilo de vida</seg>
       </tuv>
     </tu>
     <tu>
