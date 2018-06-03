@@ -515,8 +515,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Discuss the problem with someone you feel comfortable with&lt;/s0&gt; such as your manager&lt;s1&gt;,&lt;/s1&gt; human resources department, your welfare officer or union representative (if you have one).</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175308Z" creationid="Vicky" creationdate="20180518T175308Z">
-        <seg>&lt;s0&gt; Comparte este problema con alguien con el que tengas confianza&lt;/s0&gt; como tu jefe&lt;s1&gt;,&lt;/s1&gt; el departamanto de recusos humanos, tu ofcina de bienestar o una unión representativa (si la tienes). </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140855Z" creationid="Vicky" creationdate="20180518T175308Z">
+        <seg>&lt;s0&gt;Habla sobre este problema con alguien con el que te sientas cómodo&lt;/s0&gt; como tu jefe&lt;s1&gt;,&lt;/s1&gt; el departamanto de recusos humanos, tu oficina de bienestar o una unión representativa (si tienes una).</seg>
       </tuv>
     </tu>
     <tu>
@@ -772,8 +772,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Resolve the issue informally&lt;/s0&gt; where possible. With the support of a manager or colleague, if you feel able to, arrange to speak with the person who is bullying you.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175437Z" creationid="Vicky" creationdate="20180518T175437Z">
-        <seg>&lt;s0&gt; Resuelve este tema formalmente&lt;/s0&gt; cuando sea posible. Con el apoyo de un jefe o un compañero, si te ves capaz, queda para habalr con la persona que te está intimidando. </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T141015Z" creationid="Vicky" creationdate="20180518T175437Z">
+        <seg>&lt;s0&gt; Resuelve este tema de manera informal&lt;/s0&gt; cuando sea posible. Reúnete con la persona que te esté acosando, si te ves capaz, contando con el apoyo de un jefe o un compañero </seg>
       </tuv>
     </tu>
     <tu>
@@ -4200,8 +4200,8 @@
       <tuv lang="EN-GB">
         <seg>The policy should outline whether a behaviour is acceptable and how to address the problem.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180518T175046Z" creationid="Vicky" creationdate="20180518T175046Z">
-        <seg>La política debería subrayar cualquier comportamiento es aceptable y cómo aborda el problema. </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180603T140751Z" creationid="Vicky" creationdate="20180518T175046Z">
+        <seg>La política debería destacar si un comportamiento es correcto y cómo abordar el problema. </seg>
       </tuv>
     </tu>
     <tu>
