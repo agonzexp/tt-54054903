@@ -439,6 +439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Friends and family.&lt;/s0&gt; Sometimes just telling the people close to you how you're feeling can make a big difference – and they might be able to help you out in other ways too.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T093053Z" creationid="Vicky" creationdate="20180603T093053Z">
+        <seg>&lt;s0&gt;Amigos y failia.&lt;/s0&gt; A veces, simplemente decirle a las personas cercanas cómo te sientes puede marcar una gran diferencia, y también podría ayudar de otras maneras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Get a change of scenery.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T092213Z" creationid="Vicky" creationdate="20180603T092213Z">
@@ -675,6 +683,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202845Z" creationid="Ainhoa" creationdate="20180519T202845Z">
         <seg>&lt;s0&gt;El estrés puede causar problemas de salud mental&lt;/s0&gt; y empeorar problemas ya existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;Support at work, &lt;/s0&gt;such as your line manager, human resources (HR) department, union representatives, or employee assistance schemes.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T093125Z" creationid="Vicky" creationdate="20180603T093125Z">
+        <seg>&lt;s0&gt;Soporte en el trabajo, &lt;/s0&gt;como su gerente, departamento de recursos humanos (HR), representantes sindicales o esquemas de asistencia a empleados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2237,6 +2253,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180524T212142Z" creationid="Ainhoa" creationdate="20180519T175919Z">
         <seg>Pero si la ley de &lt;a0&gt;Acto de Igualdad&lt;/a0&gt; no te cubre, tu jefe debería apoyarte en función de lo que es mejor para ti en tu puesto de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If you're worried that the culture in your workplace might not be very supportive, you might find it helpful to take a look at:</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T093158Z" creationid="Vicky" creationdate="20180603T093158Z">
+        <seg>Si te preocupa que la cultura en tu lugar de trabajo pueda no ser de gran ayuda, te puede ser útil echar un vistazo a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,6 +3962,15 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Time to Change's resources on &lt;a0&gt;stress, depression and mental health support at work &lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T093245Z" creationid="Vicky" creationdate="20180603T093245Z">
+        <seg>Recursos de Time to Change sobre&lt;a0&gt;el estrés, la depresión y el apoyo a la salud mental en el trabajo
+&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>To access most treatments, the first step is usually to &lt;s0&gt;talk to your GP&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180525T191416Z" creationid="Ainhoa" creationdate="20180525T191133Z">
@@ -3966,6 +3999,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T085857Z" creationid="Vicky" creationdate="20180603T085857Z">
         <seg>Intenta tomar la decisión de concentrar parte de la energía en otras partes de la vida, como familiares, amigos o pasatiempos..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Try not to worry that talking to your manager or colleagues about stress will be seen as a sign of weakness – your wellbeing is important and responsible employers will take it seriously.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T093147Z" creationid="Vicky" creationdate="20180603T093147Z">
+        <seg>No te preocupes por que hablar con su gerente o sus colegas sobre el estrés sea visto como un signo de debilidad: tu bienestar es importante y los jefes responsables lo tomarán en serio.</seg>
       </tuv>
     </tu>
     <tu>
