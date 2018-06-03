@@ -2744,8 +2744,8 @@
       <tuv lang="EN-GB">
         <seg>Remote working is where you can do some or all of your work from home or anywhere else other than the normal workplace.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T215546Z" creationid="usuario" creationdate="20180515T215546Z">
-        <seg>El trabajo a distancia es aquel donde puedes hacer parte o la totalidad del trabajo desde tu casa o en cualquier otro lugar que no sea el lugar de trabajo corriente.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T084526Z" creationid="usuario" creationdate="20180515T215546Z">
+        <seg>El trabajo a distancia es aquel donde puedes realizar parte o la totalidad del trabajo desde tu casa o en cualquier otro lugar que no sea el lugar de trabajo corriente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4976,8 +4976,8 @@
       <tuv lang="EN-GB">
         <seg>less stability</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T161307Z" creationid="usuario" creationdate="20180515T161307Z">
-        <seg>menos estabilidad</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180603T084548Z" creationid="usuario" creationdate="20180515T161307Z">
+        <seg>menor estabilidad</seg>
       </tuv>
     </tu>
     <tu>
