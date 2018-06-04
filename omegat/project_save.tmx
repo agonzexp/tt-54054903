@@ -1963,8 +1963,8 @@
       <tuv lang="EN-GB">
         <seg>For more information, see the &lt;a0&gt;Health and Safety Executive&lt;/a0&gt; (HSE).</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160344Z" creationid="Patricia" creationdate="20180518T160344Z">
-        <seg>Para obtener más información, consulte el Ejecutivo de Salud y Seguridad (HSE).</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111641Z" creationid="Patricia" creationdate="20180518T160344Z">
+        <seg>Para obtener más información, consulte el &lt;a0&gt;Ejecutivo de Salud y Seguridad&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2428,8 +2428,8 @@
       <tuv lang="EN-GB">
         <seg>If you are an &lt;s0&gt;employer,&lt;/s0&gt; see our information on &lt;a1&gt;taking care of your staff&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T102434Z" creationid="Ainhoa" creationdate="20180529T102434Z">
-        <seg>Si eres &lt;s0&gt;empleador,&lt;/s0&gt;consulte nuestra información&lt;a1&gt;sobre cómo cuidar a tus trabajadores&lt;/a1&gt;.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111520Z" creationid="Ainhoa" creationdate="20180529T102434Z">
+        <seg>Si eres &lt;s0&gt;empleador, &lt;/s0&gt;consulte nuestra información&lt;a1&gt;sobre cómo cuidar a tus trabajadores&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4406,8 +4406,8 @@
       <tuv lang="EN-GB">
         <seg>This in turn can make us feel more stressed emotionally.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T204000Z" creationid="Ainhoa" creationdate="20180519T204000Z">
-        <seg>Esto a su vez puede hacernos sentir más estresados ​​emocionalmente.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111502Z" creationid="Ainhoa" creationdate="20180519T204000Z">
+        <seg>Esto a su vez puede hacernos sentir más estresados emocionalmente.</seg>
       </tuv>
     </tu>
     <tu>
