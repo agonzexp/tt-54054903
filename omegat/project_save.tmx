@@ -3782,8 +3782,8 @@
       <tuv lang="EN-GB">
         <seg>Shaw Trust and &lt;a0&gt;Remploy&lt;/a0&gt; work with people with mental health problems, helping them prepare for interviews, find appropriate employment and stay well in work.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T111926Z" creationid="Patricia" creationdate="20180516T191924Z">
-        <seg>Shaw Trust y &lt;a0&gt;Remploy&lt;/a0&gt; trabajan  con personas con problemas de salud mental, ayudándoles a preparar entrevistas, encontrar un empleo apropiado y a encontrarse bien en el trabajo.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110140Z" creationid="Patricia" creationdate="20180516T191924Z">
+        <seg>Shaw Trust y &lt;a0&gt;Remploy&lt;/a0&gt; trabajan con personas con problemas de salud mental, ayudándoles a preparar entrevistas, encontrar un empleo apropiado y a encontrarse bien en el trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5727,8 +5727,8 @@
       <tuv lang="EN-GB">
         <seg>dismissal</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T110248Z" creationid="Patricia" creationdate="20180511T190030Z">
-        <seg>Rechazo</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110211Z" creationid="Patricia" creationdate="20180511T190030Z">
+        <seg>rechazo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6063,8 +6063,8 @@
       <tuv lang="EN-GB">
         <seg>lack of opportunities</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160647Z" creationid="Patricia" creationdate="20180511T190025Z">
-        <seg>Falta de oportunidades</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110208Z" creationid="Patricia" creationdate="20180511T190025Z">
+        <seg>falta de oportunidades</seg>
       </tuv>
     </tu>
     <tu>
@@ -6255,8 +6255,8 @@
       <tuv lang="EN-GB">
         <seg>not being well enough to work</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160709Z" creationid="Patricia" creationdate="20180511T190032Z">
-        <seg>No estar lo suficientemente bien para trabajar</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110218Z" creationid="Patricia" creationdate="20180511T190032Z">
+        <seg>no estar lo suficientemente bien para trabajar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6399,16 +6399,16 @@
       <tuv lang="EN-GB">
         <seg>redundancy</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T110058Z" creationid="Patricia" creationdate="20180511T190020Z">
-        <seg>Despido</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110153Z" creationid="Patricia" creationdate="20180511T190020Z">
+        <seg>despido</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>relocation</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T110203Z" creationid="Patricia" creationdate="20180511T190027Z">
-        <seg>Translado</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110150Z" creationid="Patricia" creationdate="20180511T190027Z">
+        <seg>traslado</seg>
       </tuv>
     </tu>
     <tu>
@@ -6471,8 +6471,8 @@
       <tuv lang="EN-GB">
         <seg>sickness</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180518T160642Z" creationid="Patricia" creationdate="20180511T190022Z">
-        <seg>Enfermedad</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110204Z" creationid="Patricia" creationdate="20180511T190022Z">
+        <seg>enfermedad</seg>
       </tuv>
     </tu>
     <tu>
