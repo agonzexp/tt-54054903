@@ -393,8 +393,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;&lt;s1&gt;Listen to how they are feeling.&lt;/s1&gt; &lt;/s0&gt;Having a chance to talk openly could help someone to feel calmer and more able to move forward. Just being there for them will probably help lots.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211618Z" creationid="usuario" creationdate="20180519T211618Z">
-        <seg>&lt;s0&gt;Escucha cómo se siente&lt;s1&gt; Tener la oportunidad de hablar abiertamente podría ayudar a que alguien se sienta más tranquilo y capaz de seguir adelante.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T102331Z" creationid="usuario" creationdate="20180519T211618Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;Escucha cómo se sienten.&lt;/s1&gt; &lt;/s0&gt;Tener la oportunidad de hablar abiertamente podría ayudarles a sentirse más tranquilos y capaces de seguir adelante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -585,8 +585,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Help them reflect on whether they are stressed.&lt;/s0&gt; Often, people don’t notice that some physical symptoms and behaviour (such as not being able to get to sleep, or drinking more than usual) are actually &lt;a1&gt;signs of stress&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T211352Z" creationid="usuario" creationdate="20180519T211352Z">
-        <seg>&lt;s0&gt;Ayúdale a reflexionar sobre si está estresado.&lt;/s0&gt; A menudo, las personas no se dan cuenta de que algunos síntomas y comportamientos físicos (como no poder conciliar el sueño o beber más de lo normal) son en realidad signos de estrés.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T101953Z" creationid="usuario" creationdate="20180519T211352Z">
+        <seg>&lt;s0&gt;Ayúdale a reflexionar sobre si está estresado.&lt;/s0&gt; A menudo, las personas no se dan cuenta de que algunos síntomas y comportamientos físicos (como no poder conciliar el sueño o beber más de lo normal) son en realidad &lt;a1&gt;signos de estrés&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5335,8 +5335,8 @@
       <tuv lang="EN-GB">
         <seg>[It helps me to] hug, fuss and play with my kittens!</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095422Z" creationid="Vicky" creationdate="20180603T095422Z">
-        <seg>[¡Me ayuda a] abrazar, alborotar y jugar con mis gatitos!</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T101925Z" creationid="Vicky" creationdate="20180603T095422Z">
+        <seg>[¡Me ayuda] abrazar, alborotar y jugar con mis gatitos!</seg>
       </tuv>
     </tu>
     <tu>
