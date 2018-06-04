@@ -2292,8 +2292,8 @@
       <tuv lang="EN-GB">
         <seg>I get stressed when things get out of perspective – too much work, thinking too far ahead.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T204344Z" creationid="usuario" creationdate="20180519T204344Z">
-        <seg>Yo me estreso cuando las cosas se me desbordan: demasiado trabajo, pensando demasiado en el futuro.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T160446Z" creationid="usuario" creationdate="20180519T204344Z">
+        <seg>Yo me estreso cuando las cosas se me van de las manos: demasiado trabajo, pensando demasiado en el futuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6551,8 +6551,8 @@
       <tuv lang="EN-GB">
         <seg>the amount of support you are receiving.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193913Z" creationid="usuario" creationdate="20180519T203902Z">
-        <seg>La cantidad de apoyo que recibe</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T160221Z" creationid="usuario" creationdate="20180519T203902Z">
+        <seg>La cantidad de apoyo que estás recibiendo</seg>
       </tuv>
     </tu>
     <tu>
