@@ -136,8 +136,8 @@
       <tuv lang="EN-GB">
         <seg>116 123 (24 hours a day)&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T200254Z" creationid="Ainhoa" creationdate="20180519T200254Z">
-        <seg>116 123 (24 horas al día)</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111144Z" creationid="Ainhoa" creationdate="20180519T200254Z">
+        <seg>116 123 (24 horas al día)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -681,8 +681,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Mental health problems can cause stress.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T202949Z" creationid="Ainhoa" creationdate="20180519T202949Z">
-        <seg>Los problemas de salud mental pueden causar estrés.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111432Z" creationid="Ainhoa" creationdate="20180519T202949Z">
+        <seg>&lt;s0&gt;Los problemas de salud mental pueden causar estrés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1555,8 +1555,8 @@
       <tuv lang="EN-GB">
         <seg>Confidential advice on a range of issues, including employment and bullying.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184557Z" creationid="Ainhoa" creationdate="20180519T184557Z">
-        <seg>Asesoramiento confidencial sobre varias cuestiones, incluido el empleo y el bullying.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111302Z" creationid="Ainhoa" creationdate="20180519T184557Z">
+        <seg>Asesoramiento confidencial sobre varias cuestiones, incluido el empleo y el acoso laboral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2733,8 +2733,8 @@
       <tuv lang="EN-GB">
         <seg>Information about stress and tips on how to cope.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T190212Z" creationid="Ainhoa" creationdate="20180519T190159Z">
-        <seg>Información sobre el estrés y consejos sobre cómo lidiar con él..</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111210Z" creationid="Ainhoa" creationdate="20180519T190159Z">
+        <seg>Información sobre el estrés y consejos sobre cómo lidiar con él.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3149,8 +3149,8 @@
       <tuv lang="EN-GB">
         <seg>Monday to Friday 9am&lt;s0&gt;–&lt;/s0&gt;8pm</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180527T121519Z" creationid="Ainhoa" creationdate="20180519T184915Z">
-        <seg>De lunes a viernes de 9 am&lt;s0&gt;a&lt;/s0&gt; 8pm</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111408Z" creationid="Ainhoa" creationdate="20180519T184915Z">
+        <seg>De lunes a viernes de 9 a.m.&lt;s0&gt;a&lt;/s0&gt; 8 p.m.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4102,8 +4102,8 @@
       <tuv lang="EN-GB">
         <seg>Text: 0808 800 0084</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184812Z" creationid="Ainhoa" creationdate="20180519T184812Z">
-        <seg>Sms: 0808 800 0084</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111342Z" creationid="Ainhoa" creationdate="20180519T184812Z">
+        <seg>SMS: 0808 800 0084</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,8 +4158,8 @@
       <tuv lang="EN-GB">
         <seg>The Equality and Advisory Support Service (EASS)</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T184747Z" creationid="Ainhoa" creationdate="20180519T184747Z">
-        <seg>El Servicio de Asesoramiento y Apoyo a la Igualdad (EASS).</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111324Z" creationid="Ainhoa" creationdate="20180519T184747Z">
+        <seg>El Servicio de Asesoramiento y Apoyo a la Igualdad.</seg>
       </tuv>
     </tu>
     <tu>
