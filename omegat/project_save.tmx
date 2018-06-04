@@ -160,9 +160,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;/s0&gt;If you feel like you need some professional support, you can &lt;a1&gt;speak to your doctor&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095229Z" creationid="Vicky" creationdate="20180603T095229Z">
-        <seg>&lt;/s0&gt;Si sientes que necesitas apoyo profesional, puedes  &lt;a1&gt;hablar con tu médico de cabecera.
-&lt;/a1&gt;.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T101823Z" creationid="Vicky" creationdate="20180603T095229Z">
+        <seg>&lt;/s0&gt;Si sientes que necesitas apoyo profesional, puedes &lt;a1&gt;hablar con tu médico de cabecera&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
