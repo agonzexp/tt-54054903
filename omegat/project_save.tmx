@@ -845,8 +845,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Support them to seek professional help.&lt;/s0&gt; For example, you could help them contact their GP, go with them to an appointment or do some research on mental health and wellbeing (see our page on &lt;a1&gt;helping someone else seek help&lt;/a1&gt; for lots more ideas).</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212931Z" creationid="usuario" creationdate="20180519T212931Z">
-        <seg>&lt;s0&gt;Dale apoyo para acudir a una ayuda profesional.&lt;/s0&gt; Por ejemplo, podrías ayudarle a ponerse en contacto con su médico de cabecera, asistir con él a una cita o investigar sobre la salud mental y el bienestar (consulte nuestra página en &lt;a1&gt;ayudar a otra persona a buscar ayuda&lt;/a1&gt; para muchas más ideas).</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T093427Z" creationid="usuario" creationdate="20180519T212931Z">
+        <seg>&lt;s0&gt;Recomiéndales buscar ayuda profesional.&lt;/s0&gt; Por ejemplo, podrías ayudarles a ponerse en contacto con su médico de cabecera, acompañarlos a la cita o investigar sobre la salud mental y el bienestar (consulte nuestra página en &lt;a1&gt;ayudar a otra persona a buscar ayuda&lt;/a1&gt; para muchas más ideas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2879,8 +2879,8 @@
       <tuv lang="EN-GB">
         <seg>It's amazing how good a single hug can feel.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212736Z" creationid="usuario" creationdate="20180519T212736Z">
-        <seg>Es increíble lo bien que te puede hacer sentir solo un abrazo.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T093156Z" creationid="usuario" creationdate="20180519T212736Z">
+        <seg>Es increíble lo bien que un simple abrazo te puede hacer sentir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3986,6 +3986,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T201136Z" creationid="Vicky" creationdate="20180519T201136Z">
         <seg>Vida estudiantil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Supporting someone else</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T093221Z" creationid="Ainhoa" creationdate="20180604T093221Z">
+        <seg>Prestar apoyo</seg>
       </tuv>
     </tu>
     <tu>
