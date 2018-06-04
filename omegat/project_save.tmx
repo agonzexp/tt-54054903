@@ -971,8 +971,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;doing a course.&lt;/s0&gt; The Open University has a number of distance learning courses that are free.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T105721Z" creationid="Patricia" creationdate="20180516T194000Z">
-        <seg>&lt;s0&gt;hacer un curso.&lt;/s0&gt; La Universidad Abierta posee una gran variedad de cursos gratuitos para hacer a distancia.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T152528Z" creationid="Patricia" creationdate="20180516T194000Z">
+        <seg>&lt;s0&gt;hacer un curso.&lt;/s0&gt; La Universidad Abierta posee una gran variedad de cursos gratuitos a distancia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4927,8 +4927,8 @@
       <tuv lang="EN-GB">
         <seg>When looking for a new job, challenges such as finding a suitable role, writing applications and attending interviews can take time.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T110838Z" creationid="Patricia" creationdate="20180511T190111Z">
-        <seg>Buscar un nuevo trabajo, desafíos como encontrar un puesto adecuado, enviar currículos o asistir a entrevistas pueden llevar tiempo.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T152722Z" creationid="Patricia" creationdate="20180511T190111Z">
+        <seg>Cuando estás buscando un nuevo trabajo, desafíos como encontrar un puesto adecuado, enviar currículos o asistir a entrevistas pueden llevar tiempo.</seg>
       </tuv>
     </tu>
     <tu>
