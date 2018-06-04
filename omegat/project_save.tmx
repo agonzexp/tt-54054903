@@ -625,7 +625,7 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Keep in touch&lt;/s0&gt; with colleagues.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T072927Z" creationid="Vicky" creationdate="20180519T211538Z">
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T104427Z" creationid="Vicky" creationdate="20180519T211538Z">
         <seg>&lt;/s0&gt;Mantente en contacto&lt;s0&gt; con tus compañeros.</seg>
       </tuv>
     </tu>
@@ -1259,8 +1259,8 @@
       <tuv lang="EN-GB">
         <seg>Arrange with your manager to &lt;s0&gt;drop in to work&lt;/s0&gt; before you return, to say hello to colleagues and get re-familiarised.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180525T073140Z" creationid="Vicky" creationdate="20180519T211909Z">
-        <seg>Queda con tu jefe para &lt;s0&gt;pasarte por el trabajo&lt;/s0&gt; antes de que regreses, para saludar a sus compañeros y volver a familiarizarte.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T104340Z" creationid="Vicky" creationdate="20180519T211909Z">
+        <seg>Aueda con tu jefe para &lt;s0&gt;pasarte por el trabajo&lt;/s0&gt; antes de que regreses, para saludar a tus compañeros y volver a familiarizarte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2661,7 +2661,7 @@
       <tuv lang="EN-GB">
         <seg>If your work place has a &lt;s0&gt;staff bulletin&lt;/s0&gt;, ask to be put on the mailing list.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180602T195622Z" creationid="Vicky" creationdate="20180519T211738Z">
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T104345Z" creationid="Vicky" creationdate="20180519T211738Z">
         <seg>Si tu lugar de trabajo tiene una &lt;s0&gt;plantilla de personal&lt;/s0&gt;, pide que te incluyan en la lista de correo.</seg>
       </tuv>
     </tu>
@@ -4639,7 +4639,7 @@
       <tuv lang="EN-GB">
         <seg>Using social media can be a good way of communicating if you don't feel ready to see them face-to-face.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T211550Z" creationid="Vicky" creationdate="20180519T211550Z">
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T104354Z" creationid="Vicky" creationdate="20180519T211550Z">
         <seg>Usar las redes sociales puede ser una buena forma de comunicación si no te sientes preparado para verlos cara a cara.</seg>
       </tuv>
     </tu>
