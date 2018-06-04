@@ -659,8 +659,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Look after yourself.&lt;/s0&gt; If someone around you is very stressed, you might become stressed too.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T213544Z" creationid="usuario" creationdate="20180519T213544Z">
-        <seg>&lt;s0&gt;Cuida de ti mismo&lt;/s0&gt; Si alguien de tu alrededor está muy estresado, es posible que tú también acabes estresándote.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T093500Z" creationid="usuario" creationdate="20180519T213544Z">
+        <seg>&lt;s0&gt;Cuida de ti mismo&lt;/s0&gt; Si alguien de tu alrededor está muy estresado, es posible que tú también acabes estándolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1325,8 +1325,8 @@
       <tuv lang="EN-GB">
         <seg>Being calm and relaxed will make you more able to help someone else.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T213725Z" creationid="usuario" creationdate="20180519T213725Z">
-        <seg>Si estás calmado y relajado serás más capaz de ayudar a otra persona.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T093532Z" creationid="usuario" creationdate="20180519T213725Z">
+        <seg>Si estás calmado y relajado serás más capaz de ayudar a otras personas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5337,8 +5337,8 @@
       <tuv lang="EN-GB">
         <seg>[I want them to] understand that I may be irritable but I don't mean to hurt them in any way.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T213830Z" creationid="usuario" creationdate="20180519T213801Z">
-        <seg>[Quiero que ellos] entiendan que puedo estar irritable pero que no pretendo hacerles daño de ninguna manera.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T093615Z" creationid="usuario" creationdate="20180519T213801Z">
+        <seg>[Quiero que ellos] entiendan que puedo estar irritable pero que pretendo hacerles daño.</seg>
       </tuv>
     </tu>
     <tu>
