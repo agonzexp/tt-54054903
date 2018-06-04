@@ -1035,8 +1035,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;volunteering&lt;/s0&gt;&lt;s1&gt;.&lt;/s1&gt; For local volunteering ideas and opportunities, see the &lt;a2&gt;National Council For Voluntary Organisations&lt;/a2&gt; website (England) or &lt;a3&gt;Volunteering Wales&lt;/a3&gt; website.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T113813Z" creationid="Patricia" creationdate="20180516T193346Z">
-        <seg>&lt;s0&gt;Voluntariado&lt;/s0&gt;&lt;s1&gt;.&lt;/s1&gt;Para ideas de voluntariados y oportunidades locales, dirígete a nuestra página &lt;a2&gt;National Council For Voluntary Organisations&lt;/a2&gt; (Inglaterra) o la página &lt;a3&gt;Volunteering Wales&lt;/a3&gt;</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T152149Z" creationid="Patricia" creationdate="20180516T193346Z">
+        <seg>&lt;s0&gt;voluntariado&lt;/s0&gt;&lt;s1&gt;.&lt;/s1&gt;Para ideas de voluntariados y oportunidades locales, dirígete a nuestra página &lt;a2&gt;National Council For Voluntary Organisations&lt;/a2&gt; (Inglaterra) o la página &lt;a3&gt;Volunteering Wales&lt;/a3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1955,8 +1955,8 @@
       <tuv lang="EN-GB">
         <seg>For more ideas about coping with pressure and building resilience, see our pages on &lt;a0&gt;stress&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180511T142943Z" creationid="usuario" creationdate="20180511T142243Z">
-        <seg>Para más ideas sobre cómo enfrentarse a la presión y la creación la resiliencia, echa un vistazo a nuestras páginas en &lt;a0&gt;estrés&lt;/a0&gt;.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T151606Z" creationid="usuario" creationdate="20180511T142243Z">
+        <seg>Para más ideas sobre cómo hacer frente a la presión y la creación la resiliencia, echa un vistazo a nuestras páginas en &lt;a0&gt;estrés&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
