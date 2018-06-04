@@ -369,8 +369,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;a1&gt;Find your local Mind here.&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095402Z" creationid="Vicky" creationdate="20180603T095402Z">
-        <seg>&lt;a1&gt;Encuentra tu local Mind aquí.&lt;/a1&gt;</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110535Z" creationid="Vicky" creationdate="20180603T095402Z">
+        <seg>&lt;a1&gt;Encuentra tu oficina de Mind aquí.&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -939,8 +939,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Your local Mind.&lt;/s0&gt; You might find your local Mind branch runs a course to help you look after your wellbeing, build resilience or manage stress.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T095338Z" creationid="Vicky" creationdate="20180603T095338Z">
-        <seg>&lt;s0&gt;Your local Mind.&lt;/s0&gt; Es posible que encuentre que su sucursal local de Mind ejecute un curso para ayudarte a cuidar tu bienestar, desarrollar resistencia o controlar el estrés.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110515Z" creationid="Vicky" creationdate="20180603T095338Z">
+        <seg>&lt;s0&gt;Tu oficina de Mind más cercana.&lt;/s0&gt; Es posible que tu oficina de Mind realice un curso para ayudarte a cuidar tu bienestar, desarrollar resistencia o controlar el estrés.</seg>
       </tuv>
     </tu>
     <tu>
