@@ -297,8 +297,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;a0&gt;depressed&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T205518Z" creationid="Vicky" creationdate="20180519T205518Z">
-        <seg>Deprimido</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110731Z" creationid="Vicky" creationdate="20180519T205518Z">
+        <seg>&lt;a0&gt;deprimido&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -625,8 +625,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Keep in touch&lt;/s0&gt; with colleagues.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T104427Z" creationid="Vicky" creationdate="20180519T211538Z">
-        <seg>&lt;/s0&gt;Mantente en contacto&lt;s0&gt; con tus compañeros.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110648Z" creationid="Vicky" creationdate="20180519T211538Z">
+        <seg>&lt;s0&gt;Mantente en contacto&lt;/s0&gt; con tus compañeros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1259,8 +1259,8 @@
       <tuv lang="EN-GB">
         <seg>Arrange with your manager to &lt;s0&gt;drop in to work&lt;/s0&gt; before you return, to say hello to colleagues and get re-familiarised.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T104340Z" creationid="Vicky" creationdate="20180519T211909Z">
-        <seg>Aueda con tu jefe para &lt;s0&gt;pasarte por el trabajo&lt;/s0&gt; antes de que regreses, para saludar a tus compañeros y volver a familiarizarte.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110717Z" creationid="Vicky" creationdate="20180519T211909Z">
+        <seg>Queda con tu jefe para &lt;s0&gt;pasarte por el trabajo&lt;/s0&gt; antes de que regreses, para saludar a tus compañeros y volver a familiarizarte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6623,8 +6623,8 @@
       <tuv lang="EN-GB">
         <seg>uninterested in life</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T205522Z" creationid="Vicky" creationdate="20180519T205522Z">
-        <seg>desinteresado en la vida</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T110751Z" creationid="Vicky" creationdate="20180519T205522Z">
+        <seg>sin interés por la vida</seg>
       </tuv>
     </tu>
     <tu>
