@@ -915,8 +915,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Visit your GP.&lt;/s0&gt; Your GP can assess whether you are fit to return to work, give you advice as part of your &lt;a1&gt;fit note&lt;/a1&gt; and make suggestions about what changes your employer could make to help you.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193042Z" creationid="Patricia" creationdate="20180521T193042Z">
-        <seg>Su médico de cabecera puede evaluar si está en condiciones de regresar al trabajo, darle consejos como parte de su nota de ajuste y hacer sugerencias sobre los cambios que su empleador podría hacer para ayudarlo.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T103050Z" creationid="Patricia" creationdate="20180521T193042Z">
+        <seg>&lt;s0&gt;Acude a tu médico.&lt;/s0&gt; Tu médico de cabecera puede evaluar si estás en condiciones de regresar al trabajo, darte ciertas recomendaciones como parte del &lt;a1&gt;alta médica&lt;/a1&gt; y sugerirte sobre los cambios que tu jefe podría llevar a cabo para ayudarte.</seg>
       </tuv>
     </tu>
     <tu>
