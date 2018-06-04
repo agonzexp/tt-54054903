@@ -265,8 +265,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;a0&gt;abuse&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T095648Z" creationid="Vicky" creationdate="20180519T201843Z">
-        <seg>&lt;a0&gt;Maltrato&lt;/a0&gt;</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T161019Z" creationid="Vicky" creationdate="20180519T201843Z">
+        <seg>&lt;a0&gt;maltrato&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3181,8 +3181,8 @@
       <tuv lang="EN-GB">
         <seg>Most of the things I worry about are either things I can't change or things which aren't earth-shatteringly important.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180524T222525Z" creationid="Vicky" creationdate="20180519T202143Z">
-        <seg>La mayoría de las cosas que me preocupan son cosas que o bien no puedo cambiar o bien cosas que no son tan importantes.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T161235Z" creationid="Vicky" creationdate="20180519T202143Z">
+        <seg>La mayoría de las cosas que me preocupan son cosas que o bien no puedo cambiar o bien que no son tan importantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5447,8 +5447,8 @@
       <tuv lang="EN-GB">
         <seg>addiction and dependency</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T201907Z" creationid="Vicky" creationdate="20180519T201907Z">
-        <seg>Adicción y dependencia </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T161023Z" creationid="Vicky" creationdate="20180519T201907Z">
+        <seg>adicción y dependencia </seg>
       </tuv>
     </tu>
     <tu>
