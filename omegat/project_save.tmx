@@ -1003,8 +1003,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;joining a community group.&lt;/s0&gt; You can search for local community groups and services on this &lt;a1&gt;government website&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181731Z" creationid="Patricia" creationdate="20180516T193651Z">
-        <seg>&lt;s0&gt;Unirse a una comunidad.&lt;/s0&gt; Encuentra un grupo de ayuda comunitaria en esta &lt;a1&gt;página web del gobierno&lt;/a1&gt;.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T152155Z" creationid="Patricia" creationdate="20180516T193651Z">
+        <seg>&lt;s0&gt;unirse a una comunidad.&lt;/s0&gt; Encuentra un grupo de ayuda comunitaria en esta &lt;a1&gt;página web del gobierno&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1187,8 +1187,8 @@
       <tuv lang="EN-GB">
         <seg>Alternatively, you could check your local noticeboards and newspapers to find out what is available near you.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T181737Z" creationid="Patricia" creationdate="20180516T193840Z">
-        <seg>También puedes mirar en los tablones de anuncios locales y periódicos para encontrar aquellos que están más cerca de ti.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T152439Z" creationid="Patricia" creationdate="20180516T193840Z">
+        <seg>Como alternativa, puedes mirar en los tablones de anuncios locales y periódicos para hallar aquello que esté disponible cerca de ti.</seg>
       </tuv>
     </tu>
     <tu>
