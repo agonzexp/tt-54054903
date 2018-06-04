@@ -128,8 +128,8 @@
       <tuv lang="EN-GB">
         <seg>08444 775 774 (Monday–Friday 9.30am–5.30pm)&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180527T120421Z" creationid="Ainhoa" creationdate="20180519T195837Z">
-        <seg>08444 775 774 (lunes a viernes de 9.30 a.m  5.30 p.m.)</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111126Z" creationid="Ainhoa" creationdate="20180519T195837Z">
+        <seg>08444 775 774 (lunes a viernes de 9.30 a.m. 5.30 p.m.)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1939,8 +1939,8 @@
       <tuv lang="EN-GB">
         <seg>For information on how to request this, see the government's website on &lt;a0&gt;flexible working&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180515T214824Z" creationid="usuario" creationdate="20180515T214824Z">
-        <seg>Para obtener información sobre cómo solicitarlo, visita el sitio web del gobierno sobre trabajo flexible.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T111027Z" creationid="usuario" creationdate="20180515T214824Z">
+        <seg>Para obtener información sobre cómo solicitarlo, visita el sitio web del gobierno sobre &lt;a0&gt;trabajo flexible&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
