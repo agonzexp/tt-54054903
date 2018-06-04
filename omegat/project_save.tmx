@@ -4959,8 +4959,8 @@
       <tuv lang="EN-GB">
         <seg>Who can support me in finding a job?</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T191622Z" creationid="Patricia" creationdate="20180516T191622Z">
-        <seg>¿Quién me puede ayudar a encontrar trabajo?</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T153300Z" creationid="Patricia" creationdate="20180516T191622Z">
+        <seg>¿Quién me puede ayudar a encontrar un trabajo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5231,8 +5231,8 @@
       <tuv lang="EN-GB">
         <seg>You might find that being unemployed affects your confidence, or that it can be disheartening if employers don't get back to you.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T111023Z" creationid="Patricia" creationdate="20180511T190127Z">
-        <seg>Tal vez descubras que estar desempleado afecta a tu confianza, o que puede ser desalentador si tus jefes no te respaldan.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T153150Z" creationid="Patricia" creationdate="20180511T190127Z">
+        <seg>Tal vez descubras que estar desempleado afecte a tu confianza, o que eso puede ser desalentador si tus jefes no te respaldan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5287,8 +5287,8 @@
       <tuv lang="EN-GB">
         <seg>Your local &lt;a0&gt;Jobcentre Plus&lt;/a0&gt; can support you in finding a job that is right for you.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180529T111846Z" creationid="Patricia" creationdate="20180516T191824Z">
-        <seg>Tu &lt;a0&gt;Jobcentre Plus&lt;/a0&gt; más cercano puede ayudarte a encontrar trabajo.</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T153456Z" creationid="Patricia" creationdate="20180516T191824Z">
+        <seg>Tu oficina local de&lt;a0&gt;Jobcentre Plus&lt;/a0&gt; puede ayudarte a encontrar trabajo adecuado para ti.</seg>
       </tuv>
     </tu>
     <tu>
