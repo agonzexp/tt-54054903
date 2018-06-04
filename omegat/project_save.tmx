@@ -821,8 +821,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Support at work, &lt;/s0&gt;such as your line manager, human resources (HR) department, union representatives, or employee assistance schemes.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180603T093125Z" creationid="Vicky" creationdate="20180603T093125Z">
-        <seg>&lt;s0&gt;Soporte en el trabajo, &lt;/s0&gt;como su gerente, departamento de recursos humanos (HR), representantes sindicales o esquemas de asistencia a empleados.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T100238Z" creationid="Vicky" creationdate="20180603T093125Z">
+        <seg>&lt;s0&gt;Soporte en el trabajo, &lt;/s0&gt;como su gerente, departamento de recursos humanos (RRHH), representantes sindicales o esquemas de asistencia a empleados.</seg>
       </tuv>
     </tu>
     <tu>
