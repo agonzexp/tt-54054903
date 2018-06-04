@@ -659,8 +659,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Look after yourself.&lt;/s0&gt; If someone around you is very stressed, you might become stressed too.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T093500Z" creationid="usuario" creationdate="20180519T213544Z">
-        <seg>&lt;s0&gt;Cuida de ti mismo&lt;/s0&gt; Si alguien de tu alrededor está muy estresado, es posible que tú también acabes estándolo.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T094456Z" creationid="usuario" creationdate="20180519T213544Z">
+        <seg>&lt;s0&gt;Cuida de ti mismo.&lt;/s0&gt; Si alguien de tu alrededor está muy estresado, es posible que tú también acabes estándolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,8 +2430,8 @@
       <tuv lang="EN-GB">
         <seg>If this happens, try to take a step back and look after your own wellbeing.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T213646Z" creationid="usuario" creationdate="20180519T213646Z">
-        <seg>Si ocurre esto, trata de dar un paso atrás y cuidar tu propio bienestar.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T094543Z" creationid="usuario" creationdate="20180519T213646Z">
+        <seg>Si ocurre esto, trata de apartarte un poco y hacerte cargo de tu propio bienestar.</seg>
       </tuv>
     </tu>
     <tu>
