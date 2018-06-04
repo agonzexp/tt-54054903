@@ -971,8 +971,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;doing a course.&lt;/s0&gt; The Open University has a number of distance learning courses that are free.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180516T194000Z" creationid="Patricia" creationdate="20180516T194000Z">
-        <seg>&lt;s0&gt;Hacer un curso.&lt;/s0&gt; La Open University posee una variedad de cursos para hacer a distancia gratuitos.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T105721Z" creationid="Patricia" creationdate="20180516T194000Z">
+        <seg>&lt;s0&gt;hacer un curso.&lt;/s0&gt; La Universidad Abierta posee una gran variedad de cursos gratuitos para hacer a distancia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3301,8 +3301,8 @@
       <tuv lang="EN-GB">
         <seg>Open University website</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T185939Z" creationid="Ainhoa" creationdate="20180519T185939Z">
-        <seg>Sitio web Open University</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T105750Z" creationid="Ainhoa" creationdate="20180519T185939Z">
+        <seg>Página web Universidad Abierta</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,6 +3728,14 @@
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180515T220207Z" creationid="usuario" creationdate="20180515T220207Z">
         <seg>Visita la página web del gobierno sobre los derechos del &lt;a0&gt;empleo autónomo&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>See their &lt;a1&gt;website&lt;/a1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T105824Z" creationid="Ainhoa" creationdate="20180604T105824Z">
+        <seg>Visita su &lt;a1&gt;página web&lt;/a1&gt; para más información.</seg>
       </tuv>
     </tu>
     <tu>
