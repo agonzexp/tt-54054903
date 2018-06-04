@@ -2556,8 +2556,8 @@
       <tuv lang="EN-GB">
         <seg>If you have been off sick (or are likely to be) for &lt;s0&gt;four weeks or more&lt;/s0&gt;, your GP or employer can discuss with you a referral to the government scheme &lt;a1&gt;Fit for Work&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193139Z" creationid="Patricia" creationdate="20180521T193139Z">
-        <seg>Si has estado enfermo (o es probable que lo estés) durante cuatro semanas o más, su médico de cabecera o su empleador pueden consultar con usted una referencia al programa del gobierno Fit for Work.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T104052Z" creationid="Patricia" creationdate="20180521T193139Z">
+        <seg>Si has estado enfermo &lt;s0&gt;durante cuatro semanas o más&lt;/s0&gt; (o prevés que lo vas a estar), tu médico de cabecera o tu jefe pueden valorar derivarte al programa del gobierno &lt;a1&gt;Apto para la reincorporación&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
