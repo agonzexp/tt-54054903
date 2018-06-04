@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;money and mental health&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T160808Z" creationid="usuario" creationdate="20180604T160808Z">
+        <seg>&lt;a0&gt;dinero y salud mental&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;a0&gt;problems getting to sleep&lt;/a0&gt;, staying asleep or having nightmares</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="usuario" changedate="20180524T223850Z" creationid="Vicky" creationdate="20180519T210718Z">
@@ -5423,8 +5431,8 @@
       <tuv lang="EN-GB">
         <seg>accept the things you can't change</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T200349Z" creationid="Vicky" creationdate="20180519T194223Z">
-        <seg>Acepta las cosas que no puedes cambiar</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T160718Z" creationid="Vicky" creationdate="20180519T194223Z">
+        <seg>acepta las cosas que no puedes cambiar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5535,8 +5543,8 @@
       <tuv lang="EN-GB">
         <seg>benefits</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T200957Z" creationid="Vicky" creationdate="20180519T200957Z">
-        <seg>Beneficios</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T160814Z" creationid="Vicky" creationdate="20180519T200957Z">
+        <seg>beneficios</seg>
       </tuv>
     </tu>
     <tu>
@@ -5655,24 +5663,24 @@
       <tuv lang="EN-GB">
         <seg>coping as a parent with a mental health problem</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T201751Z" creationid="Vicky" creationdate="20180519T201751Z">
-        <seg>Cómo enfrentar como padre un problema mental</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T160953Z" creationid="Vicky" creationdate="20180519T201751Z">
+        <seg>cómo enfrentar como padre un problema mental</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>coping when supporting someone else</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T201628Z" creationid="Vicky" creationdate="20180519T201628Z">
-        <seg>Cómo lidiar cuando alguien necesita tu apoyo</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T160941Z" creationid="Vicky" creationdate="20180519T201628Z">
+        <seg>salir adelante cuando prestas apoyo a alguien</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>coping with student life</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T201203Z" creationid="Vicky" creationdate="20180519T201203Z">
-        <seg>Superar la vida estudiantil </seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T160841Z" creationid="Vicky" creationdate="20180519T201203Z">
+        <seg>superar la vida estudiantil </seg>
       </tuv>
     </tu>
     <tu>
@@ -5967,8 +5975,8 @@
       <tuv lang="EN-GB">
         <seg>housing and mental health</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T200924Z" creationid="Vicky" creationdate="20180519T200924Z">
-        <seg>Vivienda y salud mental</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T160745Z" creationid="Vicky" creationdate="20180519T200924Z">
+        <seg>vivienda y salud mental</seg>
       </tuv>
     </tu>
     <tu>
@@ -6663,8 +6671,8 @@
       <tuv lang="EN-GB">
         <seg>wellbeing at work</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T201102Z" creationid="Vicky" creationdate="20180519T201102Z">
-        <seg>Buenas relaciones en el trabajo</seg>
+      <tuv lang="ES-ES" changeid="usuario" changedate="20180604T160833Z" creationid="Vicky" creationdate="20180519T201102Z">
+        <seg>bienestar el trabajo</seg>
       </tuv>
     </tu>
     <tu>
