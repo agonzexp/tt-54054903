@@ -595,8 +595,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Help them learn and practise &lt;a1&gt;relaxation techniques&lt;/a1&gt;.&lt;/s0&gt; You could help them research good relaxation techniques and find ways to practise them, such as a weekly yoga class, or setting aside time for breathing exercises at home.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212554Z" creationid="usuario" creationdate="20180519T212554Z">
-        <seg>&lt;s0&gt;Ayúdale a aprender y practicar &lt;a1&gt;técnicas de relajación&lt;/a1&gt;.&lt;/s0&gt; Podrías ayudarle a hallar buenas técnicas de relajación así como formas de practicarlas, como una clase de yoga semanal, o hacer tiempo para practicar ejercicios de respiración en el hogar.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T093031Z" creationid="usuario" creationdate="20180519T212554Z">
+        <seg>&lt;s0&gt;Ayúdales a aprender y practicar &lt;a1&gt;técnicas de relajación&lt;/a1&gt;.&lt;/s0&gt; Podrías ayudarles a hallar buenas técnicas de relajación así como formas de practicarlas, como una clase de yoga semanal, o sacar tiempo para practicar ejercicios de respiración en casa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5201,8 +5201,8 @@
       <tuv lang="EN-GB">
         <seg>You might be able to help your friend or family member look for support around issues like debt, housing problems or difficulties at work.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T092905Z" creationid="usuario" creationdate="20180519T212414Z">
-        <seg>Puede que puedas ayudarles a buscar ayuda con problemas como deudas, no tener una vivienda propia o dificultades en el trabajo.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T093039Z" creationid="usuario" creationdate="20180519T212414Z">
+        <seg>Quizá puedas ayudarles a buscar ayuda con problemas como deudas, no tener una vivienda propia o dificultades en el trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5369,8 +5369,8 @@
       <tuv lang="EN-GB">
         <seg>[When I'm stressed I need friends to] hug me.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212650Z" creationid="usuario" creationdate="20180519T212650Z">
-        <seg>[Cuando estoy estresado necesito amigos para] que me abrazen.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T093127Z" creationid="usuario" creationdate="20180519T212650Z">
+        <seg>[Cuando estoy estresado necesito amigos] que me abracen.</seg>
       </tuv>
     </tu>
     <tu>
