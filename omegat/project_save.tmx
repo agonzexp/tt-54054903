@@ -2564,8 +2564,8 @@
       <tuv lang="EN-GB">
         <seg>If you have been on sickness leave for &lt;s0&gt;more than seven consecutive days&lt;/s0&gt;, consider doing the following before you return to work:</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Patricia" changedate="20180521T193007Z" creationid="Patricia" creationdate="20180521T193007Z">
-        <seg>Si has estado ausente por enfermedad por más de siete días consecutivos, considera hacer lo siguiente antes de regresar al trabajo:</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T102459Z" creationid="Patricia" creationdate="20180521T193007Z">
+        <seg>Si has estado ausente por enfermedad &lt;s0&gt;durante más de siete días consecutivos&lt;/s0&gt;, considera hacer lo siguiente antes de regresar al trabajo:</seg>
       </tuv>
     </tu>
     <tu>
