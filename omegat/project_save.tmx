@@ -587,8 +587,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;Help them &lt;a1&gt;identify their triggers.&lt;/a1&gt;&lt;/s0&gt; You can be specific about things you've observed, but try to stay open-minded and non-judgemental.</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T212003Z" creationid="usuario" creationdate="20180519T212003Z">
-        <seg>&lt;s0&gt;Ayúdale &lt;a1&gt;a identificar sus desencadenantes.&lt;/a1&gt;&lt;/s0&gt;Puedes ser específico sobre las cosas que has observado, pero trata de mantener tu mente abierta y sin prejuicios.</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T092309Z" creationid="usuario" creationdate="20180519T212003Z">
+        <seg>&lt;s0&gt;Ayúdales &lt;a1&gt;a identificar sus desencadenantes.&lt;/a1&gt;&lt;/s0&gt;Puedes especificarles cosas que has observado, pero intenta ser abierto y no juzgar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3064,6 +3064,14 @@
         <seg>Managing pressure</seg>
       </tuv>
       <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180519T201959Z" creationid="Ainhoa" creationdate="20180519T201959Z">
+        <seg>Manejo del estrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Managing stress</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T092004Z" creationid="Ainhoa" creationdate="20180604T092004Z">
         <seg>Manejo del estrés</seg>
       </tuv>
     </tu>
