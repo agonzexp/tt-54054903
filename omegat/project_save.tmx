@@ -997,8 +997,8 @@
       <tuv lang="EN-GB">
         <seg>&lt;s0&gt;how experienced you are at &lt;/s0&gt;&lt;a1&gt;dealing with that particular type of pressure&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="usuario" changedate="20180519T203749Z" creationid="usuario" creationdate="20180519T203726Z">
-        <seg>&lt;s0&gt;tu experiencia &lt;/s0&gt;lidiando con ese tipo particular de presión</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T095340Z" creationid="usuario" creationdate="20180519T203726Z">
+        <seg>&lt;s0&gt;tu experiencia &lt;/s0&gt;&lt;a1&gt;a la hora de lidiar con ese tipo de presión&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1909,8 +1909,8 @@
       <tuv lang="EN-GB">
         <seg>For example:</seg>
       </tuv>
-      <tuv lang="ES-ES" changeid="Vicky" changedate="20180519T194031Z" creationid="Vicky" creationdate="20180519T194031Z">
-        <seg>&lt;s0&gt;Por ejemplo&lt;/s0&gt;</seg>
+      <tuv lang="ES-ES" changeid="Ainhoa" changedate="20180604T095419Z" creationid="Vicky" creationdate="20180519T194031Z">
+        <seg>Por ejemplo</seg>
       </tuv>
     </tu>
     <tu>
